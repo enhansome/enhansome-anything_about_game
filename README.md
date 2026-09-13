@@ -392,34 +392,34 @@ Table of Contents
 
 ## Awesome-Game
 
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 546,786 | 🐛 640 | 🌐 Markdown | 📅 2026-07-14 : Build your own (insert technology here)
-* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 73,252 | 🐛 311 | 📅 2026-09-05 : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-* [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,155 | 🐛 20 | 🌐 HTML | 📅 2024-08-20 : A collection of resources on modern C++
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 546,999 | 🐛 641 | 🌐 Markdown | 📅 2026-07-14 : Build your own (insert technology here)
+* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 73,266 | 🐛 310 | 📅 2026-09-05 : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+* [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,154 | 🐛 20 | 🌐 HTML | 📅 2024-08-20 : A collection of resources on modern C++
 * [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) ⭐ 10,198 | 🐛 21 | 📅 2024-07-04 A resource repository for 3D machine learning
 * [programming-talks](https://github.com/hellerve/programming-talks) ⭐ 7,369 | 🐛 2 | 🌐 Python | 📅 2026-08-07 : Awesome & interesting talks about programming
-* <https://github.com/Kavex/GameDev-Resources> ⭐ 6,907 | 🐛 15 | 📅 2026-04-10
-* <https://github.com/utilForever/game-developer-roadmap> ⭐ 5,780 | 🐛 3 | 🌐 Rust | 📅 2025-01-31 如何成为一个优秀的game程序员
-* [cpplinks](https://github.com/MattPD/cpplinks) ⭐ 5,290 | 🐛 1 | 📅 2026-09-10 : A categorized list of C++ resources.
+* <https://github.com/Kavex/GameDev-Resources> ⭐ 6,908 | 🐛 15 | 📅 2026-04-10
+* <https://github.com/utilForever/game-developer-roadmap> ⭐ 5,781 | 🐛 3 | 🌐 Rust | 📅 2025-01-31 如何成为一个优秀的game程序员
+* [cpplinks](https://github.com/MattPD/cpplinks) ⭐ 5,291 | 🐛 1 | 📅 2026-09-13 : A categorized list of C++ resources.
 * [data-oriented-design](https://github.com/dbartolini/data-oriented-design) ⭐ 4,476 | 🐛 4 | 📅 2026-07-17 : A curated list of data oriented design resources.
 * [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) ⭐ 3,640 | 🐛 49 | 🌐 HTML | 📅 2025-05-02 : A curated list of awesome articles, websites and resources about mental health in the software industry.
-* <https://github.com/notpresident35/learn-awesome-gamedev> ⭐ 3,549 | 🐛 3 | 📅 2026-06-01
-* <https://github.com/gmh5225/awesome-game-security> ⭐ 3,509 | 🐛 0 | 🌐 Python | 📅 2026-09-12
+* <https://github.com/notpresident35/learn-awesome-gamedev> ⭐ 3,548 | 🐛 3 | 📅 2026-06-01
+* <https://github.com/gmh5225/awesome-game-security> ⭐ 3,509 | 🐛 0 | 🌐 Python | 📅 2026-09-13
 * [awesome-bits](https://github.com/keon/awesome-bits) ⭐ 3,141 | 🐛 0 | 🌐 Rust | 📅 2026-08-27 : A curated list of awesome bitwise operations and tricks
-* [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,131 | 🐛 16 | 📅 2026-08-25 : A collection of free software and free culture resources for making amazing games. (mirror)
+* [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,131 | 🐛 17 | 📅 2026-08-25 : A collection of free software and free culture resources for making amazing games. (mirror)
 * [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) ⭐ 2,556 | 🐛 4 | 🌐 CSS | 📅 2022-09-22 : A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome.
 * <https://github.com/raizam/gamedev_libraries> ⭐ 1,769 | 🐛 5 | 📅 2024-04-22
 * <https://github.com/soruly/awesome-acg> ⭐ 1,472 | 🐛 2 | 📅 2026-07-15 嗯！acg
 * <https://github.com/radek-sprta/awesome-game-remakes> ⭐ 1,457 | 🐛 0 | 📅 2026-09-08
 * [awesome-glsl](https://github.com/radixzz/awesome-glsl) ⭐ 1,371 | 🐛 0 | 📅 2023-08-21 : Compilation of the best resources to learn programming OpenGL Shaders
-* [awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline) ⭐ 1,249 | 🐛 3 | 📅 2026-08-30 : List of open-source technologies that help in the process of building a pipeline for CG and VFX productions
+* [awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline) ⭐ 1,250 | 🐛 3 | 📅 2026-08-30 : List of open-source technologies that help in the process of building a pipeline for CG and VFX productions
 * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,180 | 🐛 6 | 📅 2024-05-09 : A curated list of gaming talks (development, design, etc)
 * <https://github.com/OTFCG/Awesome-Game-Analysis> ⭐ 1,164 | 🐛 0 | 🌐 Python | 📅 2026-04-19
-* <https://github.com/leomaurodesenv/game-datasets#readme> ⭐ 1,120 | 🐛 3 | 📅 2026-09-10 各种游戏的数据集
+* <https://github.com/leomaurodesenv/game-datasets#readme> ⭐ 1,120 | 🐛 4 | 📅 2026-09-10 各种游戏的数据集
 * [awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) ⭐ 1,042 | 🐛 2 | 🌐 Python | 📅 2026-09-07 : A curated list of awesome collision detection libraries and resources
 * [hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) ⭐ 951 | 🐛 19 | 🌐 Python | 📅 2020-10-05 : Show some love to your contributors! A widget for your repo README. Visual and clean. Refreshes every hour.
 * <https://github.com/shadowcz007/awesome-metaverse> ⭐ 900 | 🐛 1 | 📅 2023-08-13
 * [awesome-ray-tracing](https://github.com/dannyfritz/awesome-ray-tracing) ⭐ 655 | 🐛 0 | 📅 2025-10-23 : Curated list of ray tracing resources
-* [awesome-wgpu](https://github.com/rofrol/awesome-wgpu) ⭐ 496 | 🐛 3 | 📅 2022-11-03 : A curated list of wgpu code and resources.
+* [awesome-wgpu](https://github.com/rofrol/awesome-wgpu) ⭐ 497 | 🐛 3 | 📅 2022-11-03 : A curated list of wgpu code and resources.
 * [GameDevelopmentLinks](https://github.com/UnterrainerInformatik/GameDevelopmentLinks) ⭐ 485 | 🐛 0 | 📅 2026-08-24 : This is a collection of useful game-development links including, but not restricted to, development with MonoGame.
 * [modern-cpp-tutorial](https://github.com/utilForever/modern-cpp-tutorial) ⭐ 323 | 🐛 1 | 🌐 C++ | 📅 2017-03-30 : A curated list of Modern C++ articles, examples, tutorials, frameworks, libraries, and shiny things.
 * [cpp\_youtube\_channels](https://github.com/shafik/cpp_youtube_channels) ⭐ 278 | 🐛 0 | 📅 2024-09-30 : Listing of C++ Youtube channels for conferences and user groups
@@ -447,14 +447,14 @@ Table of Contents
 
 ## Awesome-General
 
-* <https://github.com/sindresorhus/awesome> ⭐ 505,409 | 🐛 106 | 📅 2026-09-02
-* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 318,763 | 🐛 0 | 📅 2026-09-12
+* <https://github.com/sindresorhus/awesome> ⭐ 505,705 | 🐛 106 | 📅 2026-09-02
+* <https://github.com/awesome-selfhosted/awesome-selfhosted> ⭐ 318,990 | 🐛 0 | 📅 2026-09-12
 * <https://github.com/mehdihadeli/awesome-software-architecture> ⭐ 11,638 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-08
 * <https://github.com/jnv/lists> ⭐ 11,476 | 🐛 27 | 📅 2026-03-23
-* <https://github.com/stanzhai/be-a-professional-programmer> ⭐ 9,895 | 🐛 11 | 📅 2023-02-21
-* <https://github.com/wesbos/awesome-uses> ⭐ 5,299 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-12
-* <https://github.com/MattPD/cpplinks> ⭐ 5,290 | 🐛 1 | 📅 2026-09-10
-* <https://github.com/sacridini/Awesome-Geospatial> ⭐ 5,281 | 🐛 0 | 📅 2026-09-11
+* <https://github.com/stanzhai/be-a-professional-programmer> ⭐ 9,897 | 🐛 11 | 📅 2023-02-21
+* <https://github.com/wesbos/awesome-uses> ⭐ 5,299 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-12
+* <https://github.com/MattPD/cpplinks> ⭐ 5,291 | 🐛 1 | 📅 2026-09-13
+* <https://github.com/sacridini/Awesome-Geospatial> ⭐ 5,283 | 🐛 0 | 📅 2026-09-11
 * <https://github.com/adamsitnik/awesome-dot-net-performance> ⭐ 3,279 | 🐛 7 | 📅 2026-04-27
 * <http://nav.web-hub.cn/>
 * <https://libs.garden/>
@@ -486,7 +486,7 @@ Table of Contents
 #### Graphic
 
 * [fun-with-computer-graphics](https://github.com/zheng95z/fun-with-computer-graphics) ⭐ 2,402 | 🐛 0 | 📅 2022-03-31
-* [graphics-developer-roadmap](https://github.com/prographon/graphics-developer-roadmap) ⭐ 1,343 | 🐛 1 | 📅 2025-07-18
+* [graphics-developer-roadmap](https://github.com/prographon/graphics-developer-roadmap) ⭐ 1,342 | 🐛 1 | 📅 2025-07-18
 * [vfx\_good\_night\_reading](https://github.com/jtomori/vfx_good_night_reading) ⭐ 529 | 🐛 1 | 🌐 HTML | 📅 2022-10-24
 * [graphicsweeklynews](https://github.com/jczh98/graphicsweeklynews) ⭐ 10 | 🐛 6 | 🌐 SCSS | 📅 2023-12-17
 * [acm](https://dl.acm.org/loi/tog)
@@ -542,7 +542,7 @@ Table of Contents
 
 #### Digest
 
-* [daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced) ⭐ 3,005 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-08
+* [daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced) ⭐ 3,004 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-08
 * [gpuopen-developer-guides](https://gpuopen.com/learn/developer-guides/)
 * [game-dev-digest](https://gamedevdigest.com/digests.html)
 * [unity-weekly](https://blog.yucchiy.com/project/unity-weekly/)
@@ -568,7 +568,7 @@ Table of Contents
 
 #### Js/Web
 
-* <https://github.com/dt-fe/weekly> ⭐ 31,118 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-09
+* <https://github.com/dt-fe/weekly> ⭐ 31,127 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-09
 * <https://github.com/Tnfe/TNFE-Weekly> ⭐ 5,389 | 🐛 97 | 📅 2024-12-03
 * <https://github.com/gauseen/blog/issues/4> ⭐ 61 | 🐛 26 | 📅 2023-12-01
 * <https://www.webaudioweekly.com/>
@@ -579,7 +579,7 @@ Table of Contents
 
 #### Java
 
-* <https://github.com/mercyblitz/tech-weekly> ⭐ 3,970 | 🐛 17 | 🌐 Java | 📅 2026-07-27
+* <https://github.com/mercyblitz/tech-weekly> ⭐ 3,969 | 🐛 17 | 🌐 Java | 📅 2026-07-27
 * <http://www.iocoder.cn/?github>
 
 #### Go
@@ -589,7 +589,7 @@ Table of Contents
 
 #### Rust
 
-* <https://github.com/rust-lang/this-week-in-rust> ⭐ 2,635 | 🐛 36 | 🌐 Python | 📅 2026-09-10
+* <https://github.com/rust-lang/this-week-in-rust> ⭐ 2,635 | 🐛 37 | 🌐 Python | 📅 2026-09-10
 * <https://github.com/RustMagazine/rust_magazine_2021> ⭐ 1,227 | 🐛 49 | 🌐 JavaScript | 📅 2024-12-20
 * <https://github.com/rustlang-cn/rust-weekly> ⭐ 809 | 🐛 3 | 📅 2022-07-15
 
@@ -597,7 +597,7 @@ Table of Contents
 
 #### Collection
 
-* [中文博客琅琊榜，只收录精品独立博客](https://github.com/qianguyihao/blog-list) ⭐ 2,809 | 🐛 3 | 📅 2026-06-17
+* [中文博客琅琊榜，只收录精品独立博客](https://github.com/qianguyihao/blog-list) ⭐ 2,810 | 🐛 3 | 📅 2026-06-17
 * [buyixiao](https://meet-blog.buyixiao.xyz/)
 * [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android\&share_source=qq\&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc\&ts=1593720545066)
 * [blogsilove](https://pema.dev/2022/07/29/blogsilove/)
@@ -980,12 +980,12 @@ Table of Contents
 
 #### Collection
 
-* [magictools](https://github.com/ellisonleao/magictools) ⭐ 17,288 | 🐛 16 | 🌐 Markdown | 📅 2026-09-01
+* [magictools](https://github.com/ellisonleao/magictools) ⭐ 17,297 | 🐛 17 | 🌐 Markdown | 📅 2026-09-01
 * <https://orels.sh/p/tools/>
 
 #### Voxel
 
-* [goxel](https://github.com/guillaumechereau/goxel) ⭐ 3,189 | 🐛 129 | 🌐 C++ | 📅 2026-07-26
+* [goxel](https://github.com/guillaumechereau/goxel) ⭐ 3,190 | 🐛 129 | 🌐 C++ | 📅 2026-07-26
 * [UnityRealtimeVoxelizer](https://github.com/seyakara/UnityRealtimeVoxelizer) ⭐ 47 | 🐛 0 | 🌐 C# | 📅 2021-12-23
 * [MagicaVoxel](https://ephtracy.github.io/)
 * [Q-Block](http://kyucon.com/qblock/)
@@ -997,7 +997,7 @@ Table of Contents
 * [Lasp](https://github.com/keijiro/Lasp) ⭐ 1,709 | 🐛 13 | 🌐 C# | 📅 2025-10-10 Low-latency Audio Signal Processing plugin for Unity
 * <https://github.com/raysan5/rfxgen> ⭐ 511 | 🐛 3 | 🌐 C | 📅 2026-08-13
 * [Audio-Manager-for-Unity](https://github.com/microsoft/Audio-Manager-for-Unity) ⚠️ Archived microsoft Audio-Manager-for-Unity
-* <https://github.com/man572142/Bro_Audio> ⭐ 127 | 🐛 4 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/man572142/Bro_Audio> ⭐ 128 | 🐛 4 | 🌐 C# | 📅 2026-09-13
 * <https://github.com/CyberAgentGameEntertainment/AudioConductor> ⭐ 110 | 🐛 0 | 🌐 C# | 📅 2026-09-04
 * <https://github.com/nixon-voxell/UnityAudioVisualizer> ⭐ 99 | 🐛 2 | 🌐 ShaderLab | 📅 2023-07-06
 * <https://github.com/MathewHDYT/Unity-Audio-Manager> ⭐ 88 | 🐛 0 | 🌐 C# | 📅 2024-09-05
@@ -1056,7 +1056,7 @@ Table of Contents
 * <https://www.foundry.com/products/modo> modo
 * <https://www.cheetah3d.com/> cheetah3d
 
-- [awesome-blender](https://github.com/agmmnn/awesome-blender) ⭐ 7,315 | 🐛 29 | 📅 2026-01-22
+- [awesome-blender](https://github.com/agmmnn/awesome-blender) ⭐ 7,319 | 🐛 29 | 📅 2026-01-22
 - [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) ⭐ 2,379 | 🐛 31 | 🌐 Python | 📅 2026-07-07 - A node based visual scripting system designed for motion graphics in Blender
 - [Blender-Render-Engine-for-Unity-MeshSync](https://github.com/Ohmnivore/Blender-Render-Engine-for-Unity-MeshSync) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2023-06-06
 - [awesomeblend](https://github.com/Davetmo/awesomeblend) ⭐ 3 | 🐛 1 | 📅 2021-12-13
@@ -1067,9 +1067,9 @@ Table of Contents
 * <https://github.com/LoganFairbairn/MatLayer> ⭐ 154 | 🐛 13 | 🌐 Python | 📅 2025-03-01
 
 - [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in
-  seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on Github](https://github.com/huxingyi/dust3d) ⭐ 3,496 | 🐛 7 | 🌐 C++ | 📅 2026-08-17.
+  seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on Github](https://github.com/huxingyi/dust3d) ⭐ 3,500 | 🐛 7 | 🌐 C++ | 📅 2026-08-17.
 - [Tissue](https://github.com/alessandro-zomparelli/tissue) ⭐ 1,086 | 🐛 36 | 🌐 Python | 📅 2026-06-07 - Blender's add-on for computational design
-- [Mandelbulber v2](https://github.com/buddhi1980/mandelbulber2) ⭐ 1,053 | 🐛 210 | 🌐 C++ | 📅 2026-09-05 - Mandelbulber creatively generates three-dimensional fractals
+- [Mandelbulber v2](https://github.com/buddhi1980/mandelbulber2) ⭐ 1,053 | 🐛 211 | 🌐 C++ | 📅 2026-09-05 - Mandelbulber creatively generates three-dimensional fractals
 - [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) ⭐ 859 | 🐛 8 | 🌐 C++ | 📅 2025-02-10 - RealTime 3D Strange Attractors scout on GPU
 - [FragM](https://github.com/3Dickulus/FragM) ⭐ 385 | 🐛 8 | 🌐 C++ | 📅 2025-11-28 - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes
 - [Possumwood](https://github.com/martin-pr/possumwood) ⭐ 304 | 🐛 4 | 🌐 C++ | 📅 2021-07-18 - A graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface
@@ -1104,11 +1104,11 @@ Table of Contents
 
 ##### Human/Stage
 
-* <https://github.com/TheRamU/Fay> ⭐ 13,520 | 🐛 131 | 🌐 Python | 📅 2026-08-07
-* <https://github.com/datascale-ai/opentalking> ⭐ 2,992 | 🐛 23 | 🌐 Python | 📅 2026-09-04 面向实时对话的开源数字人产线：LLM、TTS、WebRTC、角色音色与可插拔模型后端
-* <https://github.com/DanielSWolf/rhubarb-lip-sync> ⭐ 2,605 | 🐛 25 | 🌐 C++ | 📅 2026-06-16
+* <https://github.com/TheRamU/Fay> ⭐ 13,522 | 🐛 131 | 🌐 Python | 📅 2026-08-07
+* <https://github.com/datascale-ai/opentalking> ⭐ 2,998 | 🐛 23 | 🌐 Python | 📅 2026-09-04 面向实时对话的开源数字人产线：LLM、TTS、WebRTC、角色音色与可插拔模型后端
+* <https://github.com/DanielSWolf/rhubarb-lip-sync> ⭐ 2,607 | 🐛 25 | 🌐 C++ | 📅 2026-06-16
 * [MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) ⭐ 2,466 | 🐛 53 | 🌐 C# | 📅 2026-01-10
-* <https://github.com/YUANZHUO-BNU/metahuman_overview> ⭐ 1,200 | 🐛 1 | 📅 2025-01-08
+* <https://github.com/YUANZHUO-BNU/metahuman_overview> ⭐ 1,202 | 🐛 1 | 📅 2025-01-08
 * <https://github.com/Danial-Kord/DigiHuman> ⭐ 586 | 🐛 11 | 🌐 C# | 📅 2026-05-05
 * [com.unity.demoteam.digital-human](https://github.com/Unity-Technologies/com.unity.demoteam.digital-human) ⭐ 569 | 🐛 16 | 🌐 C# | 📅 2025-01-15 Library of tech features used to realize the digital human from The Heretic and Enemies.
 * [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting) ⭐ 463 | 🐛 12 | 🌐 C# | 📅 2026-04-23
@@ -1145,7 +1145,7 @@ Table of Contents
 
 #### Effect
 
-* [Effekseer](https://github.com/effekseer/Effekseer) ⭐ 1,764 | 🐛 88 | 🌐 C | 📅 2026-09-05
+* [Effekseer](https://github.com/effekseer/Effekseer) ⭐ 1,764 | 🐛 88 | 🌐 C | 📅 2026-09-13
 * [fusion](https://www.blackmagicdesign.com/products/fusion)
 * [nuke](https://www.foundry.com/products/nuke)
 * [emberGen](https://jangafx.com/software/embergen/)
@@ -1164,11 +1164,11 @@ Table of Contents
 
 #### Remesh
 
-* <https://github.com/huxingyi/autoremesher> ⭐ 3,452 | 🐛 35 | 🌐 C++ | 📅 2026-09-03
+* <https://github.com/huxingyi/autoremesher> ⭐ 3,456 | 🐛 35 | 🌐 C++ | 📅 2026-09-03
 
 #### Mesh
 
-* [meshoptimizer](https://github.com/zeux/meshoptimizer) ⭐ 8,321 | 🐛 6 | 🌐 C++ | 📅 2026-09-12 Mesh optimization library that makes meshes smaller and faster to render
+* [meshoptimizer](https://github.com/zeux/meshoptimizer) ⭐ 8,325 | 🐛 5 | 🌐 C++ | 📅 2026-09-13 Mesh optimization library that makes meshes smaller and faster to render
 * [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) ⭐ 2,049 | 🐛 12 | 🌐 C# | 📅 2026-01-07 Mesh simplification for Unity.
 * <https://github.com/m-schuetz/SimLOD> ⭐ 518 | 🐛 4 | 🌐 C++ | 📅 2024-09-05
 * <https://github.com/staggartcreations/MeshLOD2Fbx> ⭐ 170 | 🐛 0 | 🌐 C# | 📅 2025-08-20  An editor utility for exporting the LODs, generated by Unity 6.2+'s MeshLOD system, and exporting them to an FBX file.
@@ -1270,7 +1270,7 @@ Table of Contents
 
 #### PIX-Texture
 
-* [Sprite Fusion Pixel Snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) ⭐ 3,154 | 🐛 0 | 🌐 Rust | 📅 2026-07-16 - Free and open-source tool that cleans AI-generated pixel art by restoring a consistent pixel grid and quantized color palette.
+* [Sprite Fusion Pixel Snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) ⭐ 3,163 | 🐛 0 | 🌐 Rust | 📅 2026-07-16 - Free and open-source tool that cleans AI-generated pixel art by restoring a consistent pixel grid and quantized color palette.
 * [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - Generate, animate, edit, and export game-ready pixel art assets from text prompts.
 * [pixelover](https://deakcor.itch.io/pixelover)
 * [spritemate](http://www.spritemate.com/)
@@ -1296,12 +1296,12 @@ Table of Contents
 
 #### Texture-Compression
 
-* <https://github.com/phoboslab/qoi> ⭐ 7,526 | 🐛 32 | 🌐 C | 📅 2026-05-29
-* [basis\_universal](https://github.com/BinomialLLC/basis_universal) ⭐ 3,106 | 🐛 127 | 🌐 C++ | 📅 2026-09-01
+* <https://github.com/phoboslab/qoi> ⭐ 7,525 | 🐛 32 | 🌐 C | 📅 2026-05-29
+* [basis\_universal](https://github.com/BinomialLLC/basis_universal) ⭐ 3,107 | 🐛 127 | 🌐 C++ | 📅 2026-09-01
 
 #### Texture-Tool
 
-* [MyPaint](https://github.com/mypaint/mypaint) ⭐ 2,976 | 🐛 226 | 🌐 Python | 📅 2026-06-16 - Graphics editor for digital painters with a focus on painting rather than image manipulation or post processing
+* [MyPaint](https://github.com/mypaint/mypaint) ⭐ 2,975 | 🐛 227 | 🌐 Python | 📅 2026-09-13 - Graphics editor for digital painters with a focus on painting rather than image manipulation or post processing
 * [Imogen](https://github.com/CedricGuillemet/Imogen) ⭐ 785 | 🐛 13 | 🌐 Python | 📅 2020-06-27 - GPU Texture generator using dear imgui for UI
 * [Cascade Image Editor](https://github.com/ttddee/Cascade) ⚠️ Archived - A node-based image editor with GPU-acceleration
 * [Splashdown](https://github.com/Ale1/Splashdown) ⭐ 34 | 🐛 3 | 🌐 C# | 📅 2025-06-15 Splashdown - A Unity open-source splash and icon generator
@@ -1315,7 +1315,7 @@ Table of Contents
 * [The Gimp](https://www.gimp.org) - A cross-platform image editor
 * <http://www.snakehillgames.com/spritelamp/>
 
-- [hdrview](https://github.com/wkjarosz/hdrview) ⭐ 447 | 🐛 4 | 🌐 C++ | 📅 2026-09-04 hdrview
+- [hdrview](https://github.com/wkjarosz/hdrview) ⭐ 448 | 🐛 4 | 🌐 C++ | 📅 2026-09-04 hdrview
 - [ImageViewer](https://github.com/kopaka1822/ImageViewer) ⭐ 417 | 🐛 2 | 🌐 C# | 📅 2026-03-27 HDR, PFM, DDS, KTX, EXR, PNG, JPG, BMP image viewer and manipulator
 - [EZTextureProcessor](https://github.com/EZhex1991/EZTextureProcessor) ⭐ 58 | 🐛 0 | 🌐 C# | 📅 2022-08-06 A bunch of texture tools for unity
 - <http://renderhjs.net/shoebox/>
@@ -1329,7 +1329,7 @@ Table of Contents
 - [doodad](https://doodad.dev/)
 - [hdrihaven](https://hdrihaven.com/)
 
-* [unity-texture-packer](https://github.com/andydbc/unity-texture-packer) ⭐ 922 | 🐛 0 | 🌐 C# | 📅 2026-04-21   Utility to combine color channels from different textures into a single output.
+* [unity-texture-packer](https://github.com/andydbc/unity-texture-packer) ⭐ 923 | 🐛 0 | 🌐 C# | 📅 2026-04-21   Utility to combine color channels from different textures into a single output.
 * [texture\_maker](https://github.com/M-Fatah/texture_maker) ⭐ 418 | 🐛 1 | 🌐 C# | 📅 2020-01-01  A texture maker tool for unity.
 * [SmartTexture](https://github.com/phi-lira/SmartTexture) ⭐ 179 | 🐛 4 | 🌐 C# | 📅 2021-04-22 Unity tool to pack texture channels into a single texture.
 * [VFXTextureMaker](https://github.com/haw2fregel/VFXTextureMaker) ⭐ 87 | 🐛 0 | 🌐 C# | 📅 2025-03-21
@@ -1338,9 +1338,9 @@ Table of Contents
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
 * [mixture](https://openupm.com/packages/com.alelievr.mixture/) Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime. Mixture is very flexible, easily customizable through ShaderGraph and a simple C# API, fast with it's GPU based workflow and compatible with all the render pipelines thanks to the new Custom Render Texture API.
 
-- [upscayl](https://github.com/upscayl/upscayl) ⭐ 49,191 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-20 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+- [upscayl](https://github.com/upscayl/upscayl) ⭐ 49,214 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-20 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - <https://github.com/weihaox/awesome-image-translation> ⭐ 1,239 | 🐛 0 | 📅 2025-09-20
-- [texturelab](https://github.com/njbrown/texturelab) ⭐ 805 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-03 About Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator
+- [texturelab](https://github.com/njbrown/texturelab) ⭐ 806 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-03 About Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator
 - [procedural-stochastic-texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) ⚠️ Archived Modified Shader Graph package implementing Procedural Stochastic Texturing
 - [BakeShader](https://github.com/Cyanilux/BakeShader) ⭐ 218 | 🐛 1 | 🌐 C# | 📅 2024-03-04 Unity editor tool for baking shaders to textures. Blit2D, Blit3D, or MeshRenderer (uses model UV). Adds options to Material & MeshRenderer context menus and Editor Window (under Window/Cyanilux/BakeShader)
 - [Waifu2xBarracuda](https://github.com/keijiro/Waifu2xBarracuda) ⭐ 211 | 🐛 0 | 🌐 C# | 📅 2021-08-12 Waifu2x Unity Barracuda implementation
@@ -1386,10 +1386,10 @@ Table of Contents
 - [Unity-SpriteAssist](https://github.com/sr4dev/Unity-SpriteAssist) ⭐ 275 | 🐛 2 | 🌐 C# | 📅 2026-09-11
 - [AtlasGenerator](https://github.com/UniGameTeam/UniGame.AtlasGenerator) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2024-01-13 Rule based SpriteAtlas Generator for Unity3D
 
-* <https://github.com/Elringus/SpriteDicing> ⭐ 1,527 | 🐛 1 | 🌐 Rust | 📅 2026-09-11 这才叫图集工具
+* <https://github.com/Elringus/SpriteDicing> ⭐ 1,528 | 🐛 1 | 🌐 Rust | 📅 2026-09-11 这才叫图集工具
 * <https://github.com/JingFengJi/UpdateSpriteAssetTool> ⭐ 28 | 🐛 0 | 🌐 C# | 📅 2019-08-09
 
-- [sprite-dicing](https://github.com/elringus/sprite-dicing) ⭐ 1,527 | 🐛 1 | 🌐 Rust | 📅 2026-09-11
+- [sprite-dicing](https://github.com/elringus/sprite-dicing) ⭐ 1,528 | 🐛 1 | 🌐 Rust | 📅 2026-09-11
 - [MA\_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) ⭐ 500 | 🐛 5 | 🌐 C# | 📅 2022-11-09 Texture atlas creator for Unity
 - [sprite-animations](https://github.com/no-slopes/sprite-animations) ⭐ 112 | 🐛 4 | 🌐 C# | 📅 2024-09-05
 - [SpriteSlicer](https://github.com/fadookie/SpriteSlicer) ⭐ 62 | 🐛 0 | 🌐 C# | 📅 2024-10-02 Tool to export Unity sprite sheet slices as individual images
@@ -1514,7 +1514,7 @@ Table of Contents
 
 #### MotionMatching
 
-* <https://github.com/orangeduck/Motion-Matching> ⭐ 915 | 🐛 12 | 🌐 C++ | 📅 2025-02-06
+* <https://github.com/orangeduck/Motion-Matching> ⭐ 916 | 🐛 12 | 🌐 C++ | 📅 2025-02-06
 * <https://github.com/JLPM22/MotionMatching> ⭐ 595 | 🐛 3 | 🌐 C# | 📅 2026-04-24
 * <https://github.com/nashnie/MotionMatching> ⭐ 393 | 🐛 0 | 🌐 C# | 📅 2022-05-14
 * <https://github.com/dreaw131313/MotionMatchingByDreaw> ⭐ 352 | 🐛 7 | 🌐 C# | 📅 2025-04-07
@@ -1534,7 +1534,7 @@ Table of Contents
 * <https://github.com/jongallant/Unity-Bullet-Hell> ⭐ 332 | 🐛 8 | 🌐 C# | 📅 2022-01-04
 * <https://github.com/rygo6/CardExample-Unity> ⭐ 139 | 🐛 2 | 🌐 C# | 📅 2017-09-19
 * <https://github.com/IainS1986/UnityCoverFlow> ⭐ 70 | 🐛 1 | 🌐 C# | 📅 2019-10-09
-* [Unity-Proportional-Navigation-Collection](https://github.com/Woreira/Unity-Proportional-Navigation-Collection) ⭐ 63 | 🐛 0 | 🌐 C# | 📅 2023-01-14 A collection of PN guidance systems, in Unity
+* [Unity-Proportional-Navigation-Collection](https://github.com/Woreira/Unity-Proportional-Navigation-Collection) ⭐ 64 | 🐛 0 | 🌐 C# | 📅 2023-01-14 A collection of PN guidance systems, in Unity
 * <https://github.com/iWoz/path_follow_steer> ⭐ 45 | 🐛 0 | 🌐 C# | 📅 2023-01-27 集群跟随路径移动
 * <https://github.com/huailiang/Parabola> ⭐ 38 | 🐛 1 | 🌐 C# | 📅 2020-06-29
 * <https://github.com/redwyre/com.redwyre.physics-custom-authoring> ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2025-04-24
@@ -1557,7 +1557,7 @@ Table of Contents
 
 #### Animation-Controller
 
-* <https://github.com/rurre/PumkinsAvatarTools> ⭐ 822 | 🐛 25 | 🌐 C# | 📅 2025-05-06 unity 表情
+* <https://github.com/rurre/PumkinsAvatarTools> ⭐ 824 | 🐛 25 | 🌐 C# | 📅 2025-05-06 unity 表情
 * [DOTSAnimation](https://github.com/gamedev-pro/DOTSAnimation) ⭐ 571 | 🐛 3 | 🌐 C# | 📅 2023-04-05 A high level Animation State Machine Framework for Unity DOTS
 * [dmotion](https://github.com/gamedev-pro/dmotion) ⭐ 571 | 🐛 3 | 🌐 C# | 📅 2023-04-05 DMotion - A high level Animation Framework for Unity DOTS
 * <https://github.com/huailiang/knead_proj> ⭐ 515 | 🐛 0 | 🌐 C# | 📅 2019-10-06 unity  捏脸
@@ -1595,7 +1595,7 @@ Table of Contents
 #### Character-Controller
 
 * [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller) ⭐ 2,165 | 🐛 5 | 🌐 C# | 📅 2023-10-08
-* [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System) ⭐ 1,445 | 🐛 9 | 🌐 C# | 📅 2023-11-03
+* [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System) ⭐ 1,446 | 🐛 9 | 🌐 C# | 📅 2023-11-03
 * [2D-Character-Controller](https://github.com/Brackeys/2D-Character-Controller) ⭐ 1,289 | 🐛 46 | 🌐 C# | 📅 2023-06-28
 * <https://github.com/dbrizov/NaughtyCharacter> ⭐ 1,076 | 🐛 3 | 🌐 C# | 📅 2026-04-12
 * [Celeste-Movement](https://github.com/mixandjam/Celeste-Movement) ⭐ 824 | 🐛 3 | 🌐 C# | 📅 2022-08-08 Recreating the movement and feel from Celeste
@@ -1603,7 +1603,7 @@ Table of Contents
 * <https://github.com/Wafflus/unity-genshin-impact-movement-system> ⭐ 663 | 🐛 2 | 🌐 C# | 📅 2022-04-13
 * [Project\_TCC](https://github.com/unity3d-jp/Project_TCC) ⭐ 557 | 🐛 3 | 🌐 C# | 📅 2024-04-30
 * [Erbium](https://github.com/mikhomak/Erbium) ⭐ 501 | 🐛 0 | 🌐 C# | 📅 2025-05-26  🤺Third Person Character Controller for unity🤺
-* [CharacterControllerSamples](https://github.com/Unity-Technologies/CharacterControllerSamples) ⭐ 407 | 🐛 12 | 🌐 C# | 📅 2026-08-24
+* [CharacterControllerSamples](https://github.com/Unity-Technologies/CharacterControllerSamples) ⭐ 408 | 🐛 12 | 🌐 C# | 📅 2026-08-24
 * [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) ⭐ 386 | 🐛 25 | 🌐 C# | 📅 2021-11-22 Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
 * <https://github.com/mixandjam/Batman-Arkham-Combat> ⭐ 380 | 🐛 1 | 🌐 C# | 📅 2025-04-10
 * <https://github.com/Another-Axiom/GorillaLocomotion> ⭐ 234 | 🐛 52 | 🌐 C# | 📅 2023-04-28
@@ -1649,14 +1649,14 @@ Table of Contents
 
 #### Unity-Tool
 
-* [lottie](https://github.com/diffusionstudio/lottie) ⭐ 5,456 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-25 Open-source skill and harness for generating production ready Lottie animations with codex/claude code
-* <https://github.com/brunomikoski/Animation-Sequencer> ⭐ 1,234 | 🐛 7 | 🌐 C# | 📅 2026-03-04
+* [lottie](https://github.com/diffusionstudio/lottie) ⭐ 5,459 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-25 Open-source skill and harness for generating production ready Lottie animations with codex/claude code
+* <https://github.com/brunomikoski/Animation-Sequencer> ⭐ 1,235 | 🐛 7 | 🌐 C# | 📅 2026-03-04
 * <https://github.com/OpenVGLab/OmniLottie> ⭐ 780 | 🐛 8 | 🌐 Python | 📅 2026-04-06
 * <https://github.com/wieslawsoltes/Svg.Skia> ⭐ 732 | 🐛 0 | 🌐 C# | 📅 2026-08-27
 * <https://github.com/DhafinFawwaz/Unity-AnimationUI> ⭐ 702 | 🐛 14 | 🌐 C# | 📅 2026-02-04
-* <https://github.com/SwaggyMacro/LottieViewConvert> ⭐ 627 | 🐛 2 | 🌐 C# | 📅 2026-08-13
+* <https://github.com/SwaggyMacro/LottieViewConvert> ⭐ 628 | 🐛 2 | 🌐 C# | 📅 2026-08-13
 * [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) ⚠️ Archived
-* <https://github.com/gindemit/unity-rlottie> ⭐ 274 | 🐛 20 | 🌐 C# | 📅 2026-09-11
+* <https://github.com/gindemit/unity-rlottie> ⭐ 274 | 🐛 20 | 🌐 C# | 📅 2026-09-13
 * <https://github.com/leetful/u.movin> ⭐ 274 | 🐛 5 | 🌐 C# | 📅 2019-05-27
 * <https://github.com/medvejut/dotween-timeline> ⭐ 272 | 🐛 4 | 🌐 C# | 📅 2026-08-01
 * <https://github.com/mihakrajnc/UITTimeline> ⭐ 217 | 🐛 7 | 🌐 C# | 📅 2023-09-06
@@ -1727,20 +1727,20 @@ Table of Contents
 
 ## Console/Command/Shell/Debugger
 
-* <https://github.com/wavetermdev/waveterm> ⭐ 22,259 | 🐛 574 | 🌐 Go | 📅 2026-09-10
+* <https://github.com/wavetermdev/waveterm> ⭐ 22,264 | 🐛 576 | 🌐 Go | 📅 2026-09-10
 * <https://github.com/Tyrrrz/CliWrap> ⭐ 4,995 | 🐛 3 | 🌐 C# | 📅 2026-09-01 命令行
-* <https://github.com/Gaurav-Gosain/tuios> ⭐ 3,626 | 🐛 31 | 🌐 Go | 📅 2026-09-11
+* <https://github.com/Gaurav-Gosain/tuios> ⭐ 3,631 | 🐛 31 | 🌐 Go | 📅 2026-09-13
 * <https://github.com/mayuki/Cocona> ⚠️ Archived
 * <https://github.com/natemcmaster/CommandLineUtils> ⭐ 2,273 | 🐛 7 | 🌐 C# | 📅 2026-07-01 命令行
-* <https://github.com/LittleLittleCloud/RazorConsole> ⭐ 1,734 | 🐛 33 | 🌐 C# | 📅 2026-05-18
+* <https://github.com/LittleLittleCloud/RazorConsole> ⭐ 1,733 | 🐛 33 | 🌐 C# | 📅 2026-05-18
 * <https://github.com/Tyrrrz/CliFx> ⭐ 1,615 | 🐛 5 | 🌐 C# | 📅 2026-09-01 命令行
-* <https://github.com/nashaofu/shell360> ⭐ 1,156 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-12
-* <https://github.com/adamralph/bullseye> ⭐ 954 | 🐛 8 | 🌐 C# | 📅 2026-09-08
-* <https://github.com/jinek/Consolonia> ⭐ 826 | 🐛 52 | 🌐 C# | 📅 2026-09-12
-* [process-governor](https://github.com/lowleveldesign/process-governor) ⭐ 815 | 🐛 1 | 🌐 C# | 📅 2026-07-08 This application allows you to put various limits on a Windows process.
-* <https://github.com/adamralph/simple-exec> ⭐ 810 | 🐛 7 | 🌐 C# | 📅 2026-09-07 命令行
+* <https://github.com/nashaofu/shell360> ⭐ 1,156 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-13
+* <https://github.com/adamralph/bullseye> ⭐ 954 | 🐛 2 | 🌐 C# | 📅 2026-09-13
+* <https://github.com/jinek/Consolonia> ⭐ 826 | 🐛 52 | 🌐 C# | 📅 2026-09-13
+* [process-governor](https://github.com/lowleveldesign/process-governor) ⭐ 816 | 🐛 1 | 🌐 C# | 📅 2026-07-08 This application allows you to put various limits on a Windows process.
+* <https://github.com/adamralph/simple-exec> ⭐ 810 | 🐛 1 | 🌐 C# | 📅 2026-09-13 命令行
 * [runtime-monitoring](https://github.com/JohnBaracuda/com.baracuda.runtime-monitoring) ⭐ 469 | 🐛 6 | 🌐 C# | 📅 2024-04-06
-* [RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl) ⭐ 336 | 🐛 11 | 🌐 C++ | 📅 2026-09-12
+* [RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl) ⭐ 337 | 🐛 11 | 🌐 C++ | 📅 2026-09-13
 * [Typin](https://github.com/adambajguz/Typin) ⭐ 252 | 🐛 32 | 🌐 C# | 📅 2025-06-18 Declarative framework for interactive CLI applications
 * <https://github.com/mayuki/Chell> ⭐ 247 | 🐛 0 | 🌐 C# | 📅 2021-10-11 Write scripts with the power of C# and .NET
 * <https://github.com/gwaredd/unium> ⭐ 238 | 🐛 5 | 🌐 C# | 📅 2022-02-08
@@ -1778,7 +1778,7 @@ Table of Contents
 
 #### Terrain
 
-* <https://github.com/louis-e/arnis> ⭐ 17,826 | 🐛 124 | 🌐 Rust | 📅 2026-09-09 Generate any location from the real world in Minecraft with a high level of detail.
+* <https://github.com/louis-e/arnis> ⭐ 17,853 | 🐛 125 | 🌐 Rust | 📅 2026-09-09 Generate any location from the real world in Minecraft with a high level of detail.
 * <https://github.com/staggartcreations/UnityTerrainLayerSampler> ⭐ 74 | 🐛 0 | 🌐 C# | 📅 2022-02-16
 * <https://github.com/vibe-stack/super-terrain> ⭐ 70 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-01 A browser-first, partitioned mesh-terrain editor inspired by Unreal Engine 5.8's Mesh Terrain architecture.
 * <https://github.com/JuniorDjjr/Unity-Procedural-Stochastic-Texture-Terrain-Shader> ⭐ 65 | 🐛 3 | 🌐 HLSL | 📅 2023-02-01
@@ -1825,7 +1825,7 @@ Table of Contents
 
 * [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) ⭐ 7,821 | 🐛 29 | 🌐 Python | 📅 2024-05-25 blender plugin proceDurally spaceShip
 * <https://github.com/dgreenheck/ez-tree> ⭐ 1,628 | 🐛 9 | 🌐 JavaScript | 📅 2026-07-16
-* [3DWorld](https://github.com/fegennari/3DWorld) ⭐ 1,418 | 🐛 0 | 🌐 C++ | 📅 2026-09-12
+* [3DWorld](https://github.com/fegennari/3DWorld) ⭐ 1,418 | 🐛 0 | 🌐 C++ | 📅 2026-09-13
 * [Edgar-Unity](https://github.com/OndrejNepozitek/Edgar-Unity) ⭐ 912 | 🐛 12 | 🌐 C# | 📅 2026-08-18
 * [hedera](https://github.com/radiatoryang/hedera) ⭐ 814 | 🐛 3 | 🌐 C# | 📅 2022-06-23  paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
 * [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain) ⚠️ Archived
@@ -1926,10 +1926,10 @@ Table of Contents
 * [PLY](https://zh.wikipedia.org/wiki/PLY)
 * [USD](https://graphics.pixar.com/usd/docs/index.html)
 
-- [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/AcademySoftwareFoundation/openvdb) ⭐ 3,402 | 🐛 242 | 🌐 C++ | 📅 2026-09-12) - Volumetric data
-- [OpenImageIO](https://github.com/OpenImageIO/oiio) ⭐ 2,363 | 🐛 194 | 🌐 C++ | 📅 2026-09-11 - A library for reading and writing images in many common and VFX related formats
-- [MaterialX](https://github.com/materialx/MaterialX) ⭐ 2,255 | 🐛 326 | 🌐 C++ | 📅 2026-09-11 - Materials and look-dev
-- [OpenTimelineIO](http://opentimeline.io) ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO) ⭐ 1,979 | 🐛 213 | 🌐 C++ | 📅 2026-09-12) - Editorial timeline
+- [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/AcademySoftwareFoundation/openvdb) ⭐ 3,403 | 🐛 242 | 🌐 C++ | 📅 2026-09-12) - Volumetric data
+- [OpenImageIO](https://github.com/OpenImageIO/oiio) ⭐ 2,363 | 🐛 192 | 🌐 C++ | 📅 2026-09-13 - A library for reading and writing images in many common and VFX related formats
+- [MaterialX](https://github.com/materialx/MaterialX) ⭐ 2,256 | 🐛 328 | 🌐 C++ | 📅 2026-09-11 - Materials and look-dev
+- [OpenTimelineIO](http://opentimeline.io) ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO) ⭐ 1,981 | 🐛 214 | 🌐 C++ | 📅 2026-09-12) - Editorial timeline
 - [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/AcademySoftwareFoundation/openexr) ⭐ 1,843 | 🐛 89 | 🌐 C | 📅 2026-09-08) - exceptional image format for visual effects purposes, pioneered by ILM
 - [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) ⚠️ Archived - Example-based texture synthesis written in Rust
 - [DracoUnity](https://github.com/atteneder/DracoUnity) ⭐ 273 | 🐛 2 | 🌐 C# | 📅 2023-11-10 Unity package that integrates the Draco 3D data compression library within Unity.
@@ -1952,13 +1952,13 @@ Table of Contents
 
 #### Metadata/Excel/Schema/Proto
 
-* <https://github.com/vriad/zod> ⭐ 43,929 | 🐛 53 | 🌐 TypeScript | 📅 2026-09-12
-* <https://github.com/SheetJS/sheetjs> ⭐ 36,338 | 🐛 133 | 📅 2024-04-18
+* <https://github.com/vriad/zod> ⭐ 43,931 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-13
+* <https://github.com/SheetJS/sheetjs> ⭐ 36,340 | 🐛 133 | 📅 2024-04-18
 * <https://github.com/alibaba/easyexcel> ⚠️ Archived
-* <https://github.com/rjsf-team/react-jsonschema-form> ⭐ 15,897 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-12
-* <https://github.com/quicktype/quicktype> ⭐ 13,864 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-10
+* <https://github.com/rjsf-team/react-jsonschema-form> ⭐ 15,896 | 🐛 132 | 🌐 TypeScript | 📅 2026-09-13
+* <https://github.com/quicktype/quicktype> ⭐ 13,866 | 🐛 223 | 🌐 TypeScript | 📅 2026-09-13
 * <https://github.com/xaboy/form-create> ⭐ 7,100 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-09
-* [luban](https://github.com/focus-creative-games/luban) ⭐ 4,578 | 🐛 0 | 🌐 C# | 📅 2026-09-10luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
+* [luban](https://github.com/focus-creative-games/luban) ⭐ 4,579 | 🐛 0 | 🌐 C# | 📅 2026-09-10luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
 * <https://github.com/vue-generators/vue-form-generator> ⭐ 2,987 | 🐛 143 | 🌐 JavaScript | 📅 2023-01-11
 * <https://github.com/EPPlusSoftware/EPPlus> ⭐ 2,036 | 🐛 99 | 🌐 C# | 📅 2026-09-11
 * <https://github.com/davyxu/tabtoy> ⭐ 1,853 | 🐛 30 | 🌐 Go | 📅 2024-06-19
@@ -1972,7 +1972,7 @@ Table of Contents
 * <https://github.com/yretenai/Cethleann> ⚠️ Archived
 * <https://github.com/NtreevSoft/Crema> ⭐ 69 | 🐛 17 | 🌐 C# | 📅 2022-12-07
 * [dogma](https://github.com/kstenerud/dogma) ⭐ 66 | 🐛 0 | 📅 2023-05-27 Dogma: A modernized metalanguage with better expressiveness and binary grammar support
-* <https://github.com/Nimblesite/typeDiagram> ⭐ 62 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-09
+* <https://github.com/Nimblesite/typeDiagram> ⭐ 62 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-13
 * [go-xlsx-exporter](https://github.com/wingcd/go-xlsx-exporter) ⭐ 55 | 🐛 0 | 🌐 Go | 📅 2025-01-25 a tool for parse xlsx and export to other fomart and data, such as: probuf3 file and buffers, golang, csharp and so on
 * <https://github.com/yuyixiaoxiang/electron_excel_merge> ⭐ 42 | 🐛 0 | 🌐 HTML | 📅 2026-04-28
 * [table-export](https://github.com/821869798/table-export) ⭐ 40 | 🐛 0 | 🌐 Go | 📅 2025-07-19
@@ -1989,19 +1989,19 @@ Table of Contents
 #### Exchange
 
 * <https://github.com/alibaba/DataX> ⭐ 17,353 | 🐛 1,360 | 🌐 Java | 📅 2026-07-07 数据交换
-* [juicefs](https://github.com/juicedata/juicefs) ⭐ 14,419 | 🐛 208 | 🌐 Go | 📅 2026-09-10JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-* [datahub](https://github.com/linkedin/datahub) ⭐ 12,701 | 🐛 1,308 | 🌐 Python | 📅 2026-09-12 The Metadata Platform for the Modern Data Stack
-* <https://github.com/wgzhao/Addax> ⭐ 1,436 | 🐛 2 | 🌐 Java | 📅 2026-09-12 进化版 datax
+* [juicefs](https://github.com/juicedata/juicefs) ⭐ 14,420 | 🐛 208 | 🌐 Go | 📅 2026-09-10JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+* [datahub](https://github.com/linkedin/datahub) ⭐ 12,704 | 🐛 1,306 | 🌐 Python | 📅 2026-09-13 The Metadata Platform for the Modern Data Stack
+* <https://github.com/wgzhao/Addax> ⭐ 1,436 | 🐛 2 | 🌐 Java | 📅 2026-09-13 进化版 datax
 * <https://github.com/mimetis/dotmim.sync> ⭐ 978 | 🐛 65 | 🌐 C# | 📅 2025-08-28 A brand new database synchronization, multi platform, multi databases, developed on top of .Net Standard 2.0
 * <https://github.com/Cinchoo/ChoETL> ⭐ 859 | 🐛 78 | 🌐 C# | 📅 2026-06-20 ETL Framework for .NET / c# (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml formatted files)
-* [OpenDDL](https://github.com/EricLengyel/OpenDDL) ⭐ 77 | 🐛 0 | 🌐 C++ | 📅 2025-05-17
+* [OpenDDL](https://github.com/EricLengyel/OpenDDL) ⭐ 78 | 🐛 0 | 🌐 C++ | 📅 2025-05-17
 * <https://avro.apache.org/>
 * <https://awslabs.github.io/smithy/>
 
 #### DataVisual&\&Editor
 
-* [SuperSet](https://github.com/apache/incubator-superset) ⭐ 74,737 | 🐛 609 | 🌐 Python | 📅 2026-09-12
-* [metabase](https://github.com/metabase/metabase) ⭐ 49,217 | 🐛 4,350 | 🌐 Clojure | 📅 2026-09-12
+* [SuperSet](https://github.com/apache/incubator-superset) ⭐ 74,744 | 🐛 609 | 🌐 Python | 📅 2026-09-13
+* [metabase](https://github.com/metabase/metabase) ⭐ 49,230 | 🐛 4,345 | 🌐 Clojure | 📅 2026-09-13
 * [Redash](https://github.com/getredash/redash) ⭐ 28,793 | 🐛 805 | 🌐 Python | 📅 2026-09-03
 * <https://github.com/fasouto/awesome-dataviz> ⭐ 4,412 | 🐛 39 | 📅 2024-01-26
 * [rawgraphs](https://rawgraphs.io/) The missing link between spreadsheets and data visualization
@@ -2011,16 +2011,16 @@ Table of Contents
 
 #### Collection
 
-* [lamda](https://github.com/rev1si0n/lamda) ⭐ 8,293 | 🐛 45 | 🌐 Python | 📅 2026-08-30
-* <https://github.com/dsasmblr/game-hacking/> ⭐ 5,580 | 🐛 11 | 📅 2024-06-20
-* [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) ⭐ 3,464 | 🐛 16 | 📅 2022-11-14
+* [lamda](https://github.com/rev1si0n/lamda) ⭐ 8,296 | 🐛 46 | 🌐 Python | 📅 2026-08-30
+* <https://github.com/dsasmblr/game-hacking/> ⭐ 5,582 | 🐛 11 | 📅 2024-06-20
+* [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) ⭐ 3,463 | 🐛 16 | 📅 2022-11-14
 * <https://github.com/kovidomi/game-reversing> ⭐ 1,691 | 🐛 4 | 📅 2023-04-05
 * <https://github.com/linchaolong/ApkToolPlus> ⭐ 1,480 | 🐛 20 | 🌐 Java | 📅 2025-04-26
 * <https://github.com/axhlzy/Il2CppHookScripts> ⭐ 661 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-02
 * [GameReverseNote](https://github.com/TonyChen56/GameReverseNote) ⭐ 534 | 🐛 1 | 📅 2025-09-02
 * [UnityFPSUnlocker](https://github.com/hexstr/UnityFPSUnlocker) ⭐ 532 | 🐛 5 | 🌐 C++ | 📅 2026-06-20
 * [UnityResolve](https://github.com/issuimo/UnityResolve.hpp) ⭐ 466 | 🐛 15 | 🌐 C++ | 📅 2025-01-27 Unity引擎C++接口 | Unity Engine C++ API | Mono/il2cpp | 支持 Windows, Android, Linux | Game Cheat | 游戏作弊
-* [GameExtractor](https://github.com/wattostudios/GameExtractor) ⭐ 322 | 🐛 17 | 🌐 Java | 📅 2026-08-01 Reads and writes thousands of different archive and image formats used in games.
+* [GameExtractor](https://github.com/wattostudios/GameExtractor) ⭐ 322 | 🐛 18 | 🌐 Java | 📅 2026-08-01 Reads and writes thousands of different archive and image formats used in games.
 * [Game-Cheating-Tutorial](https://github.com/BeneficialCode/Game-Cheating-Tutorial) ⭐ 177 | 🐛 0 | 🌐 C | 📅 2024-06-07
 * [il2cpp-modder](https://github.com/juanmjacobs/il2cpp-modder) ⭐ 177 | 🐛 3 | 🌐 C# | 📅 2021-07-26
 * [puyotools](https://github.com/nickworonekin/puyotools) ⭐ 120 | 🐛 19 | 🌐 C# | 📅 2026-03-06 Puyo Tools is a collection of tools and libraries used to access the contents of various game files. Although it was initially built to handle files used in Puyo Puyo games, it can handle files used in other games as well
@@ -2040,15 +2040,15 @@ Table of Contents
 #### Unity-AssetBundle
 
 * [AssetStudio](https://github.com/Perfare/AssetStudio) ⚠️ Archived A tool for exploring, extracting and exporting assets and assetbundles
-* [AssetRipper](https://github.com/AssetRipper/AssetRipper) ⭐ 8,317 | 🐛 157 | 🌐 C# | 📅 2026-09-11 GUI Application to work with engine assets, asset bundles, and serialized files
+* [AssetRipper](https://github.com/AssetRipper/AssetRipper) ⭐ 8,321 | 🐛 157 | 🌐 C# | 📅 2026-09-11 GUI Application to work with engine assets, asset bundles, and serialized files
 * [UABE](https://github.com/SeriousCache/UABE) ⚠️ Archived Asset Bundle Extractor
-* [UtinyRipper](https://github.com/mafaca/UtinyRipper) ⭐ 3,095 | 🐛 893 | 🌐 C# | 📅 2022-01-14 GUI and API library for working with Engine assets, serialized and bundle files
-* [UABEA](https://github.com/nesrak1/UABEA) ⭐ 2,421 | 🐛 146 | 🌐 C# | 📅 2026-05-11 Cross-platform Asset Bundle/Serialized File reader and writer. Originally based on (but not a fork of) UABE.
+* [UtinyRipper](https://github.com/mafaca/UtinyRipper) ⭐ 3,096 | 🐛 893 | 🌐 C# | 📅 2022-01-14 GUI and API library for working with Engine assets, serialized and bundle files
+* [UABEA](https://github.com/nesrak1/UABEA) ⭐ 2,422 | 🐛 146 | 🌐 C# | 📅 2026-05-11 Cross-platform Asset Bundle/Serialized File reader and writer. Originally based on (but not a fork of) UABE.
 * <https://github.com/aelurum/AssetStudio> ⭐ 2,064 | 🐛 52 | 🌐 C# | 📅 2025-10-15
 * <https://github.com/zhangjiequan/AssetStudio> ⭐ 1,851 | 🐛 29 | 🌐 C# | 📅 2024-03-04
-* [ST3GG](https://github.com/elder-plinius/ST3GG) ⭐ 1,775 | 🐛 13 | 🌐 HTML | 📅 2026-06-15 水印
+* [ST3GG](https://github.com/elder-plinius/ST3GG) ⭐ 1,779 | 🐛 13 | 🌐 HTML | 📅 2026-06-15 水印
 * <https://github.com/RazTools/Studio> ⚠️ Archived
-* [AnimeStudio](https://github.com/Escartem/AnimeStudio) ⭐ 1,154 | 🐛 24 | 🌐 C++ | 📅 2026-09-03 Updated AssetStudio, supports GI 5.6+, HSR 3.3+, ZZZ 2.0+, with improvements and new features (*ﾟ∀ﾟ*)
+* [AnimeStudio](https://github.com/Escartem/AnimeStudio) ⭐ 1,158 | 🐛 24 | 🌐 C++ | 📅 2026-09-03 Updated AssetStudio, supports GI 5.6+, HSR 3.3+, ZZZ 2.0+, with improvements and new features (*ﾟ∀ﾟ*)
 * [AssetsTools](https://github.com/nesrak1/AssetsTools.NET) ⭐ 685 | 🐛 36 | 🌐 C# | 📅 2026-09-10
 * <https://github.com/SiMaLaoShi/AssetStudio_Tuanjie> ⭐ 339 | 🐛 8 | 🌐 C# | 📅 2025-06-04
 * [CNStudio](https://github.com/Razmoth/CNStudio) ⚠️ Archived
@@ -2064,14 +2064,14 @@ Table of Contents
 
 #### Archive-Format
 
-* <https://github.com/EpicGames/lore> ⭐ 8,597 | 🐛 111 | 🌐 Rust | 📅 2026-09-12
-* [ValveResource](https://github.com/SteamDatabase/ValveResourceFormat) ⭐ 2,419 | 🐛 65 | 🌐 C# | 📅 2026-09-12 Valve's Source 2 resource file format parser, decompiler, and exporter.
+* <https://github.com/EpicGames/lore> ⭐ 8,605 | 🐛 111 | 🌐 Rust | 📅 2026-09-13
+* [ValveResource](https://github.com/SteamDatabase/ValveResourceFormat) ⭐ 2,421 | 🐛 66 | 🌐 C# | 📅 2026-09-13 Valve's Source 2 resource file format parser, decompiler, and exporter.
 * [Switch-Toolbox](https://github.com/KillzXGaming/Switch-Toolbox) ⭐ 1,209 | 🐛 403 | 🌐 C# | 📅 2026-08-26 A tool to edit many video game file formats
-* [CUE4Parse](https://github.com/FabianFG/CUE4Parse) ⭐ 632 | 🐛 26 | 🌐 C# | 📅 2026-09-12 C# Parser for Unreal Engine packages & assets
+* [CUE4Parse](https://github.com/FabianFG/CUE4Parse) ⭐ 633 | 🐛 26 | 🌐 C# | 📅 2026-09-13 C# Parser for Unreal Engine packages & assets
 * [OWLib](https://github.com/overtools/OWLib) ⭐ 597 | 🐛 4 | 🌐 C# | 📅 2026-08-27 Series of programs (tools) to interact with the Overwatch files.
 * [UAssetAPI](https://github.com/atenfyr/UAssetAPI) ⭐ 493 | 🐛 6 | 🌐 C# | 📅 2026-08-31 A low-level .NET library for reading and writing Unreal Engine 4 game assets
 * [CASCExplorer](https://github.com/WoW-Tools/CASCExplorer) ⭐ 436 | 🐛 16 | 🌐 C# | 📅 2025-11-10 CASCExplorer
-* [REE.PAK.Tool](https://github.com/Ekey/REE.PAK.Tool) ⭐ 401 | 🐛 4 | 🌐 C# | 📅 2026-09-04 Tool for extract PAK archives from games based on RE Engine
+* [REE.PAK.Tool](https://github.com/Ekey/REE.PAK.Tool) ⭐ 402 | 🐛 4 | 🌐 C# | 📅 2026-09-04 Tool for extract PAK archives from games based on RE Engine
 * [Http-Multipart-Data-Parser](https://github.com/Http-Multipart-Data-Parser/Http-Multipart-Data-Parser) ⭐ 333 | 🐛 0 | 🌐 C# | 📅 2026-03-02 A C# Http Multipart/form-data parser that works correctly on binary data and very large files.
 * [WoWDBDefs](https://github.com/wowdev/WoWDBDefs) ⭐ 323 | 🐛 8 | 🌐 C# | 📅 2026-09-12
 * <https://github.com/bilibili/UnityBVA> ⭐ 210 | 🐛 9 | 🌐 C# | 📅 2023-03-14
@@ -2109,11 +2109,11 @@ Table of Contents
 #### Disassembly
 
 * [dnSpy](https://github.com/dnSpy/dnSpy) ⚠️ Archived .NET debugger and assembly editor
-* [ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 26,059 | 🐛 172 | 🌐 C# | 📅 2026-09-12 .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
-* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) ⭐ 9,382 | 🐛 154 | 🌐 C# | 📅 2024-08-18 Unity il2cpp reverse engineer
+* [ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 26,060 | 🐛 174 | 🌐 C# | 📅 2026-09-13 .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
+* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) ⭐ 9,384 | 🐛 154 | 🌐 C# | 📅 2024-08-18 Unity il2cpp reverse engineer
 * [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) ⚠️ Archived An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
-* [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) ⭐ 3,042 | 🐛 65 | 🌐 C | 📅 2022-05-13 Powerful automated tool for reverse engineering Unity IL2CPP binaries [www.djkaty.com](http://www.djkaty.com)
-* [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) ⭐ 2,622 | 🐛 42 | 🌐 C# | 📅 2026-09-12 Work-in-progress tool to reverse unity's IL2CPP toolchain.
+* [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) ⭐ 3,043 | 🐛 65 | 🌐 C | 📅 2022-05-13 Powerful automated tool for reverse engineering Unity IL2CPP binaries [www.djkaty.com](http://www.djkaty.com)
+* [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) ⭐ 2,623 | 🐛 42 | 🌐 C# | 📅 2026-09-12 Work-in-progress tool to reverse unity's IL2CPP toolchain.
 * <https://github.com/badApple001/Il2cppEncrtypt> ⭐ 169 | 🐛 0 | 🌐 C++ | 📅 2024-05-18
 * [natsu-clr](https://github.com/dotnetGame/natsu-clr) ⭐ 90 | 🐛 0 | 🌐 C# | 📅 2020-03-08 il2cpp transpiler and runtime compatible with .Net Core
 * [UnitySmartSymbolicate](https://github.com/brunomikoski/UnitySmartSymbolicate) ⭐ 58 | 🐛 0 | 🌐 C# | 📅 2024-02-19
@@ -2127,8 +2127,8 @@ Table of Contents
 ## Patch
 
 * <https://github.com/canton7/SyncTrayzor> ⚠️ Archived
-* <https://github.com/LavaGang/MelonLoader> ⭐ 4,177 | 🐛 44 | 🌐 C# | 📅 2026-09-05 The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono
-* <https://github.com/KSP-CKAN/CKAN> ⭐ 2,641 | 🐛 85 | 🌐 C# | 📅 2026-07-17
+* <https://github.com/LavaGang/MelonLoader> ⭐ 4,182 | 🐛 44 | 🌐 C# | 📅 2026-09-05 The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono
+* <https://github.com/KSP-CKAN/CKAN> ⭐ 2,642 | 🐛 85 | 🌐 C# | 📅 2026-07-17
 * <https://github.com/Reloaded-Project/Reloaded-II> ⭐ 1,027 | 🐛 188 | 🌐 C# | 📅 2026-08-13 Next Generation Universal .NET Core Powered Mod Loader compatible with anything X86, X64.
 * <https://github.com/redwood/redwood> ⭐ 920 | 🐛 122 | 🌐 Go | 📅 2023-03-07
 * [bsdiff.net](https://github.com/LogosBible/bsdiff.net) ⚠️ Archived A .NET port of Colin Percival's bsdiff & bspatch
@@ -2142,11 +2142,11 @@ Table of Contents
 
 ## File Systems
 
-* <https://github.com/mattiasgustavsson/libs> ⭐ 2,306 | 🐛 14 | 🌐 C | 📅 2026-01-20
-* <https://github.com/FoundatioFx/Foundatio/blob/master/src/Foundatio/Storage/FolderFileStorage.cs> ⭐ 2,098 | 🐛 13 | 🌐 C# | 📅 2026-09-11
-* <https://github.com/System-IO-Abstractions/System.IO.Abstractions> ⭐ 1,628 | 🐛 25 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/mattiasgustavsson/libs> ⭐ 2,307 | 🐛 14 | 🌐 C | 📅 2026-01-20
+* <https://github.com/FoundatioFx/Foundatio/blob/master/src/Foundatio/Storage/FolderFileStorage.cs> ⭐ 2,098 | 🐛 14 | 🌐 C# | 📅 2026-09-13
+* <https://github.com/System-IO-Abstractions/System.IO.Abstractions> ⭐ 1,627 | 🐛 25 | 🌐 C# | 📅 2026-09-12
 * <https://github.com/okhosting/awesome-storage> ⭐ 1,021 | 🐛 7 | 📅 2024-03-22?
-* <https://github.com/xoofx/zio> ⭐ 938 | 🐛 16 | 🌐 C# | 📅 2026-06-20 vfs
+* <https://github.com/xoofx/zio> ⭐ 937 | 🐛 16 | 🌐 C# | 📅 2026-06-20 vfs
 * <https://github.com/BayatGames/SaveGameFree/> ⭐ 665 | 🐛 1 | 🌐 Rich Text Format | 📅 2025-10-06
 * <https://github.com/bobvanderlinden/sharpfilesystem> ⭐ 294 | 🐛 17 | 🌐 C# | 📅 2024-05-30
 * <https://github.com/IntoTheDev/Save-System-for-Unity> ⭐ 275 | 🐛 1 | 🌐 C# | 📅 2025-07-27
@@ -2198,14 +2198,14 @@ Table of Contents
 
 ## Linux
 
-* [linux\_kernel\_wiki](https://github.com/0voice/linux_kernel_wiki) ⭐ 7,819 | 🐛 6 | 📅 2024-05-20 linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
+* [linux\_kernel\_wiki](https://github.com/0voice/linux_kernel_wiki) ⭐ 7,822 | 🐛 6 | 📅 2024-05-20 linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 
 ## Version-Control
 
-* <https://github.com/pcottle/learnGitBranching> ⭐ 34,018 | 🐛 60 | 🌐 JavaScript | 📅 2026-09-12 -- 学习git 提交的网站
-* <https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt> ⭐ 12,571 | 🐛 24 | 🌐 Shell | 📅 2026-09-02
-* <https://github.com/EpicGames/lore> ⭐ 8,597 | 🐛 111 | 🌐 Rust | 📅 2026-09-12
-* <https://github.com/libgit2/libgit2sharp> ⭐ 3,457 | 🐛 457 | 🌐 C# | 📅 2026-07-23  -- git的 c# 实现
+* <https://github.com/pcottle/learnGitBranching> ⭐ 34,024 | 🐛 60 | 🌐 JavaScript | 📅 2026-09-12 -- 学习git 提交的网站
+* <https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt> ⭐ 12,574 | 🐛 24 | 🌐 Shell | 📅 2026-09-02
+* <https://github.com/EpicGames/lore> ⭐ 8,605 | 🐛 111 | 🌐 Rust | 📅 2026-09-13
+* <https://github.com/libgit2/libgit2sharp> ⭐ 3,456 | 🐛 457 | 🌐 C# | 📅 2026-07-23  -- git的 c# 实现
 * <https://github.com/unixorn/git-extra-commands> ⭐ 1,170 | 🐛 2 | 🌐 Shell | 📅 2026-09-07
 * <https://github.com/alirezanet/Husky.Net> ⭐ 853 | 🐛 13 | 🌐 C# | 📅 2026-04-30
 * <https://github.com/skanmera/ExcelMerge> ⭐ 846 | 🐛 21 | 🌐 C# | 📅 2022-06-24
@@ -2217,14 +2217,14 @@ Table of Contents
 * <https://github.com/meaf75/GitNity> ⭐ 30 | 🐛 1 | 🌐 C# | 📅 2025-08-28
 * <https://github.com/Artees/Unity-SemVer> ⭐ 29 | 🐛 0 | 🌐 C# | 📅 2021-11-05
 * [ExcelDiff\_MergeTool](https://github.com/kokichi88/ExcelDiff_MergeTool) ⭐ 19 | 🐛 0 | 🌐 Java | 📅 2017-03-10
-* <https://github.com/GoldenZqqq/GitPulse> ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08
+* <https://github.com/GoldenZqqq/GitPulse> ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-13
 * <https://github.com/Chronos778/git-rewind> ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2026-07-03
 * <https://git-truck.github.io/git-truck/GitTruckTeaser>
 * [mergesight](https://discussions.unity.com/t/mergesight-visual-unity-asset-review-and-merge-tool-for-git-and-other-vcs-workflows/1722629)
 * <https://ugit.qq.com/en/>
 * <https://semver.org/lang/zh-CN/>   -- 版本号规范
 
-- [git-tips](https://github.com/git-tips/tips) ⭐ 21,723 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10 - 最常用的Git的提示和技巧。
+- [git-tips](https://github.com/git-tips/tips) ⭐ 21,723 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-13 - 最常用的Git的提示和技巧。
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) ⚠️ Archived -高质量的Git中文教程，来自国外社区的优秀文章和个人实践
 - [git-style-guide](https://github.com/agis-/git-style-guide) ⭐ 5,113 | 🐛 0 | 📅 2022-09-26- git风格指南
 - [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md) ⭐ 4,478 | 🐛 4 | 📅 2025-11-15
@@ -2261,12 +2261,12 @@ Table of Contents
 
 ## ScriptWebTool&\&TUI
 
-* <https://github.com/rothgar/awesome-tuis> ⭐ 20,573 | 🐛 77 | 📅 2026-08-11
-* <https://github.com/longbridge/gpui-component> ⭐ 14,308 | 🐛 97 | 🌐 Rust | 📅 2026-09-11
+* <https://github.com/rothgar/awesome-tuis> ⭐ 20,580 | 🐛 49 | 📅 2026-09-13
+* <https://github.com/longbridge/gpui-component> ⭐ 14,334 | 🐛 97 | 🌐 Rust | 📅 2026-09-13
 * [FastUI](https://github.com/pydantic/FastUI) ⚠️ Archived
 * [PyWebIO](https://github.com/pywebio/PyWebIO) ⭐ 4,817 | 🐛 31 | 🌐 Python | 📅 2025-04-08
-* <https://github.com/EnhancedJax/Bagels> ⭐ 2,903 | 🐛 18 | 🌐 Python | 📅 2025-07-06
-* <https://github.com/Aniket-508/termcn> ⭐ 1,114 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-11
+* <https://github.com/EnhancedJax/Bagels> ⭐ 2,904 | 🐛 18 | 🌐 Python | 📅 2025-07-06
+* <https://github.com/Aniket-508/termcn> ⭐ 1,117 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-11
 * <https://github.com/orchetron/storm> ⭐ 394 | 🐛 14 | 🌐 TypeScript | 📅 2026-06-12 A compositor-based terminal UI framework. Fast. Layered. Unstoppable.
 * <https://github.com/feiyun0112/Gradio.Net> ⭐ 335 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-19
 * <https://github.com/XenoAtom/XenoAtom.Terminal.UI> ⭐ 296 | 🐛 2 | 🌐 C# | 📅 2026-08-18
@@ -2285,20 +2285,20 @@ Table of Contents
 
 ## Game-Server-framework
 
-* <https://github.com/cloudwu/skynet> ⭐ 14,141 | 🐛 27 | 🌐 C | 📅 2026-09-09
-* <https://github.com/heroiclabs/nakama> ⭐ 13,315 | 🐛 119 | 🌐 Go | 📅 2026-09-11
-* <https://github.com/TrinityCore/TrinityCore> ⭐ 10,766 | 🐛 1,527 | 🌐 C++ | 📅 2026-09-12
+* <https://github.com/cloudwu/skynet> ⭐ 14,142 | 🐛 27 | 🌐 C | 📅 2026-09-09
+* <https://github.com/heroiclabs/nakama> ⭐ 13,319 | 🐛 122 | 🌐 Go | 📅 2026-09-11
+* <https://github.com/TrinityCore/TrinityCore> ⭐ 10,765 | 🐛 1,526 | 🌐 C++ | 📅 2026-09-13
 * <https://github.com/egametang/ET> ⭐ 9,907 | 🐛 87 | 🌐 C# | 📅 2026-08-26
-* [seastar](https://github.com/scylladb/seastar) ⭐ 9,362 | 🐛 585 | 🌐 C++ | 📅 2026-09-11 High performance server-side application framework
-* <https://github.com/azerothcore/azerothcore-wotlk> ⭐ 8,901 | 🐛 2,462 | 🌐 C++ | 📅 2026-09-12
-* <https://github.com/MFatihMAR/Game-Networking-Resources#readme> ⭐ 8,688 | 🐛 3 | 🌐 C | 📅 2026-08-27 游戏服务器汇总网站-爸爸级别
-* <https://github.com/aceld/zinx/> ⭐ 7,759 | 🐛 96 | 🌐 Go | 📅 2026-06-06
-* <https://github.com/googleforgames/agones> ⭐ 7,018 | 🐛 58 | 🌐 Go | 📅 2026-09-12
+* [seastar](https://github.com/scylladb/seastar) ⭐ 9,363 | 🐛 585 | 🌐 C++ | 📅 2026-09-11 High performance server-side application framework
+* <https://github.com/azerothcore/azerothcore-wotlk> ⭐ 8,905 | 🐛 2,443 | 🌐 C++ | 📅 2026-09-13
+* <https://github.com/MFatihMAR/Game-Networking-Resources#readme> ⭐ 8,690 | 🐛 3 | 🌐 C | 📅 2026-08-27 游戏服务器汇总网站-爸爸级别
+* <https://github.com/aceld/zinx/> ⭐ 7,760 | 🐛 96 | 🌐 Go | 📅 2026-06-06
+* <https://github.com/googleforgames/agones> ⭐ 7,019 | 🐛 60 | 🌐 Go | 📅 2026-09-13
 * <https://github.com/kbengine/kbengine> ⭐ 5,695 | 🐛 176 | 🌐 C | 📅 2022-12-13
 * <https://github.com/name5566/leaf> ⭐ 5,515 | 🐛 26 | 🌐 Go | 📅 2024-05-23
-* <https://github.com/Cysharp/MagicOnion> ⭐ 4,448 | 🐛 8 | 🌐 C# | 📅 2026-09-08
+* <https://github.com/Cysharp/MagicOnion> ⭐ 4,449 | 🐛 8 | 🌐 C# | 📅 2026-09-08
 * <https://github.com/ketoo/NoahGameFrame> ⭐ 4,149 | 🐛 25 | 🌐 C++ | 📅 2023-02-25
-* <https://github.com/rathena/rathena> ⭐ 3,559 | 🐛 622 | 🌐 C++ | 📅 2026-09-04
+* <https://github.com/rathena/rathena> ⭐ 3,560 | 🐛 622 | 🌐 C++ | 📅 2026-09-04
 * <https://github.com/topfreegames/pitaya> ⭐ 2,828 | 🐛 68 | 🌐 Go | 📅 2026-09-11
 * <https://github.com/networkprotocol/yojimbo> ⭐ 2,735 | 🐛 8 | 🌐 C++ | 📅 2026-09-10
 * <https://github.com/xiaonanln/goworld> ⭐ 2,720 | 🐛 27 | 🌐 Go | 📅 2025-11-14
@@ -2312,10 +2312,10 @@ Table of Contents
 * <https://github.com/googleforgames/quilkin> ⭐ 1,590 | 🐛 77 | 🌐 Rust | 📅 2026-09-10
 * <https://github.com/ylmbtm/GameProject3> ⭐ 1,581 | 🐛 3 | 🌐 C++ | 📅 2025-04-28
 * <https://github.com/jzyong/game-server> ⭐ 1,228 | 🐛 40 | 🌐 Java | 📅 2025-12-19
-* <https://github.com/naia-rs/naia> ⭐ 1,176 | 🐛 19 | 🌐 Rust | 📅 2026-09-11
+* <https://github.com/naia-rs/naia> ⭐ 1,177 | 🐛 19 | 🌐 Rust | 📅 2026-09-11
 * <https://github.com/LeagueSandbox/GameServer> ⚠️ Archived
 * <https://github.com/kingston-csj/jforgame> ⭐ 1,087 | 🐛 3 | 🌐 Java | 📅 2026-09-05
-* <https://github.com/mangoszero/server> ⭐ 1,031 | 🐛 10 | 🌐 C++ | 📅 2026-09-08
+* <https://github.com/mangoszero/server> ⭐ 1,032 | 🐛 10 | 🌐 C++ | 📅 2026-09-08
 * <https://github.com/dobyte/due> ⭐ 958 | 🐛 28 | 🌐 Go | 📅 2026-09-12
 * <https://github.com/Golangltd/LollipopGo> ⭐ 912 | 🐛 7 | 🌐 Go | 📅 2024-08-05
 * [everwar](https://github.com/geektcp/everwar) ⭐ 850 | 🐛 33 | 🌐 C++ | 📅 2026-01-30 Everwar是一个开源魔兽世界服务端
@@ -2323,7 +2323,7 @@ Table of Contents
 * [Summer](https://github.com/SwingFrog/Summer) ⭐ 568 | 🐛 1 | 🌐 Java | 📅 2025-04-17
 * <https://github.com/no5ix/realtime-server> ⭐ 501 | 🐛 6 | 🌐 Python | 📅 2026-06-23
 * [OpenCoreMMO](https://github.com/caioavidal/OpenCoreMMO) ⭐ 477 | 🐛 92 | 🌐 C# | 📅 2026-09-09 Open-source MMORPG server emulator written in C#
-* [SLikeNet](https://github.com/SLikeSoft/SLikeNet) ⭐ 467 | 🐛 35 | 🌐 HTML | 📅 2022-08-30  SLikeNet is an Open Source/Free Software cross-platform network engine written in C++ and specifially designed for games
+* [SLikeNet](https://github.com/SLikeSoft/SLikeNet) ⭐ 468 | 🐛 35 | 🌐 HTML | 📅 2022-08-30  SLikeNet is an Open Source/Free Software cross-platform network engine written in C++ and specifially designed for games
 * <https://github.com/CypherCore/CypherCore> ⭐ 438 | 🐛 1 | 🌐 C# | 📅 2026-09-07
 * <https://github.com/mirbeta/OpenMir2> ⭐ 389 | 🐛 11 | 🌐 C# | 📅 2024-02-20
 * <https://github.com/DukeChiang/DCET> ⭐ 381 | 🐛 0 | 🌐 C# | 📅 2021-08-12
@@ -2385,7 +2385,7 @@ Table of Contents
 
 #### Server-Monitoring
 
-* <https://github.com/louislam/uptime-kuma> ⭐ 91,310 | 🐛 803 | 🌐 JavaScript | 📅 2026-09-12 A fancy self-hosted monitoring tool
+* <https://github.com/louislam/uptime-kuma> ⭐ 91,327 | 🐛 804 | 🌐 JavaScript | 📅 2026-09-13 A fancy self-hosted monitoring tool
 
 #### Article
 
@@ -2512,7 +2512,7 @@ Table of Contents
 
 #### status-syn
 
-* <https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop> ⭐ 1,983 | 🐛 7 | 🌐 C# | 📅 2026-07-27
+* <https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop> ⭐ 1,983 | 🐛 7 | 🌐 C# | 📅 2026-09-13
 * <https://github.com/zpl-c/librg> ⭐ 1,500 | 🐛 0 | 🌐 C | 📅 2026-01-31
 * <https://github.com/dotnet/WatsonTcp> ⭐ 673 | 🐛 0 | 🌐 C# | 📅 2026-08-24
 * <https://github.com/526077247/ETPro> ⭐ 408 | 🐛 8 | 🌐 C# | 📅 2026-08-26
@@ -2539,10 +2539,10 @@ Table of Contents
 * <https://github.com/luoyikun/UnityMobaDemo>
 * <https://github.com/bluejayboy/Unity-Network-Prediction>
 
-- <https://github.com/rivet-gg/rivet> ⭐ 6,124 | 🐛 278 | 🌐 Rust | 📅 2026-09-11
+- <https://github.com/rivet-gg/rivet> ⭐ 6,124 | 🐛 280 | 🌐 Rust | 📅 2026-09-13
 - <https://github.com/wqaetly/NKGMobaBasedOnET> ⭐ 1,005 | 🐛 1 | 🌐 C# | 📅 2022-07-03
 - <https://github.com/FlameskyDexive/Legends-Of-Heroes> ⭐ 925 | 🐛 2 | 🌐 C# | 📅 2026-07-27
-- <https://github.com/kidagine/Darklings-FightingGame> ⭐ 345 | 🐛 7 | 🌐 ShaderLab | 📅 2024-09-12
+- <https://github.com/kidagine/Darklings-FightingGame> ⭐ 346 | 🐛 7 | 🌐 ShaderLab | 📅 2024-09-12
 - <https://github.com/UnityTechnologies/GalacticKittens> ⭐ 225 | 🐛 8 | 🌐 C# | 📅 2024-02-28
 - [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) ⚠️ Archived - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
 - <https://github.com/ashoulson/RailgunNet> ⭐ 158 | 🐛 12 | 🌐 C# | 📅 2018-02-24
@@ -2571,14 +2571,14 @@ Table of Contents
 
 #### Security
 
-* <https://github.com/imthenachoman/How-To-Secure-A-Linux-Server> ⭐ 31,400 | 🐛 32 | 📅 2026-09-07
+* <https://github.com/imthenachoman/How-To-Secure-A-Linux-Server> ⭐ 31,404 | 🐛 32 | 📅 2026-09-07
 
 ## Serialization
 
-* <https://github.com/google/flatbuffers> ⭐ 26,454 | 🐛 286 | 🌐 C++ | 📅 2026-08-11 flatBuffer
-* <https://github.com/apache/arrow> ⭐ 17,099 | 🐛 2,593 | 🌐 C++ | 📅 2026-09-12
-* <https://github.com/MessagePack-CSharp/MessagePack-CSharp> ⭐ 6,776 | 🐛 147 | 🌐 C# | 📅 2026-09-07
-* <https://github.com/Cysharp/MemoryPack> ⭐ 4,729 | 🐛 30 | 🌐 C# | 📅 2026-07-08 [ppt](https://speakerdeck.com/neuecc/cedec-2023-modanhaipahuomansuc-number-2023-edition)
+* <https://github.com/google/flatbuffers> ⭐ 26,456 | 🐛 287 | 🌐 C++ | 📅 2026-08-11 flatBuffer
+* <https://github.com/apache/arrow> ⭐ 17,104 | 🐛 2,582 | 🌐 C++ | 📅 2026-09-12
+* <https://github.com/MessagePack-CSharp/MessagePack-CSharp> ⭐ 6,778 | 🐛 147 | 🌐 C# | 📅 2026-09-07
+* <https://github.com/Cysharp/MemoryPack> ⭐ 4,731 | 🐛 30 | 🌐 C# | 📅 2026-07-08 [ppt](https://speakerdeck.com/neuecc/cedec-2023-modanhaipahuomansuc-number-2023-edition)
 * <https://github.com/real-logic/simple-binary-encoding> ⭐ 3,504 | 🐛 37 | 🌐 Java | 📅 2026-09-09  sbe-fastest
 * <https://github.com/neuecc/ZeroFormatter> ⚠️ Archived  zero
 * <https://github.com/RainwayApp/bebop> ⭐ 2,173 | 🐛 30 | 🌐 C# | 📅 2026-02-17
@@ -2594,7 +2594,7 @@ Table of Contents
 * <https://github.com/akkadotnet/Hyperion> ⭐ 281 | 🐛 70 | 🌐 C# | 📅 2025-05-08
 * <https://github.com/peteroupc/CBOR> ⭐ 231 | 🐛 4 | 🌐 C# | 📅 2026-07-30
 * <https://github.com/ReubenBond/Hagar> ⭐ 224 | 🐛 13 | 🌐 C# | 📅 2022-12-22
-* <https://github.com/serdedotnet/serde> ⭐ 217 | 🐛 11 | 🌐 C# | 📅 2026-08-30
+* <https://github.com/serdedotnet/serde> ⭐ 217 | 🐛 12 | 🌐 C# | 📅 2026-09-13
 * <https://github.com/AArnott/Nerdbank.MessagePack> ⭐ 174 | 🐛 10 | 🌐 C# | 📅 2026-09-11
 * <https://github.com/c80k/capnproto-dotnetcore> ⭐ 172 | 🐛 18 | 🌐 C# | 📅 2023-07-05
 * <https://github.com/chronoxor/CppSerialization> ⭐ 166 | 🐛 0 | 🌐 C++ | 📅 2026-09-09 benckmark
@@ -2634,7 +2634,7 @@ Table of Contents
 * <https://github.com/json-everything/json-everything> ⭐ 1,272 | 🐛 25 | 🌐 C# | 📅 2026-08-08
 * <https://github.com/Dogwei/Swifter.Json> ⭐ 670 | 🐛 28 | 🌐 C# | 📅 2022-12-02  C#
 * <https://github.com/zachsaw/Binaron.Serializer> ⭐ 82 | 🐛 13 | 🌐 C# | 📅 2022-12-08
-* <https://github.com/nemesissoft/Nemesis.TextParsers> ⭐ 34 | 🐛 1 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/nemesissoft/Nemesis.TextParsers> ⭐ 34 | 🐛 2 | 🌐 C# | 📅 2026-09-13
 * <https://github.com/smopu/DragonJson> ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2023-06-14 c#
 * <https://jsonhero.io/>
 * <https://jsoncrack.com/editor>
@@ -2654,7 +2654,7 @@ Table of Contents
 * [MegacityMultiplayer](https://github.com/Unity-Technologies/MegacityMultiplayer) ⭐ 538 | 🐛 7 | 🌐 C# | 📅 2024-06-13
 * <https://github.com/CesiumGS/cesium-unity> ⭐ 535 | 🐛 110 | 🌐 C# | 📅 2026-09-10
 * <https://github.com/emrecancubukcu/Terrain-Decorator> ⭐ 499 | 🐛 6 | 🌐 C# | 📅 2022-08-12
-* <https://github.com/Unity-Technologies/ECSGalaxySample/> ⭐ 294 | 🐛 0 | 🌐 C# | 📅 2026-02-05
+* <https://github.com/Unity-Technologies/ECSGalaxySample/> ⭐ 295 | 🐛 0 | 🌐 C# | 📅 2026-02-05
 * <https://github.com/ACskyline/PVTUT> ⭐ 262 | 🐛 0 | 🌐 C# | 📅 2019-03-21
 * <https://github.com/jintiao/VirtualTexture> ⭐ 195 | 🐛 1 | 🌐 C# | 📅 2019-09-09
 * <https://github.com/haolange/InfinityTexture> ⭐ 160 | 🐛 1 | 🌐 C# | 📅 2023-12-12
@@ -2693,7 +2693,7 @@ Table of Contents
 
 #### PCG
 
-* <https://github.com/Nebukam/PCGExtendedToolkit> ⭐ 691 | 🐛 0 | 🌐 C++ | 📅 2026-09-12
+* <https://github.com/Nebukam/PCGExtendedToolkit> ⭐ 691 | 🐛 0 | 🌐 C++ | 📅 2026-09-13
 * <https://github.com/BorisTheBrave/DeBroglie> ⭐ 522 | 🐛 5 | 🌐 C# | 📅 2025-12-21
 * <https://github.com/Lawlzee/UnityMapGenerator> ⭐ 23 | 🐛 38 | 🌐 C# | 📅 2025-11-27
 * [Labyrinthian ](https://github.com/romandykyi/Labyrinthian) ⭐ 18 | 🐛 0 | 🌐 C# | 📅 2025-10-26 maze generation capabilities
@@ -2701,23 +2701,23 @@ Table of Contents
 
 ## DataBase
 
-* <https://github.com/ClockworkLabs/SpacetimeDB> ⭐ 25,162 | 🐛 885 | 🌐 Rust | 📅 2026-09-12
-* <https://github.com/dolthub/dolt> ⭐ 24,428 | 🐛 608 | 🌐 Go | 📅 2026-09-12
+* <https://github.com/ClockworkLabs/SpacetimeDB> ⭐ 25,164 | 🐛 887 | 🌐 Rust | 📅 2026-09-13
+* <https://github.com/dolthub/dolt> ⭐ 24,431 | 🐛 608 | 🌐 Go | 📅 2026-09-12
 * <https://github.com/nuskey8/lkv> ⭐ 94 | 🐛 0 | 🌐 Rust | 📅 2026-08-15 lkv is a lightweight and fast embedded database implemented in Rust
 * <https://github.com/mrousavy/StorageBenchmark> ⭐ 54 | 🐛 1 | 🌐 Java | 📅 2024-01-11
 * <https://github.com/strosz/com.northernrogue.cccp.spacetimedbserver> ⭐ 29 | 🐛 0 | 🌐 C# | 📅 2026-01-31
 
 #### c\#
 
-* [LiteDB](https://github.com/mbdavid/LiteDB) ⭐ 9,464 | 🐛 253 | 🌐 C# | 📅 2026-08-21 LiteDB - A .NET NoSQL Document Store in a single data file
+* [LiteDB](https://github.com/mbdavid/LiteDB) ⭐ 9,465 | 🐛 192 | 🌐 C# | 📅 2026-09-13 LiteDB - A .NET NoSQL Document Store in a single data file
 * [FASTER](https://github.com/microsoft/FASTER) ⭐ 6,636 | 🐛 36 | 🌐 C# | 📅 2026-08-19 Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
 * [ravendb](https://github.com/ravendb/ravendb) ⭐ 3,998 | 🐛 76 | 🌐 C# | 📅 2026-09-11 ACID Document Database
 * [RepoDB](https://github.com/mikependon/RepoDB) ⭐ 1,898 | 🐛 156 | 🌐 C# | 📅 2026-09-11 RepoDB is an open-source .NET ORM library that bridges the gaps of micro-ORMs and full-ORMs. It helps you simplify the switch-over of when to use the BASIC and ADVANCE operations during the development.
 * [MasterMemory](https://github.com/Cysharp/MasterMemory) ⭐ 1,831 | 🐛 2 | 🌐 C# | 📅 2026-07-08 Embedded Typed Readonly In-Memory Document Database for .NET Core and Unity.
 * [realm](https://github.com/realm/realm-dotnet) ⭐ 1,324 | 🐛 164 | 🌐 C# | 📅 2026-01-21 Realm is a mobile database: a replacement for SQLite & ORMs
-* [DBreeze](https://github.com/hhblaze/DBreeze/) ⭐ 578 | 🐛 1 | 🌐 C# | 📅 2026-08-28  LiteDB - A .NET NoSQL Document Store
-* [ZoneTree](https://github.com/koculu/ZoneTree) ⭐ 502 | 🐛 0 | 🌐 C# | 📅 2026-08-04 ZoneTree is a persistent, high-performance, transactional, ACID-compliant ordered key-value database for NET. It can operate in memory or on local/cloud storage.
-* [UltraLiteDB](https://github.com/rejemy/UltraLiteDB) ⭐ 251 | 🐛 1 | 🌐 C# | 📅 2026-07-22 Unity LiteDB
+* [DBreeze](https://github.com/hhblaze/DBreeze/) ⭐ 579 | 🐛 1 | 🌐 C# | 📅 2026-08-28  LiteDB - A .NET NoSQL Document Store
+* [ZoneTree](https://github.com/koculu/ZoneTree) ⭐ 501 | 🐛 0 | 🌐 C# | 📅 2026-08-04 ZoneTree is a persistent, high-performance, transactional, ACID-compliant ordered key-value database for NET. It can operate in memory or on local/cloud storage.
+* [UltraLiteDB](https://github.com/rejemy/UltraLiteDB) ⭐ 252 | 🐛 1 | 🌐 C# | 📅 2026-07-22 Unity LiteDB
 * [SliccDB](https://github.com/pmikstacki/SliccDB) ⭐ 154 | 🐛 2 | 🌐 C# | 📅 2023-03-29 Light Embedded Graph Database for .net
 * [VeloxDB](https://github.com/VeloxDB/VeloxDB) ⭐ 109 | 🐛 2 | 🌐 C# | 📅 2026-02-20
 * <https://github.com/Spreads/Spreads.LMDB> ⭐ 87 | 🐛 6 | 🌐 C# | 📅 2024-09-03
@@ -2738,12 +2738,12 @@ Table of Contents
 
 #### Collection
 
-* [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) ⭐ 697 | 🐛 4 | 🌐 Python | 📅 2026-09-07 : A curated list of Entity-Component-System (ECS) libraries and resources
+* [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) ⭐ 697 | 🐛 5 | 🌐 Python | 📅 2026-09-07 : A curated list of Entity-Component-System (ECS) libraries and resources
 
 #### C/C++
 
-* entt - Fast and reliable entity-component system [github](https://github.com/skypjack/entt) ⭐ 13,099 | 🐛 12 | 🌐 C++ | 📅 2026-09-02 ![skypjack/entt](https://img.shields.io/github/stars/skypjack/entt.svg?style=flat\&label=Star\&maxAge=86400)
-* Flecs - A Multithreaded Entity Component System written for C89 & C99 [github](https://github.com/SanderMertens/flecs) ⭐ 8,663 | 🐛 55 | 🌐 C | 📅 2026-09-11 ![SanderMertens/flecs](https://img.shields.io/github/stars/SanderMertens/flecs.svg?style=flat\&label=Star\&maxAge=86400)
+* entt - Fast and reliable entity-component system [github](https://github.com/skypjack/entt) ⭐ 13,102 | 🐛 12 | 🌐 C++ | 📅 2026-09-02 ![skypjack/entt](https://img.shields.io/github/stars/skypjack/entt.svg?style=flat\&label=Star\&maxAge=86400)
+* Flecs - A Multithreaded Entity Component System written for C89 & C99 [github](https://github.com/SanderMertens/flecs) ⭐ 8,664 | 🐛 55 | 🌐 C | 📅 2026-09-13 ![SanderMertens/flecs](https://img.shields.io/github/stars/SanderMertens/flecs.svg?style=flat\&label=Star\&maxAge=86400)
 * EntityX - Fast, type-safe C++ entity component system [github](https://github.com/alecthomas/entityx) ⭐ 2,340 | 🐛 18 | 🌐 C++ | 📅 2025-08-23 ![alecthomas/entityx](https://img.shields.io/github/stars/alecthomas/entityx.svg?style=flat\&label=Star\&maxAge=86400)
 * Kengine - Type-safe and self-documenting implementation of an Entity-Component-System [github](https://github.com/phisko/kengine) ⭐ 616 | 🐛 1 | 🌐 C++ | 📅 2023-03-10 ![phisko/kengine](https://img.shields.io/github/stars/phisko/kengine.svg?style=flat\&label=Star\&maxAge=86400)
 * ecst - Experimental C++14 multithreaded compile-time entity-compnent-system library [github](https://github.com/SuperV1234/ecst) ⭐ 490 | 🐛 14 | 🌐 C++ | 📅 2019-09-03 ![SuperV1234/ecst](https://img.shields.io/github/stars/SuperV1234/ecst.svg?style=flat\&label=Star\&maxAge=86400)
@@ -2757,8 +2757,8 @@ Table of Contents
 
 #### C\#
 
-* [Entitas](https://github.com/sschmid/Entitas) ⭐ 7,670 | 🐛 97 | 🌐 C# | 📅 2023-12-30 Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
-* [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 770 | 🐛 40 | 🌐 C# | 📅 2026-07-03 fastest
+* [Entitas](https://github.com/sschmid/Entitas) ⭐ 7,671 | 🐛 97 | 🌐 C# | 📅 2023-12-30 Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+* [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 771 | 🐛 40 | 🌐 C# | 📅 2026-07-03 fastest
 * <https://github.com/PixeyeHQ/actors> ⭐ 757 | 🐛 3 | 🌐 C# | 📅 2023-07-05 - ecs框架，代码不错
 * [fennecs](https://github.com/thygrrr/fennecs) ⭐ 465 | 🐛 8 | 🌐 C# | 📅 2026-08-06 ...the tiny, tiny, high-energy Entity-Component System!
 * [DragonECS](https://github.com/DCFApixels/DragonECS) ⭐ 342 | 🐛 0 | 🌐 C# | 📅 2026-09-07 C# Entity Component System framework
@@ -2824,7 +2824,7 @@ Table of Contents
 
 ## Hash
 
-* [xxHash](https://github.com/Cyan4973/xxHash) ⭐ 11,243 | 🐛 44 | 🌐 C | 📅 2026-07-27  Extremely fast non-cryptographic hash algorithm ,implement by c
+* [xxHash](https://github.com/Cyan4973/xxHash) ⭐ 11,244 | 🐛 44 | 🌐 C | 📅 2026-07-27  Extremely fast non-cryptographic hash algorithm ,implement by c
 * [xxHash](https://github.com/uranium62/xxHash) ⭐ 285 | 🐛 9 | 🌐 C# | 📅 2023-08-03 xxhash c# implement
 * [Blake3](https://github.com/xoofx/Blake3.NET) ⭐ 202 | 🐛 1 | 🌐 C# | 📅 2026-07-18 Blake3.NET is a fast managed wrapper around the SIMD Rust implementations of the BLAKE3 cryptographic hash function.
 * [HashDepot](https://github.com/ssg/HashDepot) ⭐ 155 | 🐛 4 | 🌐 C# | 📅 2025-11-16
@@ -2833,14 +2833,14 @@ Table of Contents
 
 ## Text-Template
 
-* [scriban](https://github.com/lunet-io/scriban) ⭐ 3,971 | 🐛 1 | 🌐 C# | 📅 2026-09-05 A fast, powerful, safe and lightweight text templating language and engine for .NET
+* [scriban](https://github.com/lunet-io/scriban) ⭐ 3,970 | 🐛 1 | 🌐 C# | 📅 2026-09-05 A fast, powerful, safe and lightweight text templating language and engine for .NET
 * [fluid](https://github.com/sebastienros/fluid/) ⭐ 1,779 | 🐛 31 | 🌐 C# | 📅 2026-09-07 Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language.
 * <https://github.com/datalust/superpower> ⭐ 1,328 | 🐛 9 | 🌐 C# | 📅 2026-05-20
-* [Gridify](https://github.com/alirezanet/Gridify) ⭐ 1,160 | 🐛 23 | 🌐 C# | 📅 2026-09-06 Gridify is a dynamic LINQ library that converts your string to a LINQ query in the easiest way possible with excellent performance. it also, introduces an easy way to apply Filtering, Sorting and Pagination using text-based data.
+* [Gridify](https://github.com/alirezanet/Gridify) ⭐ 1,160 | 🐛 24 | 🌐 C# | 📅 2026-09-13 Gridify is a dynamic LINQ library that converts your string to a LINQ query in the easiest way possible with excellent performance. it also, introduces an easy way to apply Filtering, Sorting and Pagination using text-based data.
 * <https://github.com/benjamin-hodgson/Pidgin> ⭐ 1,102 | 🐛 23 | 🌐 C# | 📅 2026-06-29
 * [dotliquid](https://github.com/dotliquid/dotliquid) ⭐ 1,097 | 🐛 65 | 🌐 C# | 📅 2026-09-11 .NET Port of Tobias Lütke's Liquid template language.
-* <https://github.com/dotnet/project-system> ⭐ 1,024 | 🐛 615 | 🌐 C# | 📅 2026-08-24
-* [AngouriMath](https://github.com/asc-community/AngouriMath) ⭐ 831 | 🐛 86 | 🌐 C# | 📅 2026-09-12 Open-source cross-platform symbolic algebra library for C# and F#. One of the most powerful in .NET. Can be used for both production and research purposes
+* <https://github.com/dotnet/project-system> ⭐ 1,023 | 🐛 615 | 🌐 C# | 📅 2026-08-24
+* [AngouriMath](https://github.com/asc-community/AngouriMath) ⭐ 831 | 🐛 84 | 🌐 C# | 📅 2026-09-13 Open-source cross-platform symbolic algebra library for C# and F#. One of the most powerful in .NET. Can be used for both production and research purposes
 * [Nustache](https://github.com/jdiamond/Nustache) ⭐ 607 | 🐛 22 | 🌐 C# | 📅 2023-05-31 Logic-less templates for .NET
 * [XamlX](https://github.com/kekekeks/XamlX) ⭐ 403 | 🐛 20 | 🌐 C# | 📅 2026-07-22
 * [ExCSS](https://github.com/TylerBrinks/ExCSS) ⭐ 378 | 🐛 5 | 🌐 C# | 📅 2026-08-19 A CSS Parser for .NET. It's BADA55!
@@ -2868,7 +2868,7 @@ Table of Contents
 #### Collection&\&Articles
 
 * [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) ⭐ 9,904 | 🐛 31 | 🌐 C++ | 📅 2026-08-27
-* [clumsy](https://github.com/jagt/clumsy) ⭐ 6,230 | 🐛 131 | 🌐 C | 📅 2025-11-25 clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
+* [clumsy](https://github.com/jagt/clumsy) ⭐ 6,231 | 🐛 131 | 🌐 C | 📅 2025-11-25 clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 * [NetworkBenchmarkDotNet](https://github.com/JohannesDeml/NetworkBenchmarkDotNet) ⭐ 87 | 🐛 1 | 🌐 C# | 📅 2023-04-06
 * [Explaining how fighting games use delay-based and rollback netcode](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/)
 * [deterministic-netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
@@ -2887,14 +2887,14 @@ Table of Contents
 
 #### C\#
 
-* [Mirror](https://github.com/vis2k/Mirror) ⭐ 6,327 | 🐛 67 | 🌐 C# | 📅 2026-09-11 A community replacement for Unity's abandoned UNET Networking System.
-* [netmq](https://github.com/zeromq/netmq) ⭐ 3,181 | 🐛 135 | 🌐 C# | 📅 2026-07-30 A 100% native C# implementation of ZeroMQ for .NET
-* [NetCoreServer](https://github.com/chronoxor/NetCoreServer) ⭐ 3,133 | 🐛 184 | 🌐 C# | 📅 2026-09-09 Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
+* [Mirror](https://github.com/vis2k/Mirror) ⭐ 6,328 | 🐛 67 | 🌐 C# | 📅 2026-09-11 A community replacement for Unity's abandoned UNET Networking System.
+* [netmq](https://github.com/zeromq/netmq) ⭐ 3,180 | 🐛 135 | 🌐 C# | 📅 2026-07-30 A 100% native C# implementation of ZeroMQ for .NET
+* [NetCoreServer](https://github.com/chronoxor/NetCoreServer) ⭐ 3,132 | 🐛 184 | 🌐 C# | 📅 2026-09-09 Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
 * [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) ⭐ 1,222 | 🐛 68 | 🌐 C# | 📅 2021-01-29 Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
 * [BeetleX](https://github.com/beetlex-io/BeetleX) ⭐ 1,200 | 🐛 5 | 🌐 C# | 📅 2024-08-05 high performance dotnet core socket tcp communication components, support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols and 1M connections problem solution
 * [ENet-CSharp](https://github.com/nxrighthere/ENet-CSharp) ⭐ 908 | 🐛 0 | 🌐 C | 📅 2025-07-03 Reliable UDP networking library
-* [multiplayer-community-contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions) ⭐ 554 | 🐛 81 | 🌐 C# | 📅 2026-09-08
-* [libplanet](https://github.com/planetarium/libplanet) ⭐ 534 | 🐛 114 | 🌐 C# | 📅 2026-09-12 Blockchain core in C#/.NET for persistent peer-to-peer online games
+* [multiplayer-community-contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions) ⭐ 555 | 🐛 81 | 🌐 C# | 📅 2026-09-08
+* [libplanet](https://github.com/planetarium/libplanet) ⭐ 534 | 🐛 114 | 🌐 C# | 📅 2026-09-13 Blockchain core in C#/.NET for persistent peer-to-peer online games
 * [SAEA](https://github.com/yswenli/SAEA) ⭐ 425 | 🐛 1 | 🌐 C# | 📅 2026-06-30 SAEA.Socket是一个高性能IOCP框架的 TCP，基于dotnet standard 2.0；Src中含有其应用测试场景，例如websocket、rpc、redis驱动、MVC WebAPI、轻量级消息服…
 * [ValveSockets-CSharp](https://github.com/nxrighthere/ValveSockets-CSharp) ⭐ 424 | 🐛 5 | 🌐 C# | 📅 2022-10-27 This repository provides a managed C# abstraction of GameNetworkingSockets library which is created and maintained by Valve Software. You will need to build the native library with all required dependencies before you get started.
 * [HiSocket](https://github.com/hiramtan/HiSocket) ⭐ 367 | 🐛 1 | 🌐 C# | 📅 2021-12-20 It is a lightweight client socket solution, you can used it in Unity3d or C# project
@@ -2907,10 +2907,10 @@ Table of Contents
 * [EasyTcp4Net](https://github.com/BruceQiu1996/EasyTcp4Net/) ⭐ 69 | 🐛 0 | 🌐 C# | 📅 2025-05-26
 * [SpaceWizards.Lidgren.Network](https://github.com/space-wizards/SpaceWizards.Lidgren.Network) ⭐ 59 | 🐛 5 | 🌐 C# | 📅 2026-07-23
 * [Enclave.FastPacket](https://github.com/enclave-networks/Enclave.FastPacket) ⭐ 42 | 🐛 1 | 🌐 C# | 📅 2025-01-24 The FastPacket project provides efficient, zero-allocation mechanisms for reading and writing individual network packets
-* <https://github.com/Molth/enet-csharp> ⭐ 41 | 🐛 0 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/Molth/enet-csharp> ⭐ 42 | 🐛 0 | 🌐 C# | 📅 2026-09-13
 * [Unity-Mirror-Helper-Scripts](https://github.com/Goodgulf281/Unity-Mirror-Helper-Scripts) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2024-12-07 A collection of helper scripts for (Unity3d) Mirror networking.
 * <https://github.com/ReferenceType/StandardNetworkLibrary> ⭐ 28 | 🐛 1 | 🌐 C# | 📅 2025-04-23
-* [NativeSockets](https://github.com/Molth/NativeSockets) ⭐ 21 | 🐛 1 | 🌐 C# | 📅 2026-09-12
+* [NativeSockets](https://github.com/Molth/NativeSockets) ⭐ 21 | 🐛 1 | 🌐 C# | 📅 2026-09-13
 * [BeetleX.Light](https://github.com/beetlex-io/BeetleX.Light) ⭐ 19 | 🐛 0 | 🌐 C# | 📅 2024-06-03 Based on pipelines high performance dotnet core socket tcp communication components, support tls, http, https, websocket, rpc, mqtt, redis protocols, millions of connections are supported.
 * [SyncUtilForMirror](https://github.com/fuqunaga/SyncUtilForMirror) ⭐ 17 | 🐛 0 | 🌐 C# | 📅 2025-11-04
 * [heartbeat](https://github.com/AliKhalili/heartbeat) ⭐ 6 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-10-28
@@ -2925,19 +2925,19 @@ Table of Contents
 * [supersocket](https://docs.supersocket.net/) 国人的骄傲
 * [Sockets Under Control unity-plugin](https://assetstore.unity.com/packages/tools/network/sockets-under-control-159512)
 
-- [Nakama](https://github.com/heroiclabs/nakama) ⭐ 13,315 | 🐛 119 | 🌐 Go | 📅 2026-09-11 - An open-source distributed social and realtime server for games and apps by [Heroic Labs](https://heroiclabs.com). It includes a large set of services for users, data storage, and realtime client/server communication; as well as specialized APIs like realtime multiplayer, groups/guilds, and chat.
+- [Nakama](https://github.com/heroiclabs/nakama) ⭐ 13,319 | 🐛 122 | 🌐 Go | 📅 2026-09-11 - An open-source distributed social and realtime server for games and apps by [Heroic Labs](https://heroiclabs.com). It includes a large set of services for users, data storage, and realtime client/server communication; as well as specialized APIs like realtime multiplayer, groups/guilds, and chat.
 - [ET](https://github.com/egametang/ET) ⭐ 9,907 | 🐛 87 | 🌐 C# | 📅 2026-08-26 - Unity3D Client And C# Server Framework
 - [websocket-sharp](https://github.com/sta/websocket-sharp) ⭐ 6,078 | 🐛 559 | 🌐 C# | 📅 2026-09-07 - A C# implementation of the WebSocket protocol client and server
-- [MagicOnion](https://github.com/neuecc/MagicOnion) ⭐ 4,448 | 🐛 8 | 🌐 C# | 📅 2026-09-08 - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
-- [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) ⭐ 3,751 | 🐛 212 | 🌐 C# | 📅 2026-09-03 - Another fucking c# Steamworks implementation
+- [MagicOnion](https://github.com/neuecc/MagicOnion) ⭐ 4,449 | 🐛 8 | 🌐 C# | 📅 2026-09-08 - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
+- [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) ⭐ 3,753 | 🐛 212 | 🌐 C# | 📅 2026-09-03 - Another fucking c# Steamworks implementation
 - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) ⭐ 3,621 | 🐛 7 | 🌐 C# | 📅 2026-06-18 - Lite reliable UDP library for Mono and .NET
 - [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) ⭐ 3,602 | 🐛 173 | 🌐 C# | 📅 2026-08-07 - Steamworks wrapper for Unity / C#
-- [MLAPI](https://github.com/MidLevel/MLAPI) ⭐ 2,322 | 🐛 61 | 🌐 C# | 📅 2026-09-12 - A game networking framework built for the Unity Engine to abstract game networking concepts
+- [MLAPI](https://github.com/MidLevel/MLAPI) ⭐ 2,323 | 🐛 61 | 🌐 C# | 📅 2026-09-13 - A game networking framework built for the Unity Engine to abstract game networking concepts
 - [FishNet](https://github.com/FirstGearGames/FishNet) ⭐ 2,046 | 🐛 13 | 🌐 C# | 📅 2026-09-02 FishNet: Networking Evolved. (OPEN BETA)
 - [NativeWebSocket](https://github.com/endel/NativeWebSocket) ⭐ 1,719 | 🐛 57 | 🌐 C# | 📅 2026-08-07 WebSocket client for Unity - with no external dependencies (WebGL, Native, Android, iOS, UWP)
 - [FastTunnel](https://github.com/FastTunnel/FastTunnel) ⭐ 1,702 | 🐛 17 | 🌐 C# | 📅 2026-05-20 expose a local server to the internet. 高性能跨平台的内网穿透解决方案 远程内网计算机 域名访问内网站点 反向代理内网服务 端口转发 http代理
 - [FreeIM](https://github.com/2881099/FreeIM) ⭐ 1,583 | 🐛 42 | 🌐 C# | 📅 2025-12-18 .NETCore websocket 实现简易、高性能、集群即时通讯组件，支持点对点通讯、群聊通讯、上线下线事件消息等众多实用性功能.
-- [linker](https://github.com/snltty/linker) ⭐ 1,502 | 🐛 2 | 🌐 C# | 📅 2026-08-27 NET8、p2p打洞(tcp+udp)，和异地组网(点对点，点对网，网对网)，和内网穿透，.NET8 NAT transfer, Virtual Private Network，P2P Tunnel
+- [linker](https://github.com/snltty/linker) ⭐ 1,504 | 🐛 2 | 🌐 C# | 📅 2026-08-27 NET8、p2p打洞(tcp+udp)，和异地组网(点对点，点对网，网对网)，和内网穿透，.NET8 NAT transfer, Virtual Private Network，P2P Tunnel
 - [Forge Networking Remastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) ⚠️ Archived - In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine. You wanna make a multiplayer game or real time multi-user application? This is the library for you.
 - <https://github.com/qq362946/Fantasy> ⭐ 1,425 | 🐛 10 | 🌐 C# | 📅 2026-09-07
 - [RestClient](https://github.com/proyecto26/RestClient) ⭐ 1,313 | 🐛 25 | 🌐 C# | 📅 2026-03-22 - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks!
@@ -2953,12 +2953,12 @@ Table of Contents
 - [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) ⭐ 896 | 🐛 24 | 🌐 C# | 📅 2014-05-04 - socket.io client for unity3d.
 - [SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) ⭐ 787 | 🐛 61 | 🌐 C# | 📅 2020-08-20 - Socket.IO Client Library for .Net
 - [UnityHTTP](https://github.com/andyburke/UnityHTTP) ⭐ 596 | 🐛 18 | 🌐 C# | 📅 2017-09-13 - A TcpClient-based HTTP library for Unity
-- [Mirage](https://github.com/MirageNet/Mirage) ⭐ 570 | 🐛 8 | 🌐 C# | 📅 2026-08-30 Easy to use Network library for Unity 3d
+- [Mirage](https://github.com/MirageNet/Mirage) ⭐ 571 | 🐛 8 | 🌐 C# | 📅 2026-08-30 Easy to use Network library for Unity 3d
 - [java-Kcp](https://github.com/l42111996/java-Kcp) ⭐ 535 | 🐛 3 | 🌐 Java | 📅 2026-08-12 基于java的netty实现的可靠udp网络库(kcp算法)，包含fec实现，可用于游戏，视频，加速等业务
 - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) ⭐ 485 | 🐛 124 | 🌐 C# | 📅 2021-02-22 - Master Server framework for Unity
 - [Networker](https://github.com/MarkioE/Networker) ⚠️ Archived -
   A simple to use TCP and UDP networking library for .NET. Compatible with Unity
-- [Colyseus](http://colyseus.io/) - Multiplayer Game Server for Node.js. [Demo with Unity3D](https://github.com/gamestdio/colyseus-unity3d) ⭐ 436 | 🐛 25 | 🌐 C# | 📅 2026-09-01
+- [Colyseus](http://colyseus.io/) - Multiplayer Game Server for Node.js. [Demo with Unity3D](https://github.com/gamestdio/colyseus-unity3d) ⭐ 436 | 🐛 25 | 🌐 C# | 📅 2026-09-13
 - [Hazel-Networking](https://github.com/willardf/Hazel-Networking) ⭐ 412 | 🐛 11 | 🌐 C# | 📅 2025-11-04 - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
 - [kcp2k](https://github.com/vis2k/kcp2k) ⭐ 380 | 🐛 24 | 🌐 C# | 📅 2024-10-12
 - [learning-kcp-protocol](https://github.com/frimin/learning-kcp-protocol) ⭐ 337 | 🐛 0 | 🌐 C | 📅 2022-06-27 KCP协议基本数据结构和算法介绍
@@ -2977,7 +2977,7 @@ Table of Contents
 - [Unity-Netcode.IO](https://github.com/GlaireDaggers/Unity-Netcode.IO) ⭐ 128 | 🐛 4 | 🌐 C# | 📅 2017-09-16 A lightweight plugin to allow Unity games to use Netcode.IO for secure UDP socket communication.
 - [LiteNetLibManager](https://github.com/insthync/LiteNetLibManager) ⭐ 126 | 🐛 1 | 🌐 C# | 📅 2026-09-10 - Higher level implementation for LiteNetLib
 - [GrpcWebSocketBridge](https://github.com/Cysharp/GrpcWebSocketBridge) ⭐ 118 | 🐛 1 | 🌐 C# | 📅 2026-09-11 Yet Another gRPC over HTTP/1 using WebSocket implementation, primarily targets .NET platform.
-- [FishMMO](https://github.com/jimdroberts/FishMMO) ⭐ 117 | 🐛 65 | 🌐 C# | 📅 2026-09-12 FishNetworking MMO Template
+- [FishMMO](https://github.com/jimdroberts/FishMMO) ⭐ 117 | 🐛 65 | 🌐 C# | 📅 2026-09-13 FishNetworking MMO Template
 - [MassiveNet](https://github.com/jakevn/MassiveNet) ⭐ 111 | 🐛 5 | 🌐 C# | 📅 2015-01-16 - Unity3d UDP networking library focused on high-CCU, multi-server architecture.
 - [HouraiNetworking](https://github.com/HouraiTeahouse/HouraiNetworking) ⭐ 110 | 🐛 6 | 🌐 C# | 📅 2021-06-04 Transport level library for peer-to-peer networking with multiple backends for the Unity.
 - [Netly](https://github.com/alec1o/Netly?) ⭐ 110 | 🐛 13 | 🌐 C# | 📅 2026-05-19 Netly is a open source socket library for c# (C-Sharp). It facilitates the use of socket (UDP and TCP, Client and Server) with which it is compatible (Android, iOS, macOS, Linux, Windows, ...) as long as it is compiled with its destination.
@@ -3016,7 +3016,7 @@ Table of Contents
 - [weaving-socket](https://gitee.com/dotnetchina/weaving-socket) 支持.NET5.0，core, U3D,物联网，web,通用，网关 socket通讯,架构带有内置协议，保证数据完整.
 - [Cube](https://github.com/MKSQD/Cube) Scalable high level network library for Unity
 
-* [PurrNet](https://github.com/PurrNet/PurrNet) ⭐ 671 | 🐛 0 | 🌐 C# | 📅 2026-09-12
+* [PurrNet](https://github.com/PurrNet/PurrNet) ⭐ 672 | 🐛 0 | 🌐 C# | 📅 2026-09-13
 * [Pipelines.Sockets.Unofficial](https://github.com/mgravell/Pipelines.Sockets.Unofficial) ⭐ 444 | 🐛 18 | 🌐 C# | 📅 2026-05-22 This is a managed sockets connector for the System.IO.Pipelines API,
 * [EntityNetworkingSystems](https://github.com/AncientEntity/EntityNetworkingSystems) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2023-12-04 A networking framework for Unity.
 * [JNetwork](https://github.com/1176892094/JNetwork) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2026-09-09
@@ -3036,11 +3036,11 @@ Table of Contents
 
 #### C/CPP
 
-* [Muduo](https://github.com/chenshuo/muduo) ⭐ 16,244 | 🐛 85 | 🌐 C++ | 📅 2025-12-23
-* [workflow](https://github.com/sogou/workflow) ⭐ 14,422 | 🐛 27 | 🌐 C++ | 📅 2026-08-10 C++ Parallel Computing and Asynchronous Networking Engine
+* [Muduo](https://github.com/chenshuo/muduo) ⭐ 16,245 | 🐛 85 | 🌐 C++ | 📅 2025-12-23
+* [workflow](https://github.com/sogou/workflow) ⭐ 14,421 | 🐛 27 | 🌐 C++ | 📅 2026-08-10 C++ Parallel Computing and Asynchronous Networking Engine
 * [libhv](https://github.com/ithewei/libhv) ⭐ 7,549 | 🐛 42 | 🌐 C | 📅 2026-09-09 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
 * [handy](https://github.com/yedf2/handy) ⭐ 4,643 | 🐛 23 | 🌐 C++ | 📅 2023-08-19 简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
-* [ggpo](https://github.com/pond3r/ggpo) ⭐ 3,585 | 🐛 30 | 🌐 C++ | 📅 2024-06-26 Good Game, Peace Out Rollback Network SDK
+* [ggpo](https://github.com/pond3r/ggpo) ⭐ 3,586 | 🐛 30 | 🌐 C++ | 📅 2024-06-26 Good Game, Peace Out Rollback Network SDK
 * <https://github.com/skypjack/uvw/> ⭐ 2,056 | 🐛 13 | 🌐 C++ | 📅 2025-12-17
 * [CppNet](https://github.com/caozhiyi/CppNet) ⭐ 1,132 | 🐛 0 | 🌐 C++ | 📅 2024-08-16
 * [yasio](https://github.com/yasio/yasio/) ⭐ 1,059 | 🐛 0 | 🌐 C++ | 📅 2026-09-10  A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
@@ -3057,15 +3057,15 @@ Table of Contents
 #### Web/Http/Server/Client
 
 * <https://github.com/filebrowser/filebrowser> ⚠️ Archived
-* <https://github.com/cloudflare/pingora> ⭐ 27,353 | 🐛 278 | 🌐 Rust | 📅 2026-09-11
-* <https://github.com/uNetworking/uWebSockets> ⭐ 18,985 | 🐛 49 | 🌐 C++ | 📅 2026-09-03
+* <https://github.com/cloudflare/pingora> ⭐ 27,357 | 🐛 278 | 🌐 Rust | 📅 2026-09-11
+* <https://github.com/uNetworking/uWebSockets> ⭐ 18,985 | 🐛 51 | 🌐 C++ | 📅 2026-09-13
 * <https://github.com/codeskyblue/gohttpserver> ⭐ 2,840 | 🐛 115 | 🌐 JavaScript | 📅 2026-07-03
-* [Downloader](https://github.com/bezzad/Downloader) ⭐ 1,705 | 🐛 0 | 🌐 C# | 📅 2026-09-06 Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
+* [Downloader](https://github.com/bezzad/Downloader) ⭐ 1,707 | 🐛 0 | 🌐 C# | 📅 2026-09-13 Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 * [RestClient](https://github.com/proyecto26/RestClient) ⭐ 1,313 | 🐛 25 | 🌐 C# | 📅 2026-03-22 A Promise based REST and HTTP client for Unity
 * [BackgroundDownload](https://github.com/Unity-Technologies/BackgroundDownload) ⭐ 782 | 🐛 17 | 🌐 C# | 📅 2023-08-21
 * [WatsonWebserver](https://github.com/dotnet/WatsonWebserver) ⭐ 504 | 🐛 0 | 🌐 C# | 📅 2026-08-16 Watson is the fastest, easiest way to build scalable RESTful web servers and services in C#.
 * [davinci](https://github.com/shamsdev/davinci) ⭐ 302 | 🐛 17 | 🌐 C# | 📅 2022-10-10 An esay-to-use image downloading and caching library for Unity
-* [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) ⭐ 278 | 🐛 5 | 🌐 C# | 📅 2026-09-11 A high performance, multi-threaded C# file download library.
+* [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) ⭐ 278 | 🐛 6 | 🌐 C# | 📅 2026-09-13 A high performance, multi-threaded C# file download library.
 * <https://github.com/sableangle/UnityHTTPServer> ⭐ 137 | 🐛 5 | 🌐 C# | 📅 2023-11-12
 * [UnityFileDownloader](https://github.com/jpgordon00/UnityFileDownloader) ⭐ 71 | 🐛 2 | 🌐 C# | 📅 2022-12-19 Download multiple files at a time in Unity.
 * <https://github.com/scanfing/HttpFileServer> ⭐ 47 | 🐛 1 | 🌐 C# | 📅 2026-08-04
@@ -3089,7 +3089,7 @@ Table of Contents
 
 ### Article/Course
 
-* <https://github.com/Pikachuxxxx/Razix> ⭐ 494 | 🐛 48 | 🌐 C++ | 📅 2026-09-03
+* <https://github.com/Pikachuxxxx/Razix> ⭐ 494 | 🐛 49 | 🌐 C++ | 📅 2026-09-03
 * <https://isetta.io/resources/>
 * <https://ourmachinery.com/>
 * <https://enginearchitecture.org/>
@@ -3107,19 +3107,19 @@ Table of Contents
 
 ### 2D Engines and Frameworks
 
-* [sbox-public](https://github.com/Facepunch/sbox-public) ⭐ 6,457 | 🐛 2,426 | 🌐 C# | 📅 2026-09-11
-* [galacean](https://github.com/galacean/engine) ⭐ 5,885 | 🐛 195 | 🌐 TypeScript | 📅 2026-09-12 A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
+* [sbox-public](https://github.com/Facepunch/sbox-public) ⭐ 6,460 | 🐛 2,431 | 🌐 C# | 📅 2026-09-13
+* [galacean](https://github.com/galacean/engine) ⭐ 5,886 | 🐛 195 | 🌐 TypeScript | 📅 2026-09-12 A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
 * [Ambient](https://github.com/AmbientRun/Ambient) ⭐ 3,909 | 🐛 281 | 🌐 Rust | 📅 2025-01-07 The multiplayer game engine
-* [Easy3D](https://github.com/LiangliangNan/Easy3D) ⭐ 1,655 | 🐛 5 | 🌐 C++ | 📅 2026-08-27 A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
+* [Easy3D](https://github.com/LiangliangNan/Easy3D) ⭐ 1,654 | 🐛 5 | 🌐 C++ | 📅 2026-08-27 A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 * [Skybolt](https://github.com/Piraxus/Skybolt) ⭐ 655 | 🐛 1 | 🌐 C++ | 📅 2026-09-03 Planetary rendering engine and aerospace simulation tools
 * [Dora-SSR](https://github.com/IppClub/Dora-SSR) ⭐ 513 | 🐛 11 | 🌐 C++ | 📅 2026-09-12 Dora Project, Special Super Rare Edition
-* [EvoEngine](https://github.com/edisonlee0212/EvoEngine) ⭐ 39 | 🐛 21 | 🌐 C++ | 📅 2026-09-09 An early-stage, cross-platform interactive application and rendering framework.
+* [EvoEngine](https://github.com/edisonlee0212/EvoEngine) ⭐ 39 | 🐛 21 | 🌐 C++ | 📅 2026-09-13 An early-stage, cross-platform interactive application and rendering framework.
 
 - [EnchantJS](https://github.com/wise9/enchant.js) ⭐ 1,687 | 🐛 45 | 🌐 JavaScript | 📅 2026-02-09 - A simple JavaScript framework for creating games and apps.
 
 - [VelcroPhysics](https://github.com/Genbox/VelcroPhysics) ⭐ 745 | 🐛 22 | 🌐 C# | 📅 2021-08-01 High performance 2D collision detection system with realistic physics responses.
 
-- [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) ⭐ 645 | 🐛 18 | 🌐 Java | 📅 2026-08-04 - Classic point and click adventure game engine and editor. :o2:
+- [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) ⭐ 644 | 🐛 18 | 🌐 Java | 📅 2026-08-04 - Classic point and click adventure game engine and editor. :o2:
 
 - [Cocos2D](https://github.com/los-cocos/cocos) ⭐ 637 | 🐛 52 | 🌐 Python | 📅 2023-10-08 - graphic library for games and multimedia, for python language :o2:
 
@@ -3265,37 +3265,37 @@ Table of Contents
 
 ### 3D Engines and Frameworks
 
-* [sbox](https://github.com/Facepunch/sbox-public) ⭐ 6,457 | 🐛 2,426 | 🌐 C# | 📅 2026-09-11  s\&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+* [sbox](https://github.com/Facepunch/sbox-public) ⭐ 6,460 | 🐛 2,431 | 🌐 C# | 📅 2026-09-13  s\&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 * [carbonengine](https://github.com/orgs/carbonengine/) Open-source technology for persistent sandbox worlds - Powering EVE Online & EVE Frontier
 
-- [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,474 | 🐛 284 | 🌐 C++ | 📅 2026-09-12 - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. :o2:
-- [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) ⭐ 6,346 | 🐛 55 | 🌐 JavaScript | 📅 2025-01-01 - 3d javacript framework for building apps and games :o2:
+- [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,481 | 🐛 284 | 🌐 C++ | 📅 2026-09-13 - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. :o2:
+- [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) ⭐ 6,348 | 🐛 55 | 🌐 JavaScript | 📅 2025-01-01 - 3d javacript framework for building apps and games :o2:
 - [kajiya](https://github.com/EmbarkStudios/kajiya) ⚠️ Archived Experimental real-time global illumination renderer
-- [mach](https://github.com/hexops/mach) ⭐ 4,837 | 🐛 167 | 🌐 Zig | 📅 2026-05-23 Mach is a game engine & graphics toolkit for the future.
-- [kaiju](https://github.com/KaijuEngine/kaiju) ⭐ 4,705 | 🐛 64 | 🌐 Go | 📅 2026-09-08
+- [mach](https://github.com/hexops/mach) ⭐ 4,840 | 🐛 167 | 🌐 Zig | 📅 2026-05-23 Mach is a game engine & graphics toolkit for the future.
+- [kaiju](https://github.com/KaijuEngine/kaiju) ⭐ 4,705 | 🐛 64 | 🌐 Go | 📅 2026-09-13
 - [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,436 | 🐛 24 | 🌐 Batchfile | 📅 2026-09-01 - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan. :o2:
-- [OpenXRay](https://github.com/OpenXRay/xray-16) ⭐ 3,559 | 🐛 294 | 🌐 C++ | 📅 2026-09-12 - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. :triangular\_flag\_on\_post:
-- [SpartanEngine](https://github.com/PanosK92/SpartanEngine) ⭐ 3,133 | 🐛 26 | 🌐 C++ | 📅 2026-09-10
+- [OpenXRay](https://github.com/OpenXRay/xray-16) ⭐ 3,560 | 🐛 290 | 🌐 C++ | 📅 2026-09-13 - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. :triangular\_flag\_on\_post:
+- [SpartanEngine](https://github.com/PanosK92/SpartanEngine) ⭐ 3,135 | 🐛 26 | 🌐 C++ | 📅 2026-09-13
 - [Rajawali](https://github.com/Rajawali/Rajawali) ⭐ 2,414 | 🐛 190 | 🌐 Java | 📅 2023-04-13 - Android OpenGL ES 2.0/3.0 Engine  :o2:
 - [appleseed](https://github.com/appleseedhq/appleseed) ⭐ 2,317 | 🐛 462 | 🌐 C++ | 📅 2026-06-11 A modern open source rendering engine for animation and visual effects
 - [ray-mmd](https://github.com/ray-cast/ray-mmd) ⭐ 1,939 | 🐛 80 | 🌐 HLSL | 📅 2024-06-23 The project is designed to create a physically-based rendering at mikumikudance
 - [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) ⭐ 1,613 | 🐛 12 | 🌐 C++ | 📅 2026-09-11 AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
 - [Horde3D](https://github.com/horde3d/Horde3D) ⭐ 1,588 | 🐛 21 | 🌐 C++ | 📅 2026-09-09 Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.
-- [Prowl](https://github.com/michaelsakharov/Prowl) ⭐ 1,138 | 🐛 21 | 🌐 C# | 📅 2026-09-12
+- [Prowl](https://github.com/michaelsakharov/Prowl) ⭐ 1,150 | 🐛 25 | 🌐 C# | 📅 2026-09-13
 - [hybrid-rendering](https://github.com/diharaw/hybrid-rendering) ⭐ 1,022 | 🐛 2 | 🌐 C++ | 📅 2025-08-07 A Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline.
 - [LinaEngine](https://github.com/inanevin/LinaEngine) ⭐ 900 | 🐛 2 | 🌐 C++ | 📅 2025-10-08 Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 - [StratusGFX](https://github.com/KTStephano/StratusGFX) ⭐ 817 | 🐛 0 | 🌐 C++ | 📅 2025-06-12
 - [RenderLab](https://github.com/Ubpa/RenderLab) ⭐ 798 | 🐛 4 | 🌐 C++ | 📅 2022-03-04 渲染实验室，包含了实时渲染，离线渲染和场景编辑的功能
 - [EveryRay-Rendering-Engine](https://github.com/steaklive/EveryRay-Rendering-Engine) ⭐ 771 | 🐛 10 | 🌐 C++ | 📅 2025-10-19 Robust real-time rendering engine on DirectX 11 with many advanced graphics features for quick prototyping
-- [DiligentCore](https://github.com/DiligentGraphics/DiligentCore) ⭐ 752 | 🐛 52 | 🌐 C++ | 📅 2026-09-11
-- [LuisaRender](https://github.com/LuisaGroup/LuisaRender) ⭐ 618 | 🐛 6 | 🌐 C++ | 📅 2026-07-16
+- [DiligentCore](https://github.com/DiligentGraphics/DiligentCore) ⭐ 753 | 🐛 52 | 🌐 C++ | 📅 2026-09-11
+- [LuisaRender](https://github.com/LuisaGroup/LuisaRender) ⭐ 620 | 🐛 6 | 🌐 C++ | 📅 2026-07-16
 - [neoGFX](https://github.com/i42output/neoGFX) ⭐ 574 | 🐛 54 | 🌐 C++ | 📅 2026-09-12 Cross-platform GPU-oriented C++ application/game framework
 - [flowers](https://github.com/ray-cast/flowers) ⭐ 510 | 🐛 10 | 🌐 C++ | 📅 2024-06-29 🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛
 - [Dash](https://github.com/Circular-Studios/Dash) ⭐ 426 | 🐛 33 | 🌐 D | 📅 2020-12-18 - A free and open 3D game engine written in D. :o2:
 - [RenderPipelineShaders](https://github.com/GPUOpen-LibrariesAndSDKs/RenderPipelineShaders) ⭐ 361 | 🐛 16 | 🌐 C++ | 📅 2024-05-17 Render Pipeline Shaders SDK
 - [ge](https://github.com/mellinoe/ge) ⭐ 317 | 🐛 2 | 🌐 C# | 📅 2020-03-22 A general-purpose 3D game engine with editor, built with .NET Core
 - [MoltenEngine](https://github.com/Syncaidius/MoltenEngine) ⭐ 296 | 🐛 87 | 🌐 C# | 📅 2024-11-11 A spare-time C# .NET 7 game engine project. Cross-platform, multi-threaded.
-- [NeoAxisEngine](https://github.com/NeoAxis/NeoAxisEngine) ⭐ 262 | 🐛 4 | 🌐 C# | 📅 2026-09-09 NeoAxis Engine is a versatile real-time platform for making 3D, 2D games and apps.
+- [NeoAxisEngine](https://github.com/NeoAxis/NeoAxisEngine) ⭐ 262 | 🐛 4 | 🌐 C# | 📅 2026-09-13 NeoAxis Engine is a versatile real-time platform for making 3D, 2D games and apps.
 - [EraEngine](https://github.com/EldarMuradov/EraEngine) ⭐ 188 | 🐛 2 | 🌐 C++ | 📅 2026-09-11
 - [DeltaEngine](https://github.com/DeltaEngine/DeltaEngine) ⭐ 146 | 🐛 2 | 🌐 C# | 📅 2017-11-10 Open Source Multiplatform Game Engine, C# OpenGL Version (custom wrapper) including the Editor
 - [Turbo](https://github.com/FuXiii/Turbo) ⭐ 121 | 🐛 14 | 🌐 C++ | 📅 2026-08-31 Turbo is rendering engine base Vulkan
@@ -3348,14 +3348,14 @@ Table of Contents
 - [Xenko Game Engine](http://xenko.com/) -  open-source C# game engine designed for the future of gaming :o2:
 - [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 
-* [Hazel](https://github.com/TheCherno/Hazel) ⭐ 13,098 | 🐛 135 | 🌐 C++ | 📅 2024-04-20
+* [Hazel](https://github.com/TheCherno/Hazel) ⭐ 13,096 | 🐛 135 | 🌐 C++ | 📅 2024-04-20
 * [WickedEngine](https://github.com/turanszkij/WickedEngine) ⭐ 7,228 | 🐛 116 | 🌐 C++ | 📅 2026-09-08
-* [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) ⭐ 7,007 | 🐛 785 | 🌐 C++ | 📅 2026-09-10
+* [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) ⭐ 7,008 | 🐛 785 | 🌐 C++ | 📅 2026-09-10
 * <https://github.com/nem0/LumixEngine> ⭐ 3,878 | 🐛 35 | 🌐 C++ | 📅 2026-09-11
-* [FNA](https://github.com/FNA-XNA/FNA) ⭐ 3,042 | 🐛 77 | 🌐 C# | 📅 2026-09-09 FNA - Accuracy-focused XNA4 reimplementation for open platforms
-* <https://github.com/magefree/mage> ⭐ 2,355 | 🐛 1,918 | 🌐 Java | 📅 2026-09-12
-* [source-engine](https://github.com/nillerusr/source-engine) ⭐ 2,228 | 🐛 130 | 🌐 C++ | 📅 2025-11-25 Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
-* [ezEngine](https://github.com/ezEngine/ezEngine) ⭐ 2,018 | 🐛 33 | 🌐 C++ | 📅 2026-09-12 ezEngine is an open source C++ game engine in active development. It is currently mainly developed on Windows, and higher level functionality such as rendering and the tools are only available there, but the core libraries are also available for other platforms such as Mac and Linux.
+* [FNA](https://github.com/FNA-XNA/FNA) ⭐ 3,042 | 🐛 73 | 🌐 C# | 📅 2026-09-13 FNA - Accuracy-focused XNA4 reimplementation for open platforms
+* <https://github.com/magefree/mage> ⭐ 2,355 | 🐛 1,916 | 🌐 Java | 📅 2026-09-13
+* [source-engine](https://github.com/nillerusr/source-engine) ⭐ 2,231 | 🐛 130 | 🌐 C++ | 📅 2025-11-25 Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
+* [ezEngine](https://github.com/ezEngine/ezEngine) ⭐ 2,019 | 🐛 34 | 🌐 C++ | 📅 2026-09-13 ezEngine is an open source C++ game engine in active development. It is currently mainly developed on Windows, and higher level functionality such as rendering and the tools are only available there, but the core libraries are also available for other platforms such as Mac and Linux.
 * [rbfx](https://github.com/rokups/rbfx) ⭐ 1,037 | 🐛 103 | 🌐 C++ | 📅 2026-09-12
 * [skylicht-engine](https://github.com/skylicht-lab/skylicht-engine) ⭐ 770 | 🐛 28 | 🌐 C++ | 📅 2026-09-03 Skylicht Engine is C++ Game Engine based on Irrlicht 3D
 * [Gorgon](https://github.com/Tape-Worm/Gorgon) ⭐ 105 | 🐛 1 | 🌐 C# | 📅 2026-06-30
@@ -3370,9 +3370,9 @@ Table of Contents
 
 ## Creative Code
 
-* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,317 | 🐛 12 | 🌐 HTML | 📅 2026-07-21
+* <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,320 | 🐛 12 | 🌐 HTML | 📅 2026-07-21
 * <https://github.com/nannou-org/nannou> ⭐ 6,749 | 🐛 278 | 🌐 Rust | 📅 2026-07-15
-* [awesome-casestudy](https://github.com/luruke/awesome-casestudy) ⭐ 2,624 | 🐛 0 | 📅 2022-09-28 : Curated list of technical case studies on WebGL and creative development
+* [awesome-casestudy](https://github.com/luruke/awesome-casestudy) ⭐ 2,623 | 🐛 0 | 📅 2022-09-28 : Curated list of technical case studies on WebGL and creative development
 * <https://github.com/jasonwebb/morphogenesis-resources> ⭐ 2,283 | 🐛 17 | 📅 2026-09-10
 * <https://github.com/TheFuseLab/VL.Fuse> ⭐ 314 | 🐛 67 | 🌐 C# | 📅 2026-09-12
 * <https://github.com/keenanwoodall/Sketch> ⭐ 33 | 🐛 0 | 🌐 C# | 📅 2024-06-11
@@ -3386,10 +3386,10 @@ Table of Contents
 
 ### CPP
 
-* TBB Threading Building Blocks (TBB) lets you easily write parallel C++ programs that take full advantage of multicore performance, that are portable, composable and have future-proof scalability.[官网](https://github.com/oneapi-src/oneTBB) ⭐ 6,739 | 🐛 248 | 🌐 C++ | 📅 2026-09-11
-* HPX：用于任何规模的并行和分布式应用程序的通用C++运行时系统。[官网](https://github.com/STEllAR-GROUP/hpx/) ⭐ 2,891 | 🐛 139 | 🌐 C++ | 📅 2026-09-11
-* <https://github.com/rigtorp/awesome-lockfree> ⭐ 2,072 | 🐛 2 | 📅 2024-02-25
-* Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute) ⭐ 1,663 | 🐛 157 | 🌐 C++ | 📅 2026-08-12
+* TBB Threading Building Blocks (TBB) lets you easily write parallel C++ programs that take full advantage of multicore performance, that are portable, composable and have future-proof scalability.[官网](https://github.com/oneapi-src/oneTBB) ⭐ 6,740 | 🐛 248 | 🌐 C++ | 📅 2026-09-11
+* HPX：用于任何规模的并行和分布式应用程序的通用C++运行时系统。[官网](https://github.com/STEllAR-GROUP/hpx/) ⭐ 2,891 | 🐛 137 | 🌐 C++ | 📅 2026-09-13
+* <https://github.com/rigtorp/awesome-lockfree> ⭐ 2,073 | 🐛 2 | 📅 2024-02-25
+* Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute) ⭐ 1,664 | 🐛 157 | 🌐 C++ | 📅 2026-08-12
 * C++React：用于C++11的反应性编程库。[官网](https://github.com/schlangster/cpp.react) ⭐ 1,042 | 🐛 19 | 🌐 C++ | 📅 2021-05-17
 * VexCL：用于OpenCL/CUDA 的C++向量表达式模板库。[官网](https://github.com/ddemidov/vexcl) ⭐ 722 | 🐛 31 | 🌐 C++ | 📅 2026-09-11
 * Bolt：针对GPU进行优化的C++模板库。[官网](https://github.com/HSA-Libraries/Bolt) ⭐ 378 | 🐛 24 | 🌐 C++ | 📅 2016-02-11
@@ -3403,7 +3403,7 @@ Table of Contents
 ### C
 
 * ck：并发原语，安全内存回收机制和非阻塞数据结构。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/concurrencykit/ck) ⭐ 2,698 | 🐛 8 | 🌐 C | 📅 2026-09-04
-* OpenMPI：一个消息传输接口实现。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/open-mpi/ompi) ⭐ 2,641 | 🐛 833 | 🌐 C | 📅 2026-09-11
+* OpenMPI：一个消息传输接口实现。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/open-mpi/ompi) ⭐ 2,642 | 🐛 836 | 🌐 C | 📅 2026-09-12
 * cchan：一个线程间通信通道构建的小型库。公共领域。[官网](http://repo.hu/projects/cchan/)
 * mill：用 C 写成的 Go 风格并发。[X11](https://directory.fsf.org/wiki/License:X11)[官网](http://libmill.org/)
 * MPICH：MPI 的另一种实现。[MPICH licence](http://git.mpich.org/mpich.git/blob_plain/6aab201f58d71fc97f2c044d250389ba86ac1e3c:/COPYRIGHT)。[官网](http://www.mpich.org/)
@@ -3416,22 +3416,22 @@ Table of Contents
 
 ## Game-Math
 
-* [glm](https://github.com/g-truc/glm) ⭐ 11,213 | 🐛 126 | 🌐 C++ | 📅 2026-04-07 OpenGL Mathematics (GLM) <https://glm.g-truc.net>
-* [CGAL](https://github.com/CGAL/cgal) ⭐ 6,037 | 🐛 684 | 🌐 C++ | 📅 2026-09-10 geometric algorithms in the form of a C++ library.
+* [glm](https://github.com/g-truc/glm) ⭐ 11,217 | 🐛 126 | 🌐 C++ | 📅 2026-04-07 OpenGL Mathematics (GLM) <https://glm.g-truc.net>
+* [CGAL](https://github.com/CGAL/cgal) ⭐ 6,041 | 🐛 684 | 🌐 C++ | 📅 2026-09-10 geometric algorithms in the form of a C++ library.
 * [MathUtilities](https://github.com/zalo/MathUtilities) ⭐ 4,754 | 🐛 0 | 🌐 C# | 📅 2024-08-24 c# unity
 * [accord-net](https://github.com/accord-net/framework?) ⚠️ Archived c#
 * [cglm](https://github.com/recp/cglm) ⭐ 3,013 | 🐛 78 | 🌐 C | 📅 2026-07-29  Highly Optimized Graphics Math (glm) for C
 * [Mathfs](https://github.com/FreyaHolmer/Mathfs) ⭐ 2,751 | 🐛 3 | 🌐 C# | 📅 2026-07-31 c# Expanded Math Functionality for Unity
-* [geogram](https://github.com/BrunoLevy/geogram) ⭐ 2,534 | 🐛 63 | 🌐 C++ | 📅 2026-09-10 c++ a programming library with geometric algorithms
+* [geogram](https://github.com/BrunoLevy/geogram) ⭐ 2,535 | 🐛 63 | 🌐 C++ | 📅 2026-09-13 c++ a programming library with geometric algorithms
 * [polyscope](https://github.com/nmwsharp/polyscope) ⭐ 2,205 | 🐛 127 | 🌐 C++ | 📅 2026-09-06 A prototyping-oriented UI for geometric algorithms <https://polyscope.run>
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) ⭐ 1,900 | 🐛 120 | 🌐 C# | 📅 2026-01-09 C# library for 2D/3D geometric computation, mesh algorithms, and so on
 * [Eigen](https://github.com/eigenteam/eigen-git-mirror) ⭐ 1,820 | 🐛 3 | 🌐 C++ | 📅 2022-04-17 :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
-* [DirectXMath](https://github.com/Microsoft/DirectXMath) ⭐ 1,800 | 🐛 23 | 🌐 C++ | 📅 2026-09-08 DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
+* [DirectXMath](https://github.com/Microsoft/DirectXMath) ⭐ 1,801 | 🐛 23 | 🌐 C++ | 📅 2026-09-08 DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
 * [Computational](https://github.com/Habrador/Computational-geometry) ⭐ 1,467 | 🐛 8 | 🌐 C# | 📅 2024-06-18Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, etc
 * [unityMath](https://github.com/Unity-Technologies/Unity.Mathematics) ⭐ 1,442 | 🐛 59 | 🌐 C# | 📅 2026-08-06  c# unity
 * [mathfu](https://github.com/google/mathfu) ⚠️ Archived C++ math library developed primarily for games focused on simplicity and efficiency. <http://google.github.io/mathfu>
 * [GeometricTools](https://github.com/davideberly/GeometricTools) ⭐ 1,386 | 🐛 3 | 🌐 C++ | 📅 2026-08-14 :thumbsup: A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics.
-* [hlslpp](https://github.com/redorav/hlslpp) ⭐ 1,154 | 🐛 15 | 🌐 C++ | 📅 2026-09-06 Math library using hlsl syntax with SSE/NEON support
+* [hlslpp](https://github.com/redorav/hlslpp) ⭐ 1,155 | 🐛 15 | 🌐 C++ | 📅 2026-09-12 Math library using hlsl syntax with SSE/NEON support
 * [eigen](https://github.com/PX4/eigen) ⭐ 1,148 | 🐛 6 | 🌐 C++ | 📅 2023-10-18 Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 * [klein](https://github.com/jeremyong/klein) ⚠️ Archived :thumbsup:  P(R\*\_{3, 0, 1}) specialized SIMD Geometric Algebra Library <https://jeremyong.com/klein>
 * [Realtime Math ](https://github.com/nfrechette/rtm) ⭐ 798 | 🐛 17 | 🌐 C++ | 📅 2026-06-23
@@ -3483,7 +3483,7 @@ Table of Contents
 
 #### Math-Tool
 
-* [manim](https://github.com/ManimCommunity/manim) ⭐ 40,806 | 🐛 496 | 🌐 Python | 📅 2026-09-10
+* [manim](https://github.com/ManimCommunity/manim) ⭐ 40,816 | 🐛 499 | 🌐 Python | 📅 2026-09-10
 * [awesome-manim](https://github.com/ManimCommunity/awesome-manim) ⭐ 521 | 🐛 3 | 📅 2026-09-08
 * [DesmosBezierRenderer](https://github.com/zhulin025/DesmosBezierRenderer) ⭐ 57 | 🐛 0 | 🌐 HTML | 📅 2026-07-17
 * <https://github.com/zyl910/VectorTraits/> ⭐ 32 | 🐛 9 | 🌐 C# | 📅 2025-01-26
@@ -3518,7 +3518,7 @@ Table of Contents
 
 #### Courses/Article/website
 
-* <https://github.com/rossant/awesome-math> ⭐ 16,420 | 🐛 0 | 🌐 Python | 📅 2026-08-14
+* <https://github.com/rossant/awesome-math> ⭐ 16,426 | 🐛 0 | 🌐 Python | 📅 2026-08-14
 * [lir](https://github.com/Evryway/lir) ⭐ 46 | 🐛 0 | 🌐 C# | 📅 2024-12-10 Largest Interior Rectangle implementation in C# for Unity.
 * <https://github.com/Ohmnivore/com.not-unity.bsplines> ⭐ 0 | 🐛 1 | 🌐 C# | 📅 2023-06-27
 * <https://d3gt.com/index.html>
@@ -3615,13 +3615,13 @@ Table of Contents
 
 #### Physics Framework
 
-* <https://github.com/jrouwe/JoltPhysics> ⭐ 11,536 | 🐛 11 | 🌐 C++ | 📅 2026-09-12
-* [tinyc2](https://github.com/RandyGaul/cute_headers) ⭐ 5,063 | 🐛 28 | 🌐 C | 📅 2026-08-05 Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
-* [ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) ⭐ 4,468 | 🐛 88 | 🌐 Python | 📅 2026-09-11
+* <https://github.com/jrouwe/JoltPhysics> ⭐ 11,538 | 🐛 11 | 🌐 C++ | 📅 2026-09-12
+* [tinyc2](https://github.com/RandyGaul/cute_headers) ⭐ 5,064 | 🐛 28 | 🌐 C | 📅 2026-08-05 Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
+* [ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) ⭐ 4,469 | 🐛 88 | 🌐 Python | 📅 2026-09-11
 * <https://github.com/wellcaffeinated/PhysicsJS> ⚠️ Archived
-* [bepuphysics2](https://github.com/bepu/bepuphysics2) ⭐ 2,950 | 🐛 72 | 🌐 C# | 📅 2026-08-30 Pure C# 3D real time physics simulation library, now with a higher version number.
-* <https://github.com/godot-jolt/godot-jolt> ⭐ 2,561 | 🐛 6 | 🌐 C++ | 📅 2026-03-16
-* [fcl](https://github.com/flexible-collision-library/fcl) ⭐ 1,754 | 🐛 244 | 🌐 C++ | 📅 2026-09-09 The Flexible Collision Library
+* [bepuphysics2](https://github.com/bepu/bepuphysics2) ⭐ 2,950 | 🐛 73 | 🌐 C# | 📅 2026-08-30 Pure C# 3D real time physics simulation library, now with a higher version number.
+* <https://github.com/godot-jolt/godot-jolt> ⭐ 2,562 | 🐛 6 | 🌐 C++ | 📅 2026-03-16
+* [fcl](https://github.com/flexible-collision-library/fcl) ⭐ 1,756 | 🐛 244 | 🌐 C++ | 📅 2026-09-09 The Flexible Collision Library
 * <https://github.com/MADEAPPS/newton-dynamics/> ⭐ 1,024 | 🐛 1 | 🌐 HTML | 📅 2026-01-17 -newton-dynamics
 * [qu3e](https://github.com/RandyGaul/qu3e) ⚠️ Archived qu3e is a compact, light-weight and fast 3D physics engine in C++.
 * [ncollide](https://github.com/dimforge/ncollide) ⭐ 926 | 🐛 77 | 🌐 Rust | 📅 2023-01-31 2 and 3-dimensional collision detection library in Rust.
@@ -3632,13 +3632,13 @@ Table of Contents
 * <https://github.com/Kimbatt/unity-deterministic-physics> ⭐ 553 | 🐛 13 | 🌐 C# | 📅 2024-02-14
 * [bepuphysics1int](https://github.com/sam-vdp/bepuphysics1int) ⭐ 547 | 🐛 1 | 🌐 C# | 📅 2019-02-03 Pure C# deterministic fixed-point 3D real time physics simulation library
 * <https://github.com/wnbittle/dyn4j> ⭐ 538 | 🐛 0 | 🌐 Java | 📅 2026-07-18 dyn4j
-* <https://github.com/notgiven688/jitterphysics2> ⭐ 442 | 🐛 1 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/notgiven688/jitterphysics2> ⭐ 442 | 🐛 2 | 🌐 C# | 📅 2026-09-13
 * [UnitySimplePhysics](https://github.com/JohannHotzel/UnitySimplePhysics) ⭐ 397 | 🐛 1 | 🌐 C# | 📅 2026-02-28 Simple Physics provides lightweight, easy-to-use physics-based behaviors for Unity. (Rope, Cloth, SoftBodies)
 * [awesome-simulation](https://github.com/Housz/awesome-simulation) ⭐ 394 | 🐛 0 | 📅 2026-06-08 Resources for Physics based simulation in Computer Graphics 图形学中物理模拟的资源整理
 * <https://github.com/XMunkki/FixPointCS> ⭐ 361 | 🐛 5 | 🌐 C++ | 📅 2026-06-23
 * [Ten-Minute-Physics-Unity](https://github.com/Habrador/Ten-Minute-Physics-Unity) ⭐ 359 | 🐛 3 | 🌐 C# | 📅 2026-04-20 Implementations in Unity of the Ten Minute Physics YouTube channel. Instead of using Unity's built-in physics engine
 * <https://github.com/jeffvella/UnityNativeCollision> ⭐ 283 | 🐛 2 | 🌐 C# | 📅 2019-05-01
-* [box3d-unity](https://github.com/Suvitruf/box3d-unity) ⭐ 243 | 🐛 3 | 🌐 C# | 📅 2026-09-03 Box3d Physics bindings for Unity
+* [box3d-unity](https://github.com/Suvitruf/box3d-unity) ⭐ 244 | 🐛 3 | 🌐 C# | 📅 2026-09-03 Box3d Physics bindings for Unity
 * <https://github.com/seep/JoltPhysicsUnity> ⭐ 213 | 🐛 3 | 🌐 C# | 📅 2025-09-10
 * <https://github.com/CarlVerret/csFastFloat> ⭐ 205 | 🐛 6 | 🌐 C# | 📅 2026-07-15
 * <https://github.com/yingyugang/FixedPointPhysics> ⭐ 197 | 🐛 3 | 🌐 C# | 📅 2024-02-24
@@ -3702,7 +3702,7 @@ Table of Contents
 
 #### Fluid
 
-* [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) ⭐ 2,097 | 🐛 60 | 🌐 C++ | 📅 2023-12-24  Fluid simulation engine for computer graphics applications <https://fluidenginedevelopment.org/>
+* [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) ⭐ 2,098 | 🐛 60 | 🌐 C++ | 📅 2023-12-24  Fluid simulation engine for computer graphics applications <https://fluidenginedevelopment.org/>
 * [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) ⭐ 1,949 | 🐛 4 | 🌐 C++ | 📅 2026-08-24 :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
 * [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) ⭐ 1,891 | 🐛 20 | 🌐 C++ | 📅 2026-09-01 physically-based simulation of fluids.
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) ⭐ 835 | 🐛 1 | 🌐 C++ | 📅 2017-10-24 A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
@@ -3722,13 +3722,13 @@ Table of Contents
 #### Water
 
 * [crest](https://github.com/wave-harmonic/crest) ⭐ 3,893 | 🐛 84 | 🌐 C# | 📅 2026-06-18
-* <https://github.com/SebLague/Fluid-Sim> ⭐ 1,295 | 🐛 10 | 🌐 C# | 📅 2025-10-19
+* <https://github.com/SebLague/Fluid-Sim> ⭐ 1,296 | 🐛 10 | 🌐 C# | 📅 2025-10-19
 * [unity-stylized-water](https://github.com/danielshervheim/unity-stylized-water) ⭐ 1,099 | 🐛 4 | 🌐 ShaderLab | 📅 2021-03-17
 * <https://github.com/eliasts/Ocean_Community_Next_Gen> ⭐ 1,077 | 🐛 9 | 🌐 C# | 📅 2020-05-19
-* [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean) ⭐ 804 | 🐛 1 | 🌐 C# | 📅 2022-07-07
+* [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean) ⭐ 805 | 🐛 1 | 🌐 C# | 📅 2022-07-07
 * [CFD101](https://github.com/thu-zhanghl/CFD101) ⭐ 671 | 🐛 2 | 📅 2021-01-28 💧CFD(计算流体力学)资料汇总、学习笔记
 * [Compute-Shaders-Fluid-Dynamic-](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-) ⭐ 633 | 🐛 1 | 🌐 C# | 📅 2022-03-01 [Blog](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
-* <https://github.com/GarrettGunnell/Water> ⭐ 571 | 🐛 1 | 🌐 C# | 📅 2023-12-30
+* <https://github.com/GarrettGunnell/Water> ⭐ 573 | 🐛 1 | 🌐 C# | 📅 2023-12-30
 * <https://github.com/MatrixRex/Uber-Stylized-Water> ⭐ 492 | 🐛 0 | 🌐 ShaderLab | 📅 2026-08-19
 * [FluidSimulationTutorialsUnity](https://github.com/clatterrr/FluidSimulationTutorialsUnity) ⭐ 427 | 🐛 1 | 🌐 Python | 📅 2021-07-01
 * [boat-attack-water](https://github.com/Unity-Technologies/boat-attack-water) ⭐ 396 | 🐛 19 | 🌐 C# | 📅 2024-10-17 Package repo containing the water system created for the URP Boat Attack demo project
@@ -3800,9 +3800,9 @@ Table of Contents
 
 #### Common
 
-* [tracy](https://github.com/wolfpld/tracy) ⭐ 16,768 | 🐛 164 | 🌐 C++ | 📅 2026-09-11 C++ frame profiler
-* <https://github.com/jlfwong/speedscope> ⭐ 6,746 | 🐛 159 | 🌐 TypeScript | 📅 2026-05-15
-* [performance.tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md) ⭐ 5,290 | 🐛 1 | 📅 2026-09-10
+* [tracy](https://github.com/wolfpld/tracy) ⭐ 16,770 | 🐛 165 | 🌐 C++ | 📅 2026-09-13 C++ frame profiler
+* <https://github.com/jlfwong/speedscope> ⭐ 6,749 | 🐛 159 | 🌐 TypeScript | 📅 2026-05-15
+* [performance.tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md) ⭐ 5,291 | 🐛 1 | 📅 2026-09-13
 * [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) ⭐ 4,872 | 🐛 3 | 🌐 Objective-C | 📅 2025-07-05 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit
 * [orbit](https://github.com/google/orbit) ⚠️ Archived C/C++ Performance Profiler
 * [Remotery](https://github.com/Celtoys/Remotery) ⭐ 3,312 | 🐛 38 | 🌐 C | 📅 2024-08-28
@@ -3818,8 +3818,8 @@ Table of Contents
 * [loli\_profiler](https://github.com/Tencent/loli_profiler) ⭐ 694 | 🐛 1 | 🌐 C++ | 📅 2026-06-12 Memory instrumentation tool for android app\&game developers.
 * [ULogViewer](https://github.com/carina-studio/ULogViewer) ⭐ 596 | 🐛 23 | 🌐 C# | 📅 2026-09-11
 * <https://github.com/Palatis/XAppDebug> ⭐ 398 | 🐛 4 | 🌐 Java | 📅 2025-01-20
-* [profiling](https://github.com/aclysma/profiling) ⭐ 394 | 🐛 2 | 🌐 Rust | 📅 2026-05-04
-* [AdvancedSharpAdbClient](https://github.com/SharpAdb/AdvancedSharpAdbClient) ⭐ 305 | 🐛 26 | 🌐 C# | 📅 2026-06-08
+* [profiling](https://github.com/aclysma/profiling) ⭐ 394 | 🐛 3 | 🌐 Rust | 📅 2026-05-04
+* [AdvancedSharpAdbClient](https://github.com/SharpAdb/AdvancedSharpAdbClient) ⭐ 306 | 🐛 26 | 🌐 C# | 📅 2026-06-08
 * [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) ⭐ 241 | 🐛 0 | 🌐 C# | 📅 2024-08-19 The Visual Profiler provides a drop in solution for viewing your mixed reality Unity application's frame rate, scene complexity, and memory usage.
 * [MemoryProfiler](https://github.com/larryhou/MemoryProfiler) ⭐ 224 | 🐛 4 | 🌐 C++ | 📅 2022-08-14
 * [selective-profiling](https://github.com/needle-tools/selective-profiling) ⭐ 161 | 🐛 17 | 🌐 C# | 📅 2025-10-26 Selectively deep profile code in Unity
@@ -3842,10 +3842,10 @@ Table of Contents
 
 ### Google Analytics
 
-* <https://github.com/umami-software/umami> ⭐ 38,755 | 🐛 124 | 🌐 TypeScript | 📅 2026-09-12  Umami is a modern, privacy-focused alternative to Google Analytics.
-* <https://github.com/plausible/analytics> ⭐ 29,044 | 🐛 61 | 🌐 Elixir | 📅 2026-09-12 Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-* <https://github.com/matomo-org/matomo> ⭐ 21,859 | 🐛 2,574 | 🌐 PHP | 📅 2026-09-11 Web & app analytics for teams who demand accuracy
-* <https://github.com/rybbit-io/rybbit> ⭐ 12,956 | 🐛 197 | 🌐 TypeScript | 📅 2026-09-12 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
+* <https://github.com/umami-software/umami> ⭐ 38,785 | 🐛 124 | 🌐 TypeScript | 📅 2026-09-13  Umami is a modern, privacy-focused alternative to Google Analytics.
+* <https://github.com/plausible/analytics> ⭐ 29,063 | 🐛 62 | 🌐 Elixir | 📅 2026-09-12 Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+* <https://github.com/matomo-org/matomo> ⭐ 21,863 | 🐛 2,577 | 🌐 PHP | 📅 2026-09-13 Web & app analytics for teams who demand accuracy
+* <https://github.com/rybbit-io/rybbit> ⭐ 12,979 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-12 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 
 #### GPU
 
@@ -3990,17 +3990,17 @@ Table of Contents
 
 #### Graphics-Library
 
-* [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style library. [github](https://github.com/bkaradzic/bgfx) ⭐ 17,474 | 🐛 284 | 🌐 C++ | 📅 2026-09-12 ![bkaradzic/bgfx](https://img.shields.io/github/stars/bkaradzic/bgfx.svg?style=social\&label=Star\&maxAge=2592000)]
+* [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style library. [github](https://github.com/bkaradzic/bgfx) ⭐ 17,481 | 🐛 284 | 🌐 C++ | 📅 2026-09-13 ![bkaradzic/bgfx](https://img.shields.io/github/stars/bkaradzic/bgfx.svg?style=social\&label=Star\&maxAge=2592000)]
 
-* [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,386 | 🐛 315 | 🌐 C | 📅 2026-09-10 nuklear-A single-header ANSI C gui library
+* [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,389 | 🐛 315 | 🌐 C | 📅 2026-09-10 nuklear-A single-header ANSI C gui library
 
 * The Forge - Cross-platform rendering framework. [github](https://github.com/ConfettiFX/The-Forge) ⭐ 5,655 | 🐛 14 | 🌐 C++ | 📅 2026-08-27 ![ConfettiFX/The-Forge](https://img.shields.io/github/stars/ConfettiFX/The-Forge.svg?style=social\&label=Star\&maxAge=2592000)]
 
-* [Magnum](https://magnum.graphics/) - Lightweight and modular graphics middleware for games and data visualization. [github](https://github.com/mosra/magnum) ⭐ 5,208 | 🐛 76 | 🌐 C++ | 📅 2026-08-23 ![mosra/magnum](https://img.shields.io/github/stars/mosra/magnum.svg?style=social\&label=Star\&maxAge=2592000)]
+* [Magnum](https://magnum.graphics/) - Lightweight and modular graphics middleware for games and data visualization. [github](https://github.com/mosra/magnum) ⭐ 5,207 | 🐛 76 | 🌐 C++ | 📅 2026-08-23 ![mosra/magnum](https://img.shields.io/github/stars/mosra/magnum.svg?style=social\&label=Star\&maxAge=2592000)]
 
 * [Diligent Engine](http://diligentgraphics.com/diligent-engine/) - Modern cross-platform low-level graphics library. [github](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,436 | 🐛 24 | 🌐 Batchfile | 📅 2026-09-01 ![DiligentGraphics/DiligentEngine](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine.svg?style=social\&label=Star\&maxAge=2592000)]
 
-* [OpenSceneGraph](http://www.openscenegraph.org/) - High performance 3D graphics toolkit. [github](https://github.com/openscenegraph/OpenSceneGraph) ⭐ 3,613 | 🐛 176 | 🌐 C++ | 📅 2024-08-09 ![openscenegraph/OpenSceneGraph](https://img.shields.io/github/stars/openscenegraph/OpenSceneGraph.svg?style=social\&label=Star\&maxAge=2592000)]
+* [OpenSceneGraph](http://www.openscenegraph.org/) - High performance 3D graphics toolkit. [github](https://github.com/openscenegraph/OpenSceneGraph) ⭐ 3,612 | 🐛 176 | 🌐 C++ | 📅 2024-08-09 ![openscenegraph/OpenSceneGraph](https://img.shields.io/github/stars/openscenegraph/OpenSceneGraph.svg?style=social\&label=Star\&maxAge=2592000)]
 
 * [Falcor](https://developer.nvidia.com/falcor) - Real-time rendering framework designed specifically for rapid prototyping. [github](https://github.com/NVIDIAGameWorks/Falcor) ⭐ 3,228 | 🐛 65 | 🌐 C++ | 📅 2025-01-07 ![NVIDIAGameWorks/Falcor](https://img.shields.io/github/stars/NVIDIAGameWorks/Falcor.svg?style=social\&label=Star\&maxAge=2592000)]
 
@@ -4026,8 +4026,8 @@ Table of Contents
 
 #### SoftWare-Render
 
-* [tinyrenderer](https://github.com/ssloy/tinyrenderer) ⭐ 24,223 | 🐛 4 | 🌐 C++ | 📅 2026-07-29 A brief computer graphics / rendering course
-* [renderer](https://github.com/zauonlok/renderer) ⭐ 2,777 | 🐛 1 | 🌐 C | 📅 2021-03-06 A shader-based software renderer written from scratch in C89
+* [tinyrenderer](https://github.com/ssloy/tinyrenderer) ⭐ 24,226 | 🐛 4 | 🌐 C++ | 📅 2026-07-29 A brief computer graphics / rendering course
+* [renderer](https://github.com/zauonlok/renderer) ⭐ 2,779 | 🐛 1 | 🌐 C | 📅 2021-03-06 A shader-based software renderer written from scratch in C89
 * [mini3d](https://github.com/skywind3000/mini3d) ⭐ 2,333 | 🐛 5 | 🌐 C | 📅 2024-09-23 3D Software Renderer in 700 Lines !! (700 行代码的 3D 软件渲染器)
 * <https://github.com/kosua20/herebedragons> ⭐ 1,797 | 🐛 3 | 🌐 C | 📅 2025-07-11
 * [SoftwareRenderer](https://github.com/Angelo1211/SoftwareRenderer) ⭐ 790 | 🐛 4 | 🌐 C++ | 📅 2021-01-15 Software rendering engine with PBR. Built from scratch on C++.
@@ -4042,28 +4042,28 @@ Table of Contents
 
 #### 3rd-Binding
 
-* <https://github.com/gfx-rs/gfx> ⭐ 5,397 | 🐛 331 | 🌐 Rust | 📅 2023-02-27
-* [Silk](https://github.com/Ultz/Silk.NET) ⭐ 5,199 | 🐛 103 | 🌐 C# | 📅 2026-09-08 Silk.NET is a high-speed, advanced library, providing bindings to popular low-level APIs such as OpenGL and OpenAL. Use Silk.NET to add cross-platform 3D graphics, audio, compute and haptics to your C# application.
-* <https://github.com/dotnet/Silk.NET> ⭐ 5,199 | 🐛 103 | 🌐 C# | 📅 2026-09-08
-* <https://github.com/google/angle> ⭐ 4,069 | 🐛 7 | 🌐 C++ | 📅 2026-09-12
-* [igl](https://github.com/facebook/igl) ⭐ 3,233 | 🐛 0 | 🌐 C++ | 📅 2026-09-12 Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
+* <https://github.com/gfx-rs/gfx> ⭐ 5,398 | 🐛 331 | 🌐 Rust | 📅 2023-02-27
+* [Silk](https://github.com/Ultz/Silk.NET) ⭐ 5,198 | 🐛 103 | 🌐 C# | 📅 2026-09-08 Silk.NET is a high-speed, advanced library, providing bindings to popular low-level APIs such as OpenGL and OpenAL. Use Silk.NET to add cross-platform 3D graphics, audio, compute and haptics to your C# application.
+* <https://github.com/dotnet/Silk.NET> ⭐ 5,198 | 🐛 103 | 🌐 C# | 📅 2026-09-08
+* <https://github.com/google/angle> ⭐ 4,070 | 🐛 7 | 🌐 C++ | 📅 2026-09-13
+* [igl](https://github.com/facebook/igl) ⭐ 3,233 | 🐛 0 | 🌐 C++ | 📅 2026-09-13 Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 * [veldrid](https://github.com/mellinoe/veldrid) ⭐ 2,700 | 🐛 159 | 🌐 C# | 📅 2026-03-17 A low-level, portable graphics library for .NET.
-* [LLGL](https://github.com/LukasBanana/LLGL) ⭐ 2,629 | 🐛 8 | 🌐 C++ | 📅 2026-09-12 Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal
+* [LLGL](https://github.com/LukasBanana/LLGL) ⭐ 2,629 | 🐛 8 | 🌐 C++ | 📅 2026-09-13 Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal
 * [helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) ⭐ 2,283 | 🐛 312 | 🌐 C# | 📅 2026-09-01 Helix Toolkit is a collection of 3D components for .NET Framework.
 * <https://github.com/Raikiri/LegitEngine> ⭐ 814 | 🐛 2 | 🌐 C++ | 📅 2025-06-22
 * <https://github.com/Devsh-Graphics-Programming/Nabla> ⭐ 716 | 🐛 120 | 🌐 C++ | 📅 2026-09-11
-* [Kinc](https://github.com/Kode/Kinc?) ⭐ 633 | 🐛 35 | 🌐 C | 📅 2026-09-02 Modern low level game library and hardware abstraction.
+* [Kinc](https://github.com/Kode/Kinc?) ⭐ 632 | 🐛 35 | 🌐 C | 📅 2026-09-02 Modern low level game library and hardware abstraction.
 * [VulkanSharp](https://github.com/mono/VulkanSharp) ⚠️ Archived Open source .NET binding for the Vulkan API
 * [EmberGL](https://github.com/EmberGL-org/EmberGL) ⭐ 389 | 🐛 8 | 🌐 C++ | 📅 2026-02-28 EmberGL (Ember Graphics Library) is a low-level open source graphics library
 * <https://github.com/DigitalRune/DigitalRune> ⭐ 285 | 🐛 6 | 🌐 C# | 📅 2016-06-05
 * [nicegraf](https://github.com/nicebyte/nicegraf) ⭐ 219 | 🐛 22 | 🌐 C++ | 📅 2026-08-13
-* [Zenith.NET](https://github.com/qian-o/Zenith.NET/) ⭐ 179 | 🐛 2 | 🌐 C# | 📅 2026-09-12 [blog](https://www.cnblogs.com/xymfblogs/p/19443277)
-* <https://github.com/wieslawsoltes/ProGPU> ⭐ 173 | 🐛 4 | 🌐 C# | 📅 2026-09-11
+* [Zenith.NET](https://github.com/qian-o/Zenith.NET/) ⭐ 179 | 🐛 2 | 🌐 C# | 📅 2026-09-13 [blog](https://www.cnblogs.com/xymfblogs/p/19443277)
+* <https://github.com/wieslawsoltes/ProGPU> ⭐ 173 | 🐛 4 | 🌐 C# | 📅 2026-09-13
 * [SharpBgfx](https://github.com/MikePopoloski/SharpBgfx) ⚠️ Archived C# bindings for the bgfx graphics library
 * [XUSG](https://github.com/StarsX/XUSG) ⭐ 125 | 🐛 0 | 🌐 C | 📅 2026-07-12 XUSG, XU's supreme graphics lib, is a handy wrapper currently for DirectX 12. It can be a good reference for designing your own DX12 wrapper APIs.
 * <https://github.com/Trivaxy/WGPU.NET> ⭐ 88 | 🐛 3 | 🌐 C# | 📅 2023-11-10
 * [SharpVulkan](https://github.com/jwollen/SharpVulkan) ⚠️ Archived C# bindings for the Vulkan graphics API, used by the Xenko game engine.
-* <https://github.com/haolange/SharpGPU> ⭐ 70 | 🐛 0 | 🌐 C# | 📅 2026-09-10
+* <https://github.com/haolange/SharpGPU> ⭐ 70 | 🐛 0 | 🌐 C# | 📅 2026-09-13
 * <https://github.com/threejs4net/threejs4net> ⭐ 34 | 🐛 3 | 🌐 C# | 📅 2024-06-25
 * [XenoAtom](https://github.com/XenoAtom/XenoAtom.Graphics) ⭐ 33 | 🐛 3 | 🌐 C# | 📅 2025-04-11
 * <https://github.com/egorodet/MethaneKit> ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2026-09-03
@@ -4073,13 +4073,13 @@ Table of Contents
 
 #### Collection
 
-* <https://github.com/jbhuang0604/awesome-computer-vision> ⭐ 23,552 | 🐛 92 | 📅 2024-05-17
+* <https://github.com/jbhuang0604/awesome-computer-vision> ⭐ 23,556 | 🐛 92 | 📅 2024-05-17
 * <https://github.com/vinjn/awesome-vulkan> ⭐ 3,714 | 🐛 6 | 📅 2026-05-11
 * <https://github.com/FancyVin/fun-with-graphics> ⭐ 2,402 | 🐛 0 | 📅 2022-03-31
-* <https://github.com/Gforcex/OpenGraphic> ⭐ 2,281 | 🐛 3 | 📅 2026-09-02
+* <https://github.com/Gforcex/OpenGraphic> ⭐ 2,282 | 🐛 3 | 📅 2026-09-02
 * <https://github.com/mikbry/awesome-webgpu> ⭐ 1,976 | 🐛 17 | 📅 2026-09-10
 * <https://github.com/mattdesl/graphics-resources> ⭐ 1,856 | 🐛 5 | 📅 2020-12-30
-* <https://github.com/AngelMonica126/GraphicAlgorithm> ⭐ 1,547 | 🐛 5 | 🌐 C++ | 📅 2022-03-06
+* <https://github.com/AngelMonica126/GraphicAlgorithm> ⭐ 1,547 | 🐛 4 | 🌐 C++ | 📅 2022-03-06
 * <https://github.com/sjfricke/awesome-webgl> ⭐ 1,532 | 🐛 16 | 📅 2026-04-02
 * <https://github.com/ericjang/awesome-graphics> ⭐ 1,117 | 🐛 3 | 📅 2020-02-29
 * <https://github.com/luisnts/awesome-computer-graphics> ⭐ 1,035 | 🐛 2 | 📅 2021-07-17
@@ -4112,7 +4112,7 @@ Table of Contents
 * [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX) ⭐ 371 | 🐛 1 | 📅 2021-07-15
 * <https://github.com/microsoft/hlsl-specs> ⭐ 222 | 🐛 215 | 🌐 TeX | 📅 2026-09-10
 * <https://github.com/repalash/Open-Shaders> ⭐ 164 | 🐛 1 | 🌐 HLSL | 📅 2026-07-14
-* [HLSL-Library](https://github.com/youandhubris/HLSL-Library) ⭐ 57 | 🐛 0 | 🌐 HLSL | 📅 2018-04-08
+* [HLSL-Library](https://github.com/youandhubris/HLSL-Library) ⭐ 58 | 🐛 0 | 🌐 HLSL | 📅 2018-04-08
 * <https://github.com/NaitorStudios/FusionShaderRepo> ⭐ 22 | 🐛 1 | 🌐 HLSL | 📅 2026-02-11
 * [glsl-pcg-prng](https://github.com/riccardoscalco/glsl-pcg-prng) ⭐ 14 | 🐛 0 | 🌐 GLSL | 📅 2024-07-12 Glsl implementation of the PCG algorithm for the generation of random numbers.
 * <https://github.com/Radagasd/line-intersections> ⭐ 5 | 🐛 0 | 🌐 HLSL | 📅 2022-01-15
@@ -4122,7 +4122,7 @@ Table of Contents
 
 #### Shader-Compiler
 
-* [DirectX Intermediate Language](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/DXIL.rst) ⭐ 3,647 | 🐛 768 | 🌐 C++ | 📅 2026-09-12
+* [DirectX Intermediate Language](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/DXIL.rst) ⭐ 3,648 | 🐛 768 | 🌐 C++ | 📅 2026-09-12
 * [ShaderConductor](https://github.com/microsoft/ShaderConductor) ⚠️ Archived
 * [HLSLDecompiler](https://github.com/etnlGD/HLSLDecompiler) ⭐ 373 | 🐛 6 | 🌐 C++ | 📅 2025-12-24 HLSL Decompiler forked from 3Dmigoto
 * [pmfx-shader](https://github.com/polymonster/pmfx-shader) ⭐ 351 | 🐛 0 | 🌐 Python | 📅 2026-07-30
@@ -4200,25 +4200,25 @@ Table of Contents
 
 #### Shader-Collection
 
-* <https://github.com/lettier/3d-game-shaders-for-beginners> ⭐ 19,890 | 🐛 18 | 🌐 C++ | 📅 2023-06-25
+* <https://github.com/lettier/3d-game-shaders-for-beginners> ⭐ 19,891 | 🐛 18 | 🌐 C++ | 📅 2023-06-25
 * <https://github.com/QianMo/Awesome-Unity-Shader> ⭐ 4,340 | 🐛 1 | 🌐 ShaderLab | 📅 2021-10-14
 * <https://github.com/McNopper/OpenGL> ⭐ 2,607 | 🐛 0 | 🌐 C | 📅 2026-08-01
 * <https://github.com/przemyslawzaworski/Unity3D-CG-programming> ⭐ 1,981 | 🐛 0 | 📅 2026-08-06
 * [LearnUnityShader](https://github.com/csdjk/LearnUnityShader) ⭐ 1,845 | 🐛 0 | 🌐 ShaderLab | 📅 2025-06-10
 * <https://github.com/poiyomi/PoiyomiToonShader> ⭐ 1,658 | 🐛 12 | 🌐 ShaderLab | 📅 2026-08-07 A feature rich toon shader for unity and VR Chat
-* [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) ⭐ 1,611 | 🐛 1 | 🌐 C# | 📅 2026-09-07 unity Uber shader for Particle System
+* [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) ⭐ 1,612 | 🐛 1 | 🌐 C# | 📅 2026-09-07 unity Uber shader for Particle System
 * <https://github.com/Xibanya/ShaderTutorials> ⭐ 1,296 | 🐛 3 | 🌐 ShaderLab | 📅 2024-03-01
 * <https://github.com/adrian-miasik/unity-shaders> ⭐ 1,110 | 🐛 1 | 🌐 ShaderLab | 📅 2024-06-05
 * <https://github.com/MirzaBeig/Post-Processing-Scan> ⭐ 933 | 🐛 1 | 🌐 ShaderLab | 📅 2024-07-05
 * <https://github.com/JiepengTan/FishManShaderTutorial> ⭐ 803 | 🐛 2 | 🌐 ShaderLab | 📅 2020-03-23
 * <https://github.com/KaimaChen/Unity-Shader-Demo> ⭐ 750 | 🐛 0 | 🌐 ShaderLab | 📅 2021-03-15
-* <https://github.com/Melioli/HoyoToon> ⭐ 719 | 🐛 0 | 🌐 C# | 📅 2026-08-10
+* <https://github.com/Melioli/HoyoToon> ⭐ 720 | 🐛 0 | 🌐 C# | 📅 2026-08-10
 * <https://github.com/marcozakaria/URP-LWRP-Shaders> ⭐ 656 | 🐛 1 | 🌐 ShaderLab | 📅 2023-03-21
 * <https://github.com/ipud2/Unity-Basic-Shader> ⭐ 623 | 🐛 0 | 🌐 C# | 📅 2024-06-12
 * <https://github.com/WorldOfZero/UnityVisualizations> ⭐ 618 | 🐛 5 | 🌐 ShaderLab | 📅 2023-12-03
 * [Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader) ⭐ 598 | 🐛 7 | 🌐 ShaderLab | 📅 2019-12-23
 * <https://github.com/ellioman/ShaderProject> ⭐ 550 | 🐛 1 | 🌐 ShaderLab | 📅 2017-07-18
-* <https://github.com/MochiesCode/Mochies-Unity-Shaders> ⭐ 544 | 🐛 3 | 🌐 HLSL | 📅 2026-08-28
+* <https://github.com/MochiesCode/Mochies-Unity-Shaders> ⭐ 545 | 🐛 3 | 🌐 HLSL | 📅 2026-08-28
 * [ShaderSketches](https://github.com/setchi/Unity-ShaderSketches) ⭐ 496 | 🐛 0 | 🌐 ShaderLab | 📅 2019-10-31
 * <https://github.com/falseeeeeeeeee/ShaderLibrary> ⭐ 492 | 🐛 1 | 🌐 C# | 📅 2025-07-29
 * <https://github.com/sacshadow/3D_ChineseInkPaintingStyleShader> ⭐ 473 | 🐛 1 | 🌐 ShaderLab | 📅 2023-02-02
@@ -4289,7 +4289,7 @@ Table of Contents
 #### Effect
 
 * [Constellation-Plexus](https://github.com/MirzaBeig/Constellation-Plexus) ⭐ 72 | 🐛 0 | 🌐 C# | 📅 2024-10-01 Simple, beautiful ribbons VFX for Unity (URP).
-* [UnityVFXLibrary](https://github.com/DeJhon-Huang/UnityVFXLibrary) ⭐ 43 | 🐛 3 | 🌐 ShaderLab | 📅 2023-02-13 VFX Effect made with unity
+* [UnityVFXLibrary](https://github.com/DeJhon-Huang/UnityVFXLibrary) ⭐ 43 | 🐛 0 | 🌐 ShaderLab | 📅 2023-02-13 VFX Effect made with unity
 
 #### ShaderToy
 
@@ -4384,7 +4384,7 @@ Table of Contents
 
 #### Physically-Based-Render
 
-* [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [github](https://github.com/google/filament) ⭐ 20,485 | 🐛 221 | 🌐 C++ | 📅 2026-09-12 ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=social\&label=Star\&maxAge=2592000) [中文翻译地址](https://jerkwin.github.io/filamentcn/)
+* [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [github](https://github.com/google/filament) ⭐ 20,487 | 🐛 221 | 🌐 C++ | 📅 2026-09-13 ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=social\&label=Star\&maxAge=2592000) [中文翻译地址](https://jerkwin.github.io/filamentcn/)
 * <https://github.com/xelatihy/yocto-gl> ⭐ 2,927 | 🐛 14 | 🌐 C++ | 📅 2024-02-21
 * <https://github.com/AntonPalmqvist/physically-based-api> ⭐ 478 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-10
 * <https://github.com/DassaultSystemes-Technology/EnterprisePBRShadingModel> ⭐ 391 | 🐛 3 | 🌐 HTML | 📅 2026-07-21
@@ -4405,7 +4405,7 @@ Table of Contents
 
 #### NPR
 
-* [UnityURPToonLitShader](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample) ⭐ 7,774 | 🐛 3 | 🌐 ShaderLab | 📅 2026-07-02
+* [UnityURPToonLitShader](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample) ⭐ 7,776 | 🐛 3 | 🌐 ShaderLab | 📅 2026-07-02
 * [UnityChanToonShaderVer2](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) ⭐ 4,100 | 🐛 10 | 🌐 ShaderLab | 📅 2024-10-15 toon shader的解决方案
 * <https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project> ⭐ 4,100 | 🐛 10 | 🌐 ShaderLab | 📅 2024-10-15
 * [这是一个Unity HDRP 卡通渲染管线，我会将学习到的NPR技术不断完善到这个管线中](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline) ⭐ 2,164 | 🐛 0 | 🌐 C# | 📅 2023-05-26
@@ -4479,7 +4479,7 @@ Table of Contents
 
 #### SDF
 
-* <https://github.com/CedricGuillemet/SDF> ⭐ 793 | 🐛 2 | 📅 2024-06-12
+* <https://github.com/CedricGuillemet/SDF> ⭐ 794 | 🐛 2 | 📅 2024-06-12
 * <https://github.com/danielshervheim/unity-sdf-generator> ⭐ 187 | 🐛 0 | 🌐 ShaderLab | 📅 2023-11-26
 * <https://github.com/cecarlsen/SDFTextureGenerator> ⭐ 104 | 🐛 0 | 🌐 ShaderLab | 📅 2026-03-22
 * <https://github.com/StarsX/SDFTracing/> ⭐ 23 | 🐛 0 | 🌐 C | 📅 2024-12-30
@@ -4487,7 +4487,7 @@ Table of Contents
 * <https://github.com/T3sT3ro/SdfManipulator> ⭐ 15 | 🐛 3 | 🌐 C# | 📅 2025-02-27
 * <https://github.com/Reguluz/MFSDFShadowGenerator> ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2024-08-15
 
-- [msdfgen](https://github.com/Chlumsky/msdfgen) ⭐ 4,923 | 🐛 8 | 🌐 C++ | 📅 2026-08-29 Multi-channel signed distance field generator
+- [msdfgen](https://github.com/Chlumsky/msdfgen) ⭐ 4,924 | 🐛 8 | 🌐 C++ | 📅 2026-08-29 Multi-channel signed distance field generator
 - [DeepSDF](https://github.com/facebookresearch/DeepSDF) ⚠️ Archived Learning Continuous Signed Distance Functions for Shape Representation
 - <https://github.com/rgl-epfl/differentiable-sdf-rendering> ⭐ 907 | 🐛 6 | 🌐 Python | 📅 2023-05-11
 - [SDFGen](https://github.com/christopherbatty/SDFGen) ⭐ 840 | 🐛 4 | 🌐 C++ | 📅 2015-09-07 A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes
@@ -4514,7 +4514,7 @@ Table of Contents
 
 #### SphericalHarmonicLighting/CubeMap/Probes
 
-* [SpecularProbes](https://github.com/zulubo/SpecularProbes) ⭐ 283 | 🐛 1 | 🌐 C# | 📅 2026-01-08 Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
+* [SpecularProbes](https://github.com/zulubo/SpecularProbes) ⭐ 284 | 🐛 1 | 🌐 C# | 📅 2026-01-08 Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
 * <https://github.com/TheRealMJP/SHforHLSL> ⭐ 245 | 🐛 0 | 🌐 C++ | 📅 2025-03-01
 * <https://github.com/pieroaccardi/Unity_SphericalHarmonics_Tools> ⭐ 160 | 🐛 1 | 🌐 C# | 📅 2020-06-10
 * [light\_probe\_placement](https://github.com/cgaueb/light_probe_placement) ⭐ 117 | 🐛 0 | 🌐 C# | 📅 2021-05-02 Unity component for the implementation of the Eurographics 2021 Poster: Illumination-driven Light Probe Placement.
@@ -4534,7 +4534,7 @@ Table of Contents
 
 #### Outline
 
-* <https://github.com/Chlumsky/msdfgen> ⭐ 4,923 | 🐛 8 | 🌐 C++ | 📅 2026-08-29
+* <https://github.com/Chlumsky/msdfgen> ⭐ 4,924 | 🐛 8 | 🌐 C++ | 📅 2026-08-29
 * <https://github.com/Arvtesh/UnityFx.Outline> ⭐ 1,396 | 🐛 25 | 🌐 C# | 📅 2023-05-07
 * <https://github.com/IronWarrior/UnityOutlineShader> ⭐ 941 | 🐛 9 | 🌐 ShaderLab | 📅 2021-01-03
 * <https://github.com/Robinseibold/Unity-URP-Outlines> ⭐ 717 | 🐛 29 | 🌐 C# | 📅 2024-07-27
@@ -4682,7 +4682,7 @@ Table of Contents
 
 #### Noise
 
-* <https://github.com/Auburn/FastNoiseLite> ⭐ 3,503 | 🐛 29 | 🌐 Rust | 📅 2026-06-21
+* <https://github.com/Auburn/FastNoiseLite> ⭐ 3,505 | 🐛 29 | 🌐 Rust | 📅 2026-06-21
 * <https://github.com/ashima/webgl-noise> ⭐ 2,997 | 🐛 3 | 🌐 C++ | 📅 2024-11-15
 * <https://github.com/keijiro/NoiseShader> ⭐ 1,383 | 🐛 1 | 🌐 HLSL | 📅 2025-12-04
 * <https://github.com/BrianSharpe/GPU-Noise-Lib> ⭐ 375 | 🐛 1 | 🌐 C | 📅 2014-04-08
@@ -4691,7 +4691,7 @@ Table of Contents
 * <https://github.com/BrianSharpe/Wombat> ⭐ 231 | 🐛 1 | 🌐 GLSL | 📅 2022-03-04
 * <https://github.com/electronicarts/fastnoise> ⭐ 218 | 🐛 0 | 🌐 C++ | 📅 2025-01-06
 * <https://github.com/Fewes/CloudNoiseGen> ⭐ 138 | 🐛 0 | 🌐 C# | 📅 2019-02-17
-* <https://github.com/krubbles/NoiseDotNet> ⭐ 49 | 🐛 0 | 🌐 C# | 📅 2026-08-20
+* <https://github.com/krubbles/NoiseDotNet> ⭐ 50 | 🐛 0 | 🌐 C# | 📅 2026-08-20
 * <https://github.com/ToasterTub/UniNoise> ⭐ 25 | 🐛 0 | 🌐 C# | 📅 2022-08-02
 * <https://github.com/boppygames/FastNoiseEditorUnity> ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2021-03-08
 * <https://github.com/xshazwar/noize-job> ⭐ 12 | 🐛 1 | 🌐 C# | 📅 2024-01-12
@@ -4708,7 +4708,7 @@ Table of Contents
 
 * <https://github.com/MaxwellGengYF/Unity-MPipeline> ⭐ 942 | 🐛 0 | 🌐 C# | 📅 2019-12-09 m大神的渲染框架
 * <https://github.com/Cyanilux/URP_BlitRenderFeature> ⭐ 697 | 🐛 1 | 🌐 C# | 📅 2026-07-17
-* <https://github.com/REDSIM/VRCLightVolumes> ⭐ 620 | 🐛 22 | 🌐 C# | 📅 2026-09-10
+* <https://github.com/REDSIM/VRCLightVolumes> ⭐ 622 | 🐛 22 | 🌐 C# | 📅 2026-09-10
 * <https://github.com/bcrusco/Forward-Plus-Renderer> ⭐ 572 | 🐛 0 | 🌐 C++ | 📅 2020-01-09
 * <https://github.com/JoshuaLim007/Unity-ScreenSpaceReflections-URP> ⭐ 552 | 🐛 5 | 🌐 C# | 📅 2024-04-26
 * <https://github.com/sienaiwun/TAA_Unity_URP> ⭐ 493 | 🐛 7 | 🌐 C# | 📅 2022-05-16
@@ -4717,7 +4717,7 @@ Table of Contents
 * <https://github.com/wlgys8/SRPLearn> ⭐ 305 | 🐛 0 | 🌐 C# | 📅 2021-11-27
 * <https://github.com/KTSAMA001/Unity_URP_Learning> ⭐ 298 | 🐛 1 | 🌐 ShaderLab | 📅 2026-01-29
 * <https://github.com/JorenJoestar/DataDrivenRendering> ⭐ 297 | 🐛 0 | 🌐 C++ | 📅 2021-12-20
-* <https://github.com/haolange/InfinityRenderPipeline> ⭐ 271 | 🐛 4 | 🌐 C# | 📅 2026-09-11
+* <https://github.com/haolange/InfinityRenderPipeline> ⭐ 271 | 🐛 4 | 🌐 C# | 📅 2026-09-13
 * <https://github.com/AKGWSB/ToyRenderPipeline> ⭐ 236 | 🐛 0 | 🌐 C# | 📅 2022-03-23
 * <https://github.com/alelievr/HDRP-UI-Camera-Stacking> ⭐ 228 | 🐛 8 | 🌐 ShaderLab | 📅 2025-12-19
 * <https://github.com/TakeshiCho/UI_RenderPipelineInLinearSpace> ⭐ 203 | 🐛 2 | 🌐 C# | 📅 2022-04-20
@@ -4808,7 +4808,7 @@ Table of Contents
 
 ##### LPV
 
-* [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes) ⭐ 181 | 🐛 2 | 🌐 C++ | 📅 2018-07-10
+* [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes) ⭐ 182 | 🐛 2 | 🌐 C++ | 📅 2018-07-10
 * [GI-LPV](https://github.com/innovation-cat/GI-LPV) ⭐ 3 | 🐛 0 | 🌐 OCaml | 📅 2013-10-13 Implement global illumination with OCaml, using light propagation volumes
 
 ##### VCT
@@ -4816,7 +4816,7 @@ Table of Contents
 * <https://github.com/frostbone25/Unity-Voxel-Tracer> ⭐ 37 | 🐛 0 | 🌐 C# | 📅 2024-11-05
 * [lumina-gi-real-time-voxel-global-illumination](https://assetstore.unity.com/packages/tools/particles-effects/lumina-gi-real-time-voxel-global-illumination-226660) unity-plugin
 
-- [SEGI](https://github.com/sonicether/SEGI) ⭐ 1,571 | 🐛 11 | 🌐 C# | 📅 2018-07-20 Almost real-time Global Illumination for Unity.
+- [SEGI](https://github.com/sonicether/SEGI) ⭐ 1,572 | 🐛 11 | 🌐 C# | 📅 2018-07-20 Almost real-time Global Illumination for Unity.
 - [voxel-cone-tracing](https://github.com/Friduric/voxel-cone-tracing) ⭐ 944 | 🐛 3 | 🌐 C++ | 📅 2025-07-15 A real-time global illumination implementation using voxel cone tracing.
 - [Unity-SRP-VXGI](https://github.com/Looooong/Unity-SRP-VXGI) ⭐ 826 | 🐛 11 | 🌐 C# | 📅 2022-09-20 Voxel-based Global Illumination using Unity Scriptable Render Pipeline.
 - [VCTRenderer](https://github.com/jose-villegas/VCTRenderer) ⭐ 660 | 🐛 1 | 🌐 C++ | 📅 2026-02-14 Deferred voxel shading for real-time global illumination. <https://jose-villegas.github.io/post/deferred_voxel_shading/>
@@ -4866,7 +4866,7 @@ Table of Contents
 
 ##### Ray tracing
 
-* [openmoonray](https://github.com/dreamworksanimation/openmoonray) ⭐ 4,726 | 🐛 86 | 🌐 CMake | 📅 2026-08-25 MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer
+* [openmoonray](https://github.com/dreamworksanimation/openmoonray) ⭐ 4,725 | 🐛 87 | 🌐 CMake | 📅 2026-09-12 MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer
 * <https://github.com/aras-p/ToyPathTracer> ⭐ 1,116 | 🐛 2 | 🌐 C++ | 📅 2025-04-12
 * <https://github.com/Pjbomb2/Realtime-Compute-Shader-Unity-PathTracer> ⭐ 1,015 | 🐛 2 | 🌐 C# | 📅 2026-08-21
 * <https://github.com/Pjbomb2/TrueTrace-Unity-Pathtracer> ⭐ 1,015 | 🐛 2 | 🌐 C# | 📅 2026-08-21
@@ -4876,8 +4876,8 @@ Table of Contents
 * [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI?) ⭐ 357 | 🐛 7 | 🌐 CMake | 📅 2026-03-01
 * [Helios](https://github.com/diharaw/Helios) ⭐ 300 | 🐛 0 | 🌐 C++ | 📅 2021-09-21 Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
 * <https://github.com/jiaozi158/UnitySSPathTracingURP> ⭐ 214 | 🐛 6 | 🌐 C# | 📅 2024-11-25
-* <https://github.com/guiqi134/Area-ReSTIR> ⭐ 187 | 🐛 2 | 🌐 C++ | 📅 2024-11-01
-* <https://github.com/AlucardDH/dh-reshade-shaders> ⭐ 157 | 🐛 5 | 🌐 HLSL | 📅 2026-07-19
+* <https://github.com/guiqi134/Area-ReSTIR> ⭐ 188 | 🐛 2 | 🌐 C++ | 📅 2024-11-01
+* <https://github.com/AlucardDH/dh-reshade-shaders> ⭐ 158 | 🐛 5 | 🌐 HLSL | 📅 2026-07-19
 * <https://github.com/INedelcu/PathTracingDemo> ⭐ 152 | 🐛 0 | 🌐 C# | 📅 2026-07-15
 * <https://github.com/daseyb/pathgraph> ⭐ 139 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-22
 * <https://github.com/airliang/unity-raytracing> ⭐ 125 | 🐛 0 | 🌐 C# | 📅 2025-10-14
@@ -4995,7 +4995,7 @@ Table of Contents
 * [lightmapping-troubleshooting-guide](https://forum.unity.com/threads/lightmapping-troubleshooting-guide.1340936/)
 * [Unity Global Illumination Learning Resources](https://forum.unity.com/threads/global-illumination-learning-resources.1290662/)
 
-- [lightmapper](https://github.com/ands/lightmapper) ⭐ 1,541 | 🐛 7 | 🌐 C | 📅 2023-03-24 A C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light!
+- [lightmapper](https://github.com/ands/lightmapper) ⭐ 1,544 | 🐛 7 | 🌐 C | 📅 2023-03-24 A C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light!
 - [HDR\_Lightmapper](https://github.com/Naxela/HDR_Lightmapper) ⭐ 817 | 🐛 119 | 🌐 Python | 📅 2026-07-18  Implements a cycles based lightmapper with denoiser
 - [The\_Lightmapper](https://github.com/Naxela/The_Lightmapper) ⭐ 817 | 🐛 119 | 🌐 Python | 📅 2026-07-18 Fast and easy baked GI Lightmaps for Blender and Cycles
 - [BakingLab](https://github.com/TheRealMJP/BakingLab) ⭐ 760 | 🐛 2 | 🌐 C++ | 📅 2024-05-10 A D3D11 application for experimenting with Spherical Gaussian lightmaps
@@ -5038,7 +5038,7 @@ Table of Contents
 
 - [PerObjectShadowSRP](https://github.com/GavinKG/PerObjectShadowSRP) ⭐ 133 | 🐛 0 | 🌐 C# | 📅 2021-09-04 Per-object shadow implementation using Unity SRP.
 
-* [Shadows](https://github.com/TheRealMJP/Shadows) ⭐ 1,036 | 🐛 1 | 🌐 C++ | 📅 2026-06-07 :thumbsup: A sample app that demonstrates several techniques for rendering real-time shadow maps
+* [Shadows](https://github.com/TheRealMJP/Shadows) ⭐ 1,037 | 🐛 1 | 🌐 C++ | 📅 2026-06-07 :thumbsup: A sample app that demonstrates several techniques for rendering real-time shadow maps
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) ⭐ 785 | 🐛 1 | 🌐 C# | 📅 2019-08-05 Nvidia's PCSS soft shadow algorithm implemented in Unity
 * [ContactShadows](https://github.com/keijiro/ContactShadows) ⭐ 296 | 🐛 2 | 🌐 C# | 📅 2017-12-11 Experimental implementation of contact shadows for Unity.
 * [RaytracedHardShadow](https://github.com/unity3d-jp/RaytracedHardShadow) ⭐ 261 | 🐛 8 | 🌐 C++ | 📅 2021-04-22 DXR based raytraced hard shadow for Unity
@@ -5060,8 +5060,8 @@ Table of Contents
 #### GPGPU
 
 * <https://github.com/arrayfire/arrayfire> ⭐ 4,902 | 🐛 331 | 🌐 C++ | 📅 2026-09-12
-* <https://github.com/Sergio0694/ComputeSharp> ⭐ 3,167 | 🐛 41 | 🌐 C# | 📅 2026-09-04
-* <https://github.com/KomputeProject/kompute> ⭐ 2,561 | 🐛 79 | 🌐 C++ | 📅 2026-08-15
+* <https://github.com/Sergio0694/ComputeSharp> ⭐ 3,168 | 🐛 41 | 🌐 C# | 📅 2026-09-04
+* <https://github.com/KomputeProject/kompute> ⭐ 2,562 | 🐛 79 | 🌐 C++ | 📅 2026-08-15
 * <https://github.com/kunzmi/managedCuda> ⭐ 510 | 🐛 49 | 🌐 C# | 📅 2026-07-21
 * <https://github.com/tech-quantum/Amplifier.NET> ⭐ 182 | 🐛 2 | 🌐 C# | 📅 2025-12-23
 * <https://github.com/NVIDIAGameWorks/SHARC> ⭐ 138 | 🐛 0 | 🌐 C | 📅 2026-08-02
@@ -5076,7 +5076,7 @@ Table of Contents
 
 #### Compute-Shader
 
-* [MinimalCompute](https://github.com/cinight/MinimalCompute) ⭐ 1,521 | 🐛 0 | 🌐 C# | 📅 2026-03-24 Minimal Compute Shader Examples
+* [MinimalCompute](https://github.com/cinight/MinimalCompute) ⭐ 1,522 | 🐛 0 | 🌐 C# | 📅 2026-03-24 Minimal Compute Shader Examples
 * <https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders> ⭐ 778 | 🐛 7 | 🌐 C# | 📅 2020-10-01
 * [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) ⭐ 778 | 🐛 7 | 🌐 C# | 📅 2020-10-01 An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing.
 * <https://github.com/Robert-K/gpu-particles> ⭐ 748 | 🐛 1 | 🌐 C# | 📅 2018-11-07
@@ -5140,7 +5140,7 @@ Table of Contents
 
 #### Boids
 
-* [Boids](https://github.com/Unity-Technologies/EntityComponentSystemSamples/tree/master/EntitiesSamples/Boids) ⭐ 8,178 | 🐛 67 | 🌐 C# | 📅 2026-09-11 EntityComponentSystemSamples Boids
+* [Boids](https://github.com/Unity-Technologies/EntityComponentSystemSamples/tree/master/EntitiesSamples/Boids) ⭐ 8,178 | 🐛 67 | 🌐 C# | 📅 2026-09-12 EntityComponentSystemSamples Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) ⭐ 403 | 🐛 2 | 🌐 C# | 📅 2018-04-13 c# gpu
 * [Unity-Boids-Behavior-on-GPGPU](https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU) ⭐ 255 | 🐛 0 | 🌐 C# | 📅 2022-03-01
 * [nvjob-boids](https://github.com/nvjob/nvjob-boids) ⭐ 104 | 🐛 1 | 🌐 C# | 📅 2023-04-10 #NVJOB Simple Boids (Flocks of Birds, Fish and Insects). Flocking Simulation. nvjob.github.io/unity/nvjob-boids
@@ -5233,7 +5233,7 @@ Table of Contents
 
 #### Post-Process
 
-* <https://github.com/GarrettGunnell/AcerolaFX> ⭐ 1,276 | 🐛 4 | 🌐 HLSL | 📅 2024-06-29
+* <https://github.com/GarrettGunnell/AcerolaFX> ⭐ 1,277 | 🐛 4 | 🌐 HLSL | 📅 2024-06-29
 * <https://github.com/keijiro/KinoBloom> ⭐ 1,027 | 🐛 6 | 🌐 C# | 📅 2017-04-16 牛逼的bloom
 * <https://github.com/GarrettGunnell/Post-Processing> ⭐ 824 | 🐛 4 | 🌐 ShaderLab | 📅 2024-06-30
 * <https://github.com/Mortalitas/GShade> ⭐ 526 | 🐛 0 | 🌐 HLSL | 📅 2026-09-03
@@ -5315,30 +5315,30 @@ Table of Contents
 
 ## Interview/DataStruct-Algorithms
 
-* <https://github.com/CyC2018/CS-Notes> ⭐ 186,015 | 🐛 197 | 📅 2024-08-21
-* <https://github.com/labuladong/fucking-algorithm> ⭐ 135,862 | 🐛 0 | 🌐 Markdown | 📅 2026-02-28
-* <https://github.com/krahets/hello-algo> ⭐ 130,034 | 🐛 41 | 🌐 Java | 📅 2026-08-17
+* <https://github.com/CyC2018/CS-Notes> ⭐ 186,035 | 🐛 197 | 📅 2024-08-21
+* <https://github.com/labuladong/fucking-algorithm> ⭐ 135,871 | 🐛 0 | 🌐 Markdown | 📅 2026-02-28
+* <https://github.com/krahets/hello-algo> ⭐ 130,054 | 🐛 41 | 🌐 Java | 📅 2026-08-17
 * <https://github.com/MisterBooo/LeetCodeAnimation> ⭐ 76,699 | 🐛 22 | 🌐 Java | 📅 2026-06-12
-* <https://github.com/TheAlgorithms/Java> ⭐ 66,248 | 🐛 14 | 🌐 Java | 📅 2026-09-12
-* <https://github.com/kdn251/interviews/blob/master/README-zh-cn.md> ⭐ 65,242 | 🐛 122 | 🌐 Java | 📅 2025-05-12
-* <https://github.com/youngyangyang04/leetcode-master> ⭐ 62,445 | 🐛 263 | 🌐 Shell | 📅 2026-08-03
-* <https://github.com/azl397985856/leetcode> ⭐ 55,743 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-16
+* <https://github.com/TheAlgorithms/Java> ⭐ 66,251 | 🐛 13 | 🌐 Java | 📅 2026-09-12
+* <https://github.com/kdn251/interviews/blob/master/README-zh-cn.md> ⭐ 65,245 | 🐛 122 | 🌐 Java | 📅 2025-05-12
+* <https://github.com/youngyangyang04/leetcode-master> ⭐ 62,456 | 🐛 263 | 🌐 Shell | 📅 2026-08-03
+* <https://github.com/azl397985856/leetcode> ⭐ 55,740 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-16
 * <https://github.com/algorithm-visualizer/algorithm-visualizer> ⭐ 48,727 | 🐛 80 | 🌐 JavaScript | 📅 2024-06-09
-* <https://github.com/0voice/interview_internal_reference#1> ⭐ 37,250 | 🐛 35 | 🌐 Python | 📅 2025-10-22
-* <https://github.com/AobingJava/JavaFamily> ⭐ 36,998 | 🐛 6 | 📅 2025-11-03
-* <https://github.com/geekxh/hello-algorithm> ⭐ 36,093 | 🐛 11 | 🌐 Java | 📅 2023-06-13
-* <https://github.com/halfrost/LeetCode-Go> ⭐ 33,808 | 🐛 4 | 🌐 Go | 📅 2026-09-11
-* <https://github.com/tayllan/awesome-algorithms> ⭐ 25,524 | 🐛 2 | 📅 2026-04-18
+* <https://github.com/0voice/interview_internal_reference#1> ⭐ 37,249 | 🐛 35 | 🌐 Python | 📅 2025-10-22
+* <https://github.com/AobingJava/JavaFamily> ⭐ 36,999 | 🐛 6 | 📅 2025-11-03
+* <https://github.com/geekxh/hello-algorithm> ⭐ 36,092 | 🐛 11 | 🌐 Java | 📅 2023-06-13
+* <https://github.com/halfrost/LeetCode-Go> ⭐ 33,806 | 🐛 4 | 🌐 Go | 📅 2026-09-11
+* <https://github.com/tayllan/awesome-algorithms> ⭐ 25,526 | 🐛 2 | 📅 2026-04-18
 * <https://github.com/afatcoder/LeetcodeTop> ⭐ 20,037 | 🐛 43 | 📅 2024-03-13
-* <https://github.com/greyireland/algorithm-pattern> ⭐ 15,460 | 🐛 28 | 🌐 Go | 📅 2026-05-30
-* <https://github.com/lnishan/awesome-competitive-programming> ⭐ 14,173 | 🐛 28 | 📅 2024-12-08
-* <https://github.com/OpenGenus/cosmos> ⭐ 13,746 | 🐛 2,600 | 🌐 C++ | 📅 2024-10-05
-* <https://github.com/cp-algorithms/cp-algorithms> ⭐ 11,178 | 🐛 114 | 🌐 C++ | 📅 2026-09-12
-* <https://github.com/wolverinn/Waking-Up> ⭐ 10,291 | 🐛 20 | 📅 2024-10-29
+* <https://github.com/greyireland/algorithm-pattern> ⭐ 15,459 | 🐛 28 | 🌐 Go | 📅 2026-05-30
+* <https://github.com/lnishan/awesome-competitive-programming> ⭐ 14,178 | 🐛 28 | 📅 2024-12-08
+* <https://github.com/OpenGenus/cosmos> ⭐ 13,745 | 🐛 2,600 | 🌐 C++ | 📅 2024-10-05
+* <https://github.com/cp-algorithms/cp-algorithms> ⭐ 11,180 | 🐛 114 | 🌐 C++ | 📅 2026-09-13
+* <https://github.com/wolverinn/Waking-Up> ⭐ 10,290 | 🐛 20 | 📅 2024-10-29
 * <https://github.com/apachecn/Interview> ⭐ 8,972 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-10-20
 * <https://github.com/aalhour/C-Sharp-Algorithms> ⭐ 6,157 | 🐛 41 | 🌐 C# | 📅 2026-09-10
-* <https://github.com/awangdev/LintCode> ⭐ 4,329 | 🐛 0 | 🌐 Java | 📅 2025-12-07
-* <https://github.com/WTFAcademy/WTF-zk> ⭐ 2,134 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2025-08-29
+* <https://github.com/awangdev/LintCode> ⭐ 4,330 | 🐛 0 | 🌐 Java | 📅 2025-12-07
+* <https://github.com/WTFAcademy/WTF-zk> ⭐ 2,135 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2025-08-29
 * <https://github.com/enjalot/algovis> ⭐ 1,767 | 🐛 8 | 📅 2022-12-05
 * <https://github.com/Xunzhuo/OI_Sharing> ⭐ 1,656 | 🐛 0 | 🌐 Java | 📅 2022-01-20
 * <https://github.com/Xunzhuo/Algorithms-in-4-Steps> ⭐ 1,656 | 🐛 0 | 🌐 Java | 📅 2022-01-20
@@ -5385,9 +5385,9 @@ Table of Contents
 ## Bad Words Filter
 
 * <https://github.com/toolgood/ToolGood.Words> ⭐ 5,186 | 🐛 11 | 🌐 JavaScript | 📅 2025-12-04  -- 中文敏感词过滤
-* <https://github.com/konsheng/Sensitive-lexicon> ⭐ 4,109 | 🐛 5 | 📅 2026-08-17 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本。
+* <https://github.com/konsheng/Sensitive-lexicon> ⭐ 4,114 | 🐛 5 | 📅 2026-08-17 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本。
 * <https://github.com/NewbieGameCoder/IllegalWordsDetection> ⭐ 159 | 🐛 1 | 🌐 C# | 📅 2017-04-20 敏感词过滤
-* <https://github.com/yuanjie-ai/ChineseSensitiveVocabulary> ⭐ 102 | 🐛 4 | 🌐 Python | 📅 2022-04-26 敏感词库
+* <https://github.com/yuanjie-ai/ChineseSensitiveVocabulary> ⭐ 103 | 🐛 4 | 🌐 Python | 📅 2022-04-26 敏感词库
 * <https://github.com/wenlifan/SensitiveWordFilter> ⭐ 44 | 🐛 0 | 🌐 Lua | 📅 2021-11-09
 * <https://github.com/CMurphyc/ACTrie> ⭐ 30 | 🐛 1 | 🌐 Lua | 📅 2022-01-13
 * <https://github.com/871041532/ZMatchForLua> ⭐ 29 | 🐛 0 | 🌐 Lua | 📅 2020-01-03
@@ -5402,19 +5402,19 @@ Table of Contents
 
 ## 高性能数据结构和算法
 
-* [caffeine](https://github.com/ben-manes/caffeine) ⭐ 17,865 | 🐛 1 | 🌐 Java | 📅 2026-09-10 A high performance caching library for Java
+* [caffeine](https://github.com/ben-manes/caffeine) ⭐ 17,865 | 🐛 1 | 🌐 Java | 📅 2026-09-12 A high performance caching library for Java
 
-* [garnet](https://github.com/microsoft/garnet) ⭐ 12,019 | 🐛 53 | 🌐 C# | 📅 2026-09-12 Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
+* [garnet](https://github.com/microsoft/garnet) ⭐ 12,019 | 🐛 55 | 🌐 C# | 📅 2026-09-13 Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 
 * <https://github.com/Cysharp/ZLinq> ⭐ 5,264 | 🐛 5 | 🌐 C# | 📅 2026-07-08
 
-* <https://github.com/ZiggyCreatures/FusionCache> ⭐ 3,910 | 🐛 38 | 🌐 C# | 📅 2026-09-11 高性能cache
+* <https://github.com/ZiggyCreatures/FusionCache> ⭐ 3,909 | 🐛 31 | 🌐 C# | 📅 2026-09-13 高性能cache
 
 * <https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream> ⭐ 2,150 | 🐛 4 | 🌐 C# | 📅 2026-09-10 A library to provide pooling for .NET MemoryStream objects to improve application performance, especially in the area of garbage collection.
 
 * <https://github.com/giacomelli/GeneticSharp> ⭐ 1,371 | 🐛 12 | 🌐 C# | 📅 2025-11-13 遗传算法
 
-* <https://github.com/disruptor-net/Disruptor-net> ⭐ 1,331 | 🐛 1 | 🌐 C# | 📅 2026-04-11 The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
+* <https://github.com/disruptor-net/Disruptor-net> ⭐ 1,330 | 🐛 1 | 🌐 C# | 📅 2026-04-11 The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
 
 * <https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp> ⭐ 1,232 | 🐛 7 | 🌐 C# | 📅 2021-07-26 -- 高性能优先级队列
 
@@ -5424,11 +5424,11 @@ Table of Contents
 
 * <https://github.com/mono/Embeddinator-4000> ⚠️ Archived
 
-* <https://github.com/AArnott/Nerdbank.Streams> ⭐ 717 | 🐛 6 | 🌐 C# | 📅 2026-09-11 高效流
+* <https://github.com/AArnott/Nerdbank.Streams> ⭐ 717 | 🐛 8 | 🌐 C# | 📅 2026-09-12 高效流
 
 * <https://github.com/bitfaster/BitFaster.Caching> ⭐ 605 | 🐛 26 | 🌐 C# | 📅 2026-09-07 高性能cache
 
-* <https://github.com/thomhurst/ModularPipelines/> ⭐ 549 | 🐛 93 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/thomhurst/ModularPipelines/> ⭐ 549 | 🐛 63 | 🌐 C# | 📅 2026-09-13
 
 * <https://github.com/xin9le/FastEnum> ⭐ 518 | 🐛 5 | 🌐 C# | 📅 2026-07-26
 
@@ -5444,7 +5444,7 @@ Table of Contents
 
 * <https://github.com/jitbit/FastCache> ⭐ 206 | 🐛 0 | 🌐 C# | 📅 2026-09-03
 
-* [interprocess](https://github.com/cloudtoid/interprocess) ⭐ 203 | 🐛 4 | 🌐 C# | 📅 2025-01-12 A cross-platform shared memory queue for fast communication between processes (Interprocess Communication or IPC).
+* [interprocess](https://github.com/cloudtoid/interprocess) ⭐ 203 | 🐛 4 | 🌐 C# | 📅 2026-09-13 A cross-platform shared memory queue for fast communication between processes (Interprocess Communication or IPC).
 
 * <https://github.com/wangjia184/HashedWheelTimer> ⭐ 122 | 🐛 2 | 🌐 C# | 📅 2019-12-14 HashedWheelTimer implemented in C# and .Net Standard inspired by io.netty.util.HashedWheelTimer
 
@@ -5468,7 +5468,7 @@ Table of Contents
 
 * <https://github.com/barncastle/BitsKit> ⭐ 68 | 🐛 4 | 🌐 C# | 📅 2025-05-04
 
-* <https://github.com/hl845740757/commons/tree/dev/csharp/Wjybxx.Commons.Concurrent> ⭐ 58 | 🐛 0 | 🌐 C# | 📅 2026-09-06
+* <https://github.com/hl845740757/commons/tree/dev/csharp/Wjybxx.Commons.Concurrent> ⭐ 58 | 🐛 0 | 🌐 C# | 📅 2026-09-13
 
 * <https://github.com/asarnaout/OpenGeneticAlgorithm.NET> ⭐ 54 | 🐛 1 | 🌐 C# | 📅 2026-02-14 An extensible .NET genetic algorithm library for optimization and artificial intelligence - Evolutionary computation and complex problem solving made simple
 
@@ -5555,7 +5555,7 @@ Table of Contents
 * <https://github.com/Molth/StringPool> ⭐ 28 | 🐛 0 | 🌐 C# | 📅 2025-05-20
 * <https://github.com/sq/FString> ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2025-10-27
 * <https://github.com/Misaka-Mikoto-Tech/MutableString> ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2018-08-16
-* <https://github.com/soenneker/soenneker.utils.pooledstringbuilders> ⭐ 0 | 🐛 1 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/soenneker/soenneker.utils.pooledstringbuilders> ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-09-13
 * [DefaultInterpolatedStringHandler.cs](https://gist.github.com/Akeit0/0ac9a82ecbe952287bae694a10a7a7d0)
 
 #### Log
@@ -5574,7 +5574,7 @@ Table of Contents
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) ⭐ 421 | 🐛 5 | 🌐 C# | 📅 2023-08-26 - Native Collection Types for Unity <https://jacksondunstan.com/articles/tag/native-collection>
 * [SharedArray](https://github.com/stella3d/SharedArray) ⭐ 176 | 🐛 2 | 🌐 C# | 📅 2020-09-16 Zero-copy sharing between managed and native arrays in Unity
 * [UnsafeCollections](https://github.com/fholm/UnsafeCollections/) ⚠️ Archived  - Native Collection Types for Unity
-* <https://github.com/Molth/NativeCollections/> ⭐ 73 | 🐛 2 | 🌐 C# | 📅 2026-08-28 best for you
+* <https://github.com/Molth/NativeCollections/> ⭐ 73 | 🐛 2 | 🌐 C# | 📅 2026-09-13 best for you
 * <https://github.com/DennisCorvers/UnsafeCollections> ⭐ 48 | 🐛 0 | 🌐 C# | 📅 2021-03-12
 * <https://github.com/kuronekoyang/UnsafeArrayBuffer> ⭐ 23 | 🐛 0 | 🌐 C# | 📅 2026-04-15
 * [UnsafeArray](https://github.com/LizzyFox-code/UnsafeArray) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2023-10-15
@@ -5614,9 +5614,9 @@ Table of Contents
 
 #### C
 
-* stb：一系列单文件 C 库。公共领域。[官网](https://github.com/nothings/stb) ⭐ 34,631 | 🐛 429 | 🌐 C | 📅 2026-08-02
+* stb：一系列单文件 C 库。公共领域。[官网](https://github.com/nothings/stb) ⭐ 34,636 | 🐛 429 | 🌐 C | 📅 2026-08-02
 
-* C Algorithms：一个常用算法和数据结构的集合。[官网](https://github.com/fragglet/c-algorithms) ⭐ 3,610 | 🐛 10 | 🌐 C | 📅 2026-03-17
+* C Algorithms：一个常用算法和数据结构的集合。[官网](https://github.com/fragglet/c-algorithms) ⭐ 3,611 | 🐛 10 | 🌐 C | 📅 2026-03-17
 
 * qlibc：一个简单且强大的 C 库，当我们想要小且轻的库时，可作为 Glib 的替代品。[qLib license](https://github.com/wolkykim/qlibc/blob/master/LICENSE) ⭐ 1,015 | 🐛 0 | 🌐 C | 📅 2026-08-11 (类似于 [FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD"))。[官网](https://github.com/wolkykim/qlibc) ⭐ 1,015 | 🐛 0 | 🌐 C | 📅 2026-08-11
 
@@ -5644,23 +5644,23 @@ Table of Contents
 
 ## Javascript
 
-* <https://github.com/vuejs/vue> ⭐ 212,465 | 🐛 640 | 🌐 TypeScript | 📅 2024-10-10 不解释，最牛逼的框架
-* <https://github.com/trekhleb/javascript-algorithms> ⭐ 196,687 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26 js相关的数据结构
-* <https://github.com/airbnb/javascript> ⭐ 148,209 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16 JavaScript Style Guide
+* <https://github.com/vuejs/vue> ⭐ 212,796 | 🐛 640 | 🌐 TypeScript | 📅 2024-10-10 不解释，最牛逼的框架
+* <https://github.com/trekhleb/javascript-algorithms> ⭐ 196,701 | 🐛 406 | 🌐 JavaScript | 📅 2026-07-26 js相关的数据结构
+* <https://github.com/airbnb/javascript> ⭐ 148,218 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16 JavaScript Style Guide
 * <https://github.com/ryanmcdermott/clean-code-javascript> ⭐ 94,763 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 clean-code-javascript
 * <https://github.com/lydiahallie/javascript-questions> ⭐ 65,324 | 🐛 53 | 📅 2024-08-04
 * <https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md> ⭐ 37,678 | 🐛 44 | 🌐 JavaScript | 📅 2026-07-03 js的奇技淫巧
-* <https://github.com/ljianshu/Blog> ⭐ 7,913 | 🐛 88 | 🌐 JavaScript | 📅 2024-03-16  -js优秀博主
+* <https://github.com/ljianshu/Blog> ⭐ 7,912 | 🐛 88 | 🌐 JavaScript | 📅 2024-03-16  -js优秀博主
 * <https://bestofjs.org/> A place to find the best open source projects related to the web platform
 * <https://muyiy.cn/blog/> -- js优秀博主
 
 ## Lua
 
-* <https://github.com/PlutoLang/Pluto> ⭐ 697 | 🐛 27 | 🌐 C++ | 📅 2026-09-07
+* <https://github.com/PlutoLang/Pluto> ⭐ 698 | 🐛 27 | 🌐 C++ | 📅 2026-09-07
 * [Rxlua](https://github.com/bjornbytes/RxLua) ⭐ 537 | 🐛 12 | 🌐 Lua | 📅 2020-06-21
 * <https://github.com/frog-game/lua-5.4.4-comments> ⭐ 188 | 🐛 0 | 🌐 C | 📅 2025-09-16
 * <https://github.com/iwiniwin/LuaKit> ⭐ 170 | 🐛 0 | 🌐 Lua | 📅 2023-03-04
-* <https://github.com/LorettaDevs/Loretta> ⭐ 151 | 🐛 7 | 🌐 C# | 📅 2026-03-31
+* <https://github.com/LorettaDevs/Loretta> ⭐ 152 | 🐛 7 | 🌐 C# | 📅 2026-03-31
 * <https://github.com/esrrhs/lua-family-bucket> ⭐ 72 | 🐛 0 | 📅 2026-04-24
 * <https://github.com/anod221/lua-buffer> ⭐ 19 | 🐛 0 | 🌐 C | 📅 2020-10-09
 * <https://github.com/DoooReyn/LuaPanda4Cynking> ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2021-03-03
@@ -5677,16 +5677,16 @@ Table of Contents
 
 ## C\#
 
-* <https://github.com/bitwarden/server> ⭐ 20,125 | 🐛 230 | 🌐 C# | 📅 2026-09-12
-* <https://github.com/NetchX/Netch> ⭐ 17,699 | 🐛 5 | 🌐 C# | 📅 2026-09-12 -nat打洞
+* <https://github.com/bitwarden/server> ⭐ 20,129 | 🐛 230 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/NetchX/Netch> ⭐ 17,700 | 🐛 5 | 🌐 C# | 📅 2026-09-12 -nat打洞
 * <https://github.com/kgrzybek/modular-monolith-with-ddd> ⭐ 14,012 | 🐛 68 | 🌐 C# | 📅 2024-06-04 领域设计驱动
-* <https://github.com/libgit2/libgit2sharp> ⭐ 3,457 | 🐛 457 | 🌐 C# | 📅 2026-07-23 -git的c#实现
-* <https://github.com/nodatime/nodatime> ⭐ 3,000 | 🐛 36 | 🌐 C# | 📅 2026-09-12 时间管理
+* <https://github.com/libgit2/libgit2sharp> ⭐ 3,456 | 🐛 457 | 🌐 C# | 📅 2026-07-23 -git的c#实现
+* <https://github.com/nodatime/nodatime> ⭐ 3,001 | 🐛 36 | 🌐 C# | 📅 2026-09-12 时间管理
 * [Demystifier](https://github.com/benaadams/Ben.Demystifier) ⭐ 2,865 | 🐛 56 | 🌐 C# | 📅 2024-03-14 High performance understanding for stack traces (Make error logs more productive)
 * <https://github.com/madelson/DistributedLock> ⭐ 2,485 | 🐛 68 | 🌐 C# | 📅 2026-07-15
-* <https://github.com/dotnet/dotNext> ⭐ 1,961 | 🐛 1 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/dotnet/dotNext> ⭐ 1,960 | 🐛 1 | 🌐 C# | 📅 2026-09-12
 * [adnc](https://github.com/AlphaYu/adnc) ⭐ 1,476 | 🐛 0 | 🌐 C# | 📅 2026-04-29 .NET6微服务/分布式开发框架，同时也适用于单体架构系统的开发。
-* <https://github.com/iamoldli/NetModular> ⭐ 1,365 | 🐛 15 | 🌐 C# | 📅 2025-08-01 NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开框架
+* <https://github.com/iamoldli/NetModular> ⭐ 1,364 | 🐛 15 | 🌐 C# | 📅 2025-08-01 NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开框架
 * <https://github.com/gautema/cqrslite> ⭐ 1,118 | 🐛 6 | 🌐 C# | 📅 2025-11-21 cqrs
 * <https://github.com/OrleansContrib/Orleankka> ⭐ 506 | 🐛 3 | 🌐 C# | 📅 2025-12-15 actor
 * <https://github.com/RayTale/Vertex> ⭐ 293 | 🐛 7 | 🌐 C# | 📅 2026-09-11 Vertex is a distributed, ultimately consistent, event traceable cross platform framework based on Orleans, which is used to build high-performance, high throughput, low latency, scalable distributed applications
@@ -5724,19 +5724,19 @@ Table of Contents
 
 ## C
 
-* <https://github.com/nothings/stb> ⭐ 34,631 | 🐛 429 | 🌐 C | 📅 2026-08-02
-* [MyTinySTL](https://github.com/Alinshans/MyTinySTL) ⭐ 12,479 | 🐛 70 | 🌐 C++ | 📅 2024-10-27 MyTinySTL的作者它就用 C++11 重新复写了一个小型 STL（容器库＋算法库）。代码结构清晰规范、包含中文文档与注释，并且自带一个简单的测试框架，非常适合新手学习与参考！
-* [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) ⭐ 12,195 | 🐛 32 | 🌐 C | 📅 2023-07-27 Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept\_request ->execute\_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
-* [oatpp](https://github.com/oatpp/oatpp) ⭐ 8,656 | 🐛 349 | 🌐 C++ | 📅 2025-11-12 oatpp是一个轻量、跨平台、高性能、完全零依赖，用纯 C++ 实现的 Web 框架，实在是难得，小伙伴们可以学习学习
+* <https://github.com/nothings/stb> ⭐ 34,636 | 🐛 429 | 🌐 C | 📅 2026-08-02
+* [MyTinySTL](https://github.com/Alinshans/MyTinySTL) ⭐ 12,476 | 🐛 70 | 🌐 C++ | 📅 2024-10-27 MyTinySTL的作者它就用 C++11 重新复写了一个小型 STL（容器库＋算法库）。代码结构清晰规范、包含中文文档与注释，并且自带一个简单的测试框架，非常适合新手学习与参考！
+* [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) ⭐ 12,194 | 🐛 32 | 🌐 C | 📅 2023-07-27 Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept\_request ->execute\_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
+* [oatpp](https://github.com/oatpp/oatpp) ⭐ 8,655 | 🐛 350 | 🌐 C++ | 📅 2025-11-12 oatpp是一个轻量、跨平台、高性能、完全零依赖，用纯 C++ 实现的 Web 框架，实在是难得，小伙伴们可以学习学习
 
 ## CPP
 
-* [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) ⭐ 43,435 | 🐛 10 | 🌐 C++ | 📅 2026-05-16 C++那些事
+* [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) ⭐ 43,437 | 🐛 10 | 🌐 C++ | 📅 2026-05-16 C++那些事
 
 ## Java
 
-* [eladmin](https://github.com/elunez/eladmin) ⭐ 21,911 | 🐛 23 | 🌐 Java | 📅 2026-05-09 eladmin 是一款基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue 的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-* [COLA](https://github.com/alibaba/COLA) ⭐ 13,020 | 🐛 106 | 🌐 Java | 📅 2026-08-31 Clean Object-Oriented and Layered Architecture
+* [eladmin](https://github.com/elunez/eladmin) ⭐ 21,910 | 🐛 23 | 🌐 Java | 📅 2026-05-09 eladmin 是一款基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue 的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+* [COLA](https://github.com/alibaba/COLA) ⭐ 13,021 | 🐛 106 | 🌐 Java | 📅 2026-08-31 Clean Object-Oriented and Layered Architecture
 * [jodd](https://github.com/oblac/jodd) ⭐ 4,050 | 🐛 2 | 🌐 Java | 📅 2024-04-15(Produce lightweight code and focus on unleashing your full potential. Jodd is a set of developer-friendly and open-source Java micro-frameworks. It's designed to make things simple, but not simpler.)
 * [人人开源](https://www.renren.io/)
 * [SnowJena](https://github.com/ystcode/SnowJena) SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景。
@@ -5745,7 +5745,7 @@ Table of Contents
 
 ### Rust
 
-* [openobserve](https://github.com/openobserve/openobserve) ⭐ 21,758 | 🐛 605 | 🌐 TypeScript | 📅 2026-09-12
+* [openobserve](https://github.com/openobserve/openobserve) ⭐ 21,775 | 🐛 612 | 🌐 TypeScript | 📅 2026-09-13
 
 ### Lua
 
@@ -5753,14 +5753,14 @@ Table of Contents
 
 ## Author
 
-* [sa-token](https://github.com/dromara/sa-token) ⭐ 19,040 | 🐛 108 | 🌐 Java | 📅 2026-09-12 sa-token是一个轻量级Java权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0 等一系列权限相关问题
+* [sa-token](https://github.com/dromara/sa-token) ⭐ 19,040 | 🐛 109 | 🌐 Java | 📅 2026-09-12 sa-token是一个轻量级Java权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0 等一系列权限相关问题
 * <https://github.com/AzureAD/microsoft-authentication-library-for-dotnet> ⭐ 1,502 | 🐛 228 | 🌐 C# | 📅 2026-09-11
 
 ## CMAKE
 
-* <https://github.com/ttroy50/cmake-examples> ⭐ 13,072 | 🐛 30 | 🌐 CMake | 📅 2024-02-28
-* <https://github.com/onqtam/awesome-cmake> ⭐ 5,417 | 🐛 4 | 📅 2026-08-13
-* <https://github.com/Akagi201/learning-cmake> ⭐ 3,292 | 🐛 6 | 🌐 CMake | 📅 2021-02-24
+* <https://github.com/ttroy50/cmake-examples> ⭐ 13,071 | 🐛 30 | 🌐 CMake | 📅 2024-02-28
+* <https://github.com/onqtam/awesome-cmake> ⭐ 5,416 | 🐛 4 | 📅 2026-08-13
+* <https://github.com/Akagi201/learning-cmake> ⭐ 3,293 | 🐛 6 | 🌐 CMake | 📅 2021-02-24
 * <https://github.com/SFUMECJF/cmake-examples-Chinese> ⭐ 2,507 | 🐛 12 | 🌐 C++ | 📅 2022-11-28
 * <https://github.com/leetal/ios-cmake> ⭐ 2,186 | 🐛 2 | 🌐 CMake | 📅 2026-08-06
 * <https://github.com/xiaoweiChen/CMake-Cookbook> ⚠️ Archived
@@ -5776,23 +5776,23 @@ Table of Contents
 ## Embed-Script/VM/
 
 * [xlua](https://github.com/Tencent/xLua) ⭐ 10,191 | 🐛 288 | 🌐 C | 📅 2025-11-21 xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
-* [wren](https://github.com/wren-lang/wren) ⭐ 8,129 | 🐛 272 | 🌐 Wren | 📅 2025-11-19
-* [ponyc](https://github.com/ponylang/ponyc) ⭐ 6,183 | 🐛 132 | 🌐 Pony | 📅 2026-09-12 ony is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language
-* [luau](https://github.com/Roblox/luau) ⭐ 5,858 | 🐛 496 | 🌐 C++ | 📅 2026-09-11
-* [sol2](https://github.com/ThePhD/sol2) ⭐ 5,136 | 🐛 308 | 🌐 C++ | 📅 2025-03-07 Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
+* [wren](https://github.com/wren-lang/wren) ⭐ 8,130 | 🐛 272 | 🌐 Wren | 📅 2025-11-19
+* [ponyc](https://github.com/ponylang/ponyc) ⭐ 6,183 | 🐛 139 | 🌐 Pony | 📅 2026-09-13 ony is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language
+* [luau](https://github.com/Roblox/luau) ⭐ 5,860 | 🐛 494 | 🌐 C++ | 📅 2026-09-13
+* [sol2](https://github.com/ThePhD/sol2) ⭐ 5,138 | 🐛 308 | 🌐 C++ | 📅 2025-03-07 Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 * [gravity](https://github.com/marcobambini/gravity) ⭐ 4,567 | 🐛 36 | 🌐 C | 📅 2026-08-05
 * [artichoke](https://github.com/artichoke/artichoke) ⚠️ Archived python in dnasm
 * [tolua](https://github.com/topameng/tolua) ⭐ 3,058 | 🐛 44 | 🌐 C# | 📅 2024-01-19 The fastest unity lua binding solution
 * [WAVM](https://github.com/WAVM/WAVM) ⭐ 2,779 | 🐛 29 | 🌐 C++ | 📅 2026-04-05 WAVM is a WebAssembly virtual machine, designed for use in non-web applications.
-* <https://github.com/flix/flix> ⭐ 2,739 | 🐛 408 | 🌐 Flix | 📅 2026-09-12
-* [rune](https://github.com/rune-rs/rune/) ⭐ 2,322 | 🐛 68 | 🌐 Rust | 📅 2026-09-03
+* <https://github.com/flix/flix> ⭐ 2,739 | 🐛 406 | 🌐 Flix | 📅 2026-09-13
+* [rune](https://github.com/rune-rs/rune/) ⭐ 2,322 | 🐛 69 | 🌐 Rust | 📅 2026-09-13
 * [umka-lang](https://github.com/vtereshkov/umka-lang) ⭐ 2,104 | 🐛 41 | 🌐 C | 📅 2026-08-23
 * [skip](https://github.com/skiplang/skip) ⭐ 2,019 | 🐛 51 | 🌐 JavaScript | 📅 2023-09-21 Skip is a general-purpose programming language that tracks side effects to provide caching with reactive invalidation, ergonomic and safe parallelism, and efficient garbage collection. Skip is statically typed and ahead-of-time compiled using LLVM to produce highly optimized executables.
 * [minivm](https://github.com/FastVM/minivm) ⭐ 1,667 | 🐛 3 | 🌐 C | 📅 2025-06-08 A VM That is Dynamic and Fast
 * [cyber](https://github.com/fubark/cyber) ⭐ 1,520 | 🐛 37 | 🌐 Zig | 📅 2025-12-21 Fast and concurrent scripting.
 * [BorrowScript](https://github.com/alshdavid/BorrowScript) ⭐ 1,455 | 🐛 1 | 🌐 HTML | 📅 2024-09-18
 * [luajit2](https://github.com/openresty/luajit2) ⭐ 1,447 | 🐛 79 | 🌐 C | 📅 2026-08-29
-* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,300 | 🐛 144 | 🌐 TypeScript | 📅 2026-09-12 ts2lua
+* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,300 | 🐛 144 | 🌐 TypeScript | 📅 2026-09-13 ts2lua
 * [luajit-remake](https://github.com/luajit-remake/luajit-remake) ⭐ 1,292 | 🐛 7 | 🌐 C++ | 📅 2025-02-18
 * <https://github.com/zherczeg/sljit/> ⭐ 1,121 | 🐛 27 | 🌐 C | 📅 2026-09-11
 * [CSnakes](https://github.com/tonybaloney/CSnakes) ⭐ 1,117 | 🐛 146 | 🌐 C# | 📅 2026-08-23 CSnakes - a tool for embedding Python into .NET projects
@@ -5847,7 +5847,7 @@ Table of Contents
 
 #### Collection
 
-* [cosmopolitan](https://github.com/jart/cosmopolitan) ⭐ 21,280 | 🐛 227 | 🌐 C | 📅 2026-07-20 build-once run-anywhere c library
+* [cosmopolitan](https://github.com/jart/cosmopolitan) ⭐ 21,282 | 🐛 228 | 🌐 C | 📅 2026-07-20 build-once run-anywhere c library
 * [TypeRunner](https://github.com/marcj/TypeRunner) ⭐ 2,655 | 🐛 7 | 🌐 C++ | 📅 2025-03-06 ts compiler
 * <https://github.com/google/souper> ⚠️ Archived
 * <https://github.com/shining1984/PL-Compiler-Resource> ⭐ 2,161 | 🐛 0 | 📅 2025-11-12
@@ -5874,7 +5874,7 @@ Table of Contents
 
 #### Garbage Collector
 
-* [bdwgc](https://github.com/ivmai/bdwgc) ⭐ 3,535 | 🐛 188 | 🌐 C | 📅 2026-09-11 The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc)
+* [bdwgc](https://github.com/ivmai/bdwgc) ⭐ 3,537 | 🐛 188 | 🌐 C | 📅 2026-09-11 The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc)
 * [UpsilonGC](https://github.com/kkokosa/UpsilonGC) ⭐ 188 | 🐛 3 | 🌐 C++ | 📅 2020-09-17 Zero GCs and one real-world Upsilon GC
 
 #### dynCall/ffi/interop
@@ -5897,7 +5897,7 @@ Table of Contents
 ## DevOps
 
 * [bashtop](https://github.com/aristocratos/bashtop) ⭐ 11,116 | 🐛 64 | 🌐 Shell | 📅 2023-08-21 Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
-* [xyops](https://github.com/pixlcore/xyops) ⭐ 6,186 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-11
+* [xyops](https://github.com/pixlcore/xyops) ⭐ 6,189 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-11
 
 ## Unity
 
@@ -5922,7 +5922,7 @@ Table of Contents
 
 * [YooAsset](https://github.com/tuyoogame/YooAsset) ⭐ 3,360 | 🐛 207 | 🌐 C# | 📅 2026-08-11 途游 unity3d resource system
 * [xasset](https://github.com/xasset/xasset) ⭐ 2,699 | 🐛 2 | 🌐 C# | 📅 2024-06-18 Fast & powerful, asset system for unity.
-* <https://github.com/XD-MHLOO/Osintgraph> ⭐ 949 | 🐛 11 | 🌐 Python | 📅 2026-05-10
+* <https://github.com/XD-MHLOO/Osintgraph> ⭐ 951 | 🐛 11 | 🌐 Python | 📅 2026-05-10
 * [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) ⭐ 943 | 🐛 9 | 🌐 C# | 📅 2025-12-15 A rule based addressable asset importer
 * [UnityDataTools](https://github.com/Unity-Technologies/UnityDataTools) ⭐ 819 | 🐛 24 | 🌐 C# | 📅 2026-09-08
 * [SmartAddresser](https://github.com/CyberAgentGameEntertainment/SmartAddresser) ⭐ 609 | 🐛 4 | 🌐 C# | 📅 2026-06-19
@@ -5957,22 +5957,22 @@ Table of Contents
 #### Unity-Framework
 
 * <https://github.com/EllanJiang/GameFramework> ⭐ 6,872 | 🐛 11 | 🌐 C# | 📅 2023-09-05
-* <https://github.com/liangxiegame/QFramework> ⭐ 5,447 | 🐛 8 | 🌐 C# | 📅 2026-09-03
+* <https://github.com/liangxiegame/QFramework> ⭐ 5,449 | 🐛 8 | 🌐 C# | 📅 2026-09-03
 * <https://github.com/yimengfan/BDFramework.Core> ⭐ 2,707 | 🐛 0 | 🌐 C++ | 📅 2026-08-11
-* <https://github.com/ALEXTANGXIAO/TEngine> ⭐ 2,337 | 🐛 7 | 🌐 C# | 📅 2026-09-10
+* <https://github.com/ALEXTANGXIAO/TEngine> ⭐ 2,340 | 🐛 8 | 🌐 C# | 📅 2026-09-10
 * <https://github.com/JasonXuDeveloper/JEngine> ⭐ 2,234 | 🐛 2 | 🌐 C# | 📅 2026-04-23
 * <https://github.com/cocowolf/loxodon-framework> ⭐ 2,204 | 🐛 0 | 🌐 C# | 📅 2026-04-01
 * <https://github.com/Tencent/InjectFix> ⭐ 2,060 | 🐛 176 | 🌐 C# | 📅 2025-07-07
 * <https://github.com/mr-kelly/KSFramework> ⭐ 1,814 | 🐛 7 | 🌐 C# | 📅 2022-12-28
 * <https://github.com/smilehao/xlua-framework> ⭐ 1,252 | 🐛 27 | 🌐 C++ | 📅 2026-03-15
 * <https://github.com/sunsvip/GF_HybridCLR> ⭐ 972 | 🐛 0 | 🌐 C# | 📅 2026-08-06
-* [F8Framework](https://github.com/TippingGame/F8Framework) ⭐ 881 | 🐛 1 | 🌐 C# | 📅 2026-09-05
+* [F8Framework](https://github.com/TippingGame/F8Framework) ⭐ 882 | 🐛 1 | 🌐 C# | 📅 2026-09-05
 * <https://github.com/MattRix/Futile> ⭐ 845 | 🐛 101 | 🌐 C# | 📅 2026-07-25
-* [GameFrameX](https://github.com/GameFrameX/GameFrameX) ⭐ 649 | 🐛 5 | 🌐 C# | 📅 2026-09-11 跨引擎游戏框架：Unity/Godot 客户端 + Actor 模型 .NET 服务器，前后端一体化，双端热更新
+* [GameFrameX](https://github.com/GameFrameX/GameFrameX) ⭐ 649 | 🐛 5 | 🌐 C# | 📅 2026-09-13 跨引擎游戏框架：Unity/Godot 客户端 + Actor 模型 .NET 服务器，前后端一体化，双端热更新
 * <https://github.com/gmhevinci/MotionFramework> ⚠️ Archived
 * [GameDevelopmentKit](https://github.com/XuToWei/GameDevelopmentKit) ⭐ 627 | 🐛 0 | 🌐 C# | 📅 2026-09-12
 * <https://github.com/ALEXTANGXIAO/GameFramework-at-YooAsset> ⭐ 596 | 🐛 6 | 🌐 C# | 📅 2024-10-11
-* <https://github.com/ManakhovN/FigmaToUnityImporter> ⭐ 580 | 🐛 8 | 🌐 C# | 📅 2025-11-15
+* <https://github.com/ManakhovN/FigmaToUnityImporter> ⭐ 581 | 🐛 8 | 🌐 C# | 📅 2025-11-15
 * [UniFramework](https://github.com/gmhevinci/UniFramework) ⭐ 487 | 🐛 10 | 🌐 C# | 📅 2025-11-27
 * <https://github.com/JoinEnjoyJoyYangLingYun/HybridCLR_YooAsset_UniTask> ⭐ 460 | 🐛 1 | 🌐 C# | 📅 2026-04-25   hybrid clr更新
 * <https://github.com/kyubuns/AkyuiUnity> ⭐ 458 | 🐛 3 | 🌐 C# | 📅 2026-07-15
@@ -6004,7 +6004,7 @@ Table of Contents
 
 #### Dependency Injection
 
-* <https://github.com/hadashiA/VContainer> ⭐ 3,046 | 🐛 100 | 🌐 C# | 📅 2026-09-05
+* <https://github.com/hadashiA/VContainer> ⭐ 3,048 | 🐛 100 | 🌐 C# | 📅 2026-09-05
 * <https://github.com/ssannandeji/Zenject-2019> ⭐ 2,493 | 🐛 140 | 🌐 C# | 📅 2020-12-18
 * <https://github.com/gustavopsantos/reflex> ⭐ 1,617 | 🐛 10 | 🌐 C# | 📅 2026-06-18
 * <https://github.com/dadhi/DryIoc> ⭐ 1,131 | 🐛 54 | 🌐 C# | 📅 2026-09-09
@@ -6033,9 +6033,9 @@ Table of Contents
 * <https://github.com/hl845740757/FastestBtree> ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2024-09-19
 * [behavior-designer-pro-dots](https://assetstore.unity.com/packages/tools/visual-scripting/behavior-designer-pro-dots-powered-behavior-trees-298743)
 
-- <https://github.com/crashkonijn/GOAP> ⭐ 1,758 | 🐛 9 | 🌐 C# | 📅 2026-03-06
-- <https://github.com/Inspiaaa/UnityHFSM> ⭐ 1,602 | 🐛 11 | 🌐 C# | 📅 2026-03-25
-- <https://github.com/Yuan-ManX/ai-game-development-tools> ⭐ 1,337 | 🐛 13 | 🌐 JavaScript | 📅 2026-07-21
+- <https://github.com/crashkonijn/GOAP> ⭐ 1,760 | 🐛 9 | 🌐 C# | 📅 2026-03-06
+- <https://github.com/Inspiaaa/UnityHFSM> ⭐ 1,603 | 🐛 11 | 🌐 C# | 📅 2026-03-25
+- <https://github.com/Yuan-ManX/ai-game-development-tools> ⭐ 1,339 | 🐛 13 | 🌐 JavaScript | 📅 2026-07-21
 - [appccelerate](https://github.com/appccelerate/statemachine) ⭐ 551 | 🐛 18 | 🌐 C# | 📅 2025-03-28 asyn fsm
 - <https://github.com/thekiwicoder0/UnityBehaviourTreeEditor> ⭐ 336 | 🐛 7 | 🌐 C# | 📅 2026-05-14
 - <https://github.com/AkiKurisu/AkiBT> ⭐ 270 | 🐛 4 | 🌐 C# | 📅 2025-03-15
@@ -6057,12 +6057,12 @@ Table of Contents
 
 #### LLM-GAME-AI
 
-* <https://github.com/KsanaDock/Microverse> ⭐ 2,472 | 🐛 10 | 🌐 GDScript | 📅 2026-04-10
+* <https://github.com/KsanaDock/Microverse> ⭐ 2,474 | 🐛 10 | 🌐 GDScript | 📅 2026-04-10
 * [agentcore-ai-game-command-framework](https://assetstore.unity.com/packages/tools/generative-ai/agentcore-ai-game-command-framework-343114)
 
 ### Chat/Dialogue
 
-* <https://github.com/uezo/ChatdollKit> ⭐ 1,220 | 🐛 32 | 🌐 C# | 📅 2026-09-10
+* <https://github.com/uezo/ChatdollKit> ⭐ 1,221 | 🐛 32 | 🌐 C# | 📅 2026-09-10
 * <https://github.com/Lunatic-Works/Nova> ⭐ 724 | 🐛 3 | 🌐 C# | 📅 2026-08-01
 * <https://github.com/AkiKurisu/Next-Gen-Dialogue/> ⭐ 118 | 🐛 0 | 🌐 C# | 📅 2026-03-28
 * <https://github.com/AkiKurisu/UniChat> ⚠️ Archived
@@ -6079,7 +6079,7 @@ Table of Contents
 
 * <https://github.com/m969/EGamePlay> ⭐ 2,375 | 🐛 1 | 🌐 C# | 📅 2026-09-02 一个基于Entity-Component模式的灵活、通用、可扩展的轻量战斗（技能）框架，配置可选使用ScriptableObject或是Excel表格. A flexible, generic, easy to extend, lightweight combat (skills) framework based on Entity-Component pattern. Configuration can choose to use ScriptableObject or Excel tables
 * [unity-gameplay-ability-system](https://github.com/sjai013/unity-gameplay-ability-system) ⚠️ Archived The approach for this is taken from that used by Unreal's Gameplay Ability System, but implemented in Unity using the Data-Oriented Technology Stack (DOTS) where possible.
-* <https://github.com/526077247/GenshinGamePlay> ⭐ 473 | 🐛 0 | 🌐 C# | 📅 2026-09-11
+* <https://github.com/526077247/GenshinGamePlay> ⭐ 473 | 🐛 0 | 🌐 C# | 📅 2026-09-13
 * <https://github.com/dongweiPeng/SkillSystem> ⭐ 373 | 🐛 1 | 🌐 C# | 📅 2018-06-11 (丰富的接口可便于使用扩展 完整的技能效果流程【如流程图】 配套的技能管理器 自定义的技能数据表)
 * <https://github.com/smartgrass/XCSkillEditor_Unity> ⭐ 358 | 🐛 0 | 🌐 C# | 📅 2024-02-01
 * <https://github.com/qq362946/AOI> ⭐ 280 | 🐛 0 | 🌐 C# | 📅 2021-07-17
@@ -6120,11 +6120,11 @@ Table of Contents
 * <https://github.com/NoBugCn/ActionEditor> ⭐ 613 | 🐛 3 | 🌐 C# | 📅 2025-07-24
 * <https://github.com/TheSakuraCherry/MMDarknessTimeline> ⭐ 106 | 🐛 2 | 🌐 C# | 📅 2025-03-28
 * <https://github.com/NoBugCn/ActionEditorExample> ⭐ 77 | 🐛 0 | 🌐 C# | 📅 2024-11-01
-* <https://github.com/OnClick9927/ActionEditor> ⭐ 76 | 🐛 0 | 🌐 C# | 📅 2026-09-07
+* <https://github.com/OnClick9927/ActionEditor> ⭐ 77 | 🐛 0 | 🌐 C# | 📅 2026-09-07
 
 #### GAS
 
-* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,948 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
+* [GASDocumentation](https://github.com/tranek/GASDocumentation) ⭐ 5,947 | 🐛 44 | 🌐 C++ | 📅 2024-04-06 My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
 * <https://github.com/BillEliot/GASDocumentation_Chinese> ⭐ 1,245 | 🐛 3 | 📅 2022-08-10
 * <https://github.com/No78Vino/gameplay-ability-system-for-unity> ⭐ 843 | 🐛 12 | 🌐 C# | 📅 2026-09-07
 
@@ -6189,14 +6189,14 @@ Table of Contents
 
 #### Asyn-Await
 
-* <https://github.com/Cysharp/UniTask> ⭐ 11,187 | 🐛 21 | 🌐 C# | 📅 2026-07-08
+* <https://github.com/Cysharp/UniTask> ⭐ 11,189 | 🐛 21 | 🌐 C# | 📅 2026-07-08
 * <https://github.com/StephenCleary/AsyncEx> ⭐ 3,725 | 🐛 70 | 🌐 C# | 📅 2024-01-01
 * <https://github.com/brminnick/AsyncAwaitBestPractices> ⭐ 1,841 | 🐛 1 | 🌐 C# | 📅 2026-09-11
 * [durabletask](https://github.com/Azure/durabletask) ⭐ 1,735 | 🐛 232 | 🌐 C# | 📅 2026-09-11 Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 * <https://github.com/microsoft/coyote> ⭐ 1,597 | 🐛 46 | 🌐 C# | 📅 2026-08-24
 * [libcsp](https://github.com/shiyanhui/libcsp) ⭐ 1,345 | 🐛 6 | 🌐 C | 📅 2023-06-30 A concurrency C library 10x faster than Golang.
 * [vs-threading](https://github.com/microsoft/vs-threading) ⭐ 1,040 | 🐛 79 | 🌐 C# | 📅 2026-09-11
-* [minicoro](https://github.com/edubart/minicoro) ⭐ 986 | 🐛 8 | 🌐 C | 📅 2024-12-07 Single header asymmetric stackful cross-platform coroutine library in pure C.
+* [minicoro](https://github.com/edubart/minicoro) ⭐ 987 | 🐛 8 | 🌐 C | 📅 2024-12-07 Single header asymmetric stackful cross-platform coroutine library in pure C.
 * <https://github.com/modesttree/Unity3dAsyncAwaitUtil> ⭐ 471 | 🐛 14 | 🌐 C# | 📅 2019-12-04
 * <https://github.com/mgravell/PooledAwait> ⭐ 405 | 🐛 3 | 🌐 C# | 📅 2020-04-21
 * <https://github.com/timcassell/ProtoPromise> ⭐ 260 | 🐛 12 | 🌐 C# | 📅 2026-08-27
@@ -6207,8 +6207,8 @@ Table of Contents
 * <https://github.com/coryleach/UnityAsync> ⭐ 84 | 🐛 0 | 🌐 C# | 📅 2023-08-30
 * <https://github.com/Enderlook/Unity-Threading> ⭐ 46 | 🐛 0 | 🌐 C# | 📅 2022-12-05
 * <https://github.com/RageAgainstThePixel/com.utilities.async> ⭐ 36 | 🐛 1 | 🌐 C# | 📅 2026-05-08
-* <https://github.com/thomhurst/AsyncSemaphore> ⭐ 25 | 🐛 5 | 🌐 PowerShell | 📅 2026-09-12
-* [backgroundqueue](https://github.com/soenneker/soenneker.utils.backgroundqueue) ⭐ 12 | 🐛 0 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/thomhurst/AsyncSemaphore> ⭐ 25 | 🐛 5 | 🌐 PowerShell | 📅 2026-09-13
+* [backgroundqueue](https://github.com/soenneker/soenneker.utils.backgroundqueue) ⭐ 12 | 🐛 0 | 🌐 C# | 📅 2026-09-13
 * <https://github.com/TORISOUP/SequentialTaskExecutors> ⭐ 3 | 🐛 1 | 🌐 C# | 📅 2023-11-29
 * [Skyward.Threading](https://github.com/SkywardApps/Skyward.Threading) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2024-06-17 This is a system for running items in background queues. All tasks run locally in-process, so this is not a replacement for eg Redis or RabbitMQ or Kafka, but is a simpler implementation of deferring worker items.
 * <https://www.albahari.com/threading>
@@ -6229,7 +6229,7 @@ Table of Contents
 * [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community) ⭐ 265 | 🐛 3 | 🌐 C# | 📅 2026-08-20
 * [BlueGraph](https://github.com/McManning/BlueGraph) ⭐ 256 | 🐛 28 | 🌐 C# | 📅 2021-12-11
 * [UniState](https://github.com/bazyleu/UniState) ⭐ 249 | 🐛 0 | 🌐 C# | 📅 2026-07-11 UniState is an architectural framework for Unity, designed around State pattern. Offers high performance and excellent scalability, ideal for complex Unity projects.
-* [Ceres](https://github.com/AkiKurisu/Ceres) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-09-06 Powerful node based visual scripting toolkit for Unity.
+* [Ceres](https://github.com/AkiKurisu/Ceres) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-09-13 Powerful node based visual scripting toolkit for Unity.
 * <https://github.com/haloman9527/3.0_GraphProcessor> ⭐ 126 | 🐛 1 | 🌐 C# | 📅 2026-08-11
 * [Lattice](https://github.com/Pontoco/Lattice) ⭐ 112 | 🐛 0 | 🌐 C# | 📅 2025-06-15 A visual scripting system for Unity ECS. Quickly create gameplay logic.
 * <https://github.com/wahidrachmawan/uNode> ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-08-26
@@ -6248,9 +6248,9 @@ Table of Contents
 
 #### UI
 
-* [UIEffect](https://github.com/mob-sakai/UIEffect) ⭐ 7,641 | 🐛 9 | 🌐 C# | 📅 2026-08-27 UIEffect is an effect component for uGUI element in Unity
+* [UIEffect](https://github.com/mob-sakai/UIEffect) ⭐ 7,643 | 🐛 9 | 🌐 C# | 📅 2026-08-27 UIEffect is an effect component for uGUI element in Unity
 
-* [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) ⭐ 5,990 | 🐛 43 | 🌐 C# | 📅 2026-09-07 最好的ui 特效组件
+* [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) ⭐ 5,991 | 🐛 43 | 🌐 C# | 📅 2026-09-07 最好的ui 特效组件
 
 * <https://github.com/qiankanglai/LoopScrollRect> ⭐ 2,772 | 🐛 1 | 🌐 C# | 📅 2026-06-07
 
@@ -6282,7 +6282,7 @@ Table of Contents
 
 * <https://github.com/LibraStack/UnityMvvmToolkit> ⭐ 545 | 🐛 7 | 🌐 C# | 📅 2024-03-27
 
-* <https://github.com/sinanata/unity-ui-document-design-system> ⭐ 538 | 🐛 0 | 🌐 C# | 📅 2026-08-19
+* <https://github.com/sinanata/unity-ui-document-design-system> ⭐ 539 | 🐛 0 | 🌐 C# | 📅 2026-08-19
 
 * [Shader2D](https://github.com/nightyan/Shader2D) ⭐ 514 | 🐛 1 | 🌐 C# | 📅 2025-11-27 Shader2D: some 2d shader effect
 
@@ -6292,7 +6292,7 @@ Table of Contents
 
 * <https://github.com/Sunnyliumingsheng/AutoUI> ⭐ 388 | 🐛 0 | 🌐 C# | 📅 2025-08-08
 
-* <https://github.com/dmitry-ivashenko/StatefulUI> ⭐ 353 | 🐛 5 | 🌐 C# | 📅 2024-08-15
+* <https://github.com/dmitry-ivashenko/StatefulUI> ⭐ 353 | 🐛 6 | 🌐 C# | 📅 2024-08-15
 
 * [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame) ⭐ 323 | 🐛 10 | 🌐 C# | 📅 2024-04-14
 
@@ -6497,7 +6497,7 @@ Table of Contents
 * <https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set> ⭐ 1,946 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-21
 * <https://github.com/Luca3317/TMPEffects> ⭐ 796 | 🐛 8 | 🌐 C# | 📅 2026-06-05
 * <https://github.com/pnarimani/RTLTMPro> ⭐ 718 | 🐛 31 | 🌐 ShaderLab | 📅 2026-04-29
-* <https://github.com/LightSideKittens/UniText> ⭐ 693 | 🐛 6 | 🌐 C# | 📅 2026-08-26
+* <https://github.com/LightSideKittens/UniText> ⭐ 693 | 🐛 7 | 🌐 C# | 📅 2026-08-26
 * <https://github.com/coding2233/TextInlineSprite> ⚠️ Archived
 * <https://github.com/chick-soups/TextFilesForTextMeshPro> ⭐ 502 | 🐛 1 | 📅 2024-02-02  tm 的字体库
 * <https://github.com/redbluegames/unity-text-typer> ⭐ 323 | 🐛 23 | 🌐 C# | 📅 2021-07-18
@@ -6541,7 +6541,7 @@ Table of Contents
 
 ##### Free-Font
 
-* <https://github.com/lxgw/LxgwNeoXiHei> ⭐ 2,649 | 🐛 2 | 📅 2026-08-20 chinese font
+* <https://github.com/lxgw/LxgwNeoXiHei> ⭐ 2,650 | 🐛 2 | 📅 2026-08-20 chinese font
 * <https://github.com/DrXie/OSFCC> ⭐ 837 | 🐛 17 | 📅 2020-04-27 chinese font
 * <https://www.100font.com/>  chinese font
 * <https://www.hellofont.cn/> chinese font
@@ -6760,15 +6760,15 @@ Table of Contents
 
 #### Csharp-debug
 
-* <https://github.com/microsoft/debug-adapter-protocol> ⭐ 1,783 | 🐛 95 | 🌐 HTML | 📅 2026-09-12
-* <https://github.com/Samsung/netcoredbg> ⭐ 1,346 | 🐛 78 | 🌐 C# | 📅 2026-06-25
+* <https://github.com/microsoft/debug-adapter-protocol> ⭐ 1,783 | 🐛 96 | 🌐 HTML | 📅 2026-09-13
+* <https://github.com/Samsung/netcoredbg> ⭐ 1,345 | 🐛 78 | 🌐 C# | 📅 2026-06-25
 * <https://github.com/MattParkerDev/sharpdbg> ⭐ 336 | 🐛 21 | 🌐 C# | 📅 2026-09-01
 * <https://github.com/lordmilko/ClrDebug> ⭐ 136 | 🐛 3 | 🌐 C# | 📅 2026-08-07
 
 #### Windows-Show
 
-* <https://github.com/Blinue/Magpie> ⭐ 14,829 | 🐛 110 | 🌐 HLSL | 📅 2026-09-10 使游戏窗口全屏显示
-* <https://github.com/LorisYounger/VPet> ⭐ 6,786 | 🐛 27 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/Blinue/Magpie> ⭐ 14,845 | 🐛 110 | 🌐 HLSL | 📅 2026-09-13 使游戏窗口全屏显示
+* <https://github.com/LorisYounger/VPet> ⭐ 6,789 | 🐛 27 | 🌐 C# | 📅 2026-09-13
 * <https://github.com/sator-imaging/AppWindowUtility> ⭐ 192 | 🐛 5 | 🌐 C# | 📅 2025-07-10
 * <https://github.com/XJINE/Unity_TransparentWindowManager> ⭐ 167 | 🐛 0 | 🌐 C# | 📅 2018-09-10
 * [ExplorerGenie](https://github.com/martinstoeckli/ExplorerGenie) ⭐ 63 | 🐛 1 | 🌐 C# | 📅 2025-06-03 ExplorerGenie is an extended context menu for the Windows explorer.
@@ -6835,7 +6835,7 @@ Table of Contents
 
 #### DOTS
 
-* <https://github.com/Unity-Technologies/ECS-Network-Racing-Sample> ⭐ 763 | 🐛 1 | 🌐 C# | 📅 2026-09-11
+* <https://github.com/Unity-Technologies/ECS-Network-Racing-Sample> ⭐ 763 | 🐛 1 | 🌐 C# | 📅 2026-09-12
 * [fennecs](https://github.com/outfox/fennecs) ⭐ 465 | 🐛 8 | 🌐 C# | 📅 2026-08-06
 * [ECS\_Game\_Demo](https://github.com/JiepengTan/ECS_Game_Demo) ⭐ 92 | 🐛 0 | 🌐 C# | 📅 2023-10-25
 * <https://github.com/Wind-Coming/MultiUnitSameScreen> ⭐ 51 | 🐛 0 | 🌐 C# | 📅 2021-11-25
@@ -6895,17 +6895,17 @@ Table of Contents
 
 - <https://github.com/zhm-real/PathPlanning> ⭐ 9,358 | 🐛 35 | 🌐 Python | 📅 2023-02-06
 - <https://github.com/recastnavigation/recastnavigation> ⭐ 7,913 | 🐛 144 | 🌐 C++ | 📅 2026-02-27
-- <https://github.com/h8man/NavMeshPlus> ⭐ 2,343 | 🐛 23 | 🌐 C# | 📅 2026-08-29
+- <https://github.com/h8man/NavMeshPlus> ⭐ 2,344 | 🐛 23 | 🌐 C# | 📅 2026-08-29
 - [WZCQ](https://github.com/FengQuanLi/WZCQ) ⭐ 1,833 | 🐛 15 | 🌐 Python | 📅 2021-11-16 用基于策略梯度得强化学习方法训练AI玩王者荣耀
-- <https://github.com/samueltardieu/pathfinding> ⭐ 1,073 | 🐛 34 | 🌐 Rust | 📅 2026-09-11
-- [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 941 | 🐛 18 | 🌐 C# | 📅 2026-09-07 C# Recast & Detour is a navigation mesh toolkit for games, Unity3D and servers.
+- <https://github.com/samueltardieu/pathfinding> ⭐ 1,073 | 🐛 36 | 🌐 Rust | 📅 2026-09-11
+- [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 942 | 🐛 18 | 🌐 C# | 📅 2026-09-07 C# Recast & Detour is a navigation mesh toolkit for games, Unity3D and servers.
 - <https://github.com/snape/RVO2-CS> ⭐ 857 | 🐛 5 | 🌐 C# | 📅 2026-09-09
 - <https://github.com/warmtrue/RVO2-Unity> ⭐ 695 | 🐛 1 | 🌐 C# | 📅 2019-03-04
 - <https://github.com/Nebukam/com.nebukam.orca> ⭐ 562 | 🐛 1 | 🌐 C# | 📅 2024-07-30
 - [dotsnav](https://github.com/dotsnav/dotsnav) ⭐ 512 | 🐛 5 | 🌐 C# | 📅 2022-12-07 A fully dynamic planar navmesh Unity package supporting agents of any size
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) ⭐ 487 | 🐛 4 | 🌐 C# | 📅 2018-09-02 - A demo implementation of Unity Entity Component System with NavMesh
 - <https://github.com/dbrizov/Unity-PathFindingAlgorithms> ⭐ 393 | 🐛 1 | 🌐 C# | 📅 2019-06-23
-- <https://github.com/ppiastucki/recast4j> ⭐ 290 | 🐛 1 | 🌐 Java | 📅 2026-08-31
+- <https://github.com/ppiastucki/recast4j> ⭐ 290 | 🐛 1 | 🌐 Java | 📅 2026-09-13
 - <https://github.com/brunomikoski/Simple-optimized-A-Pathfinder> ⭐ 259 | 🐛 1 | 🌐 C# | 📅 2022-11-14
 - <https://github.com/hugoscurti/hierarchical-pathfinding/> ⭐ 196 | 🐛 1 | 🌐 C# | 📅 2022-12-26
 - <https://github.com/aillieo/RVO2-Unity> ⭐ 155 | 🐛 0 | 🌐 C# | 📅 2026-07-26
@@ -6961,11 +6961,11 @@ Table of Contents
 
 #### Mesh
 
-* [Open3D](https://github.com/intel-isl/Open3D) ⭐ 13,956 | 🐛 1,317 | 🌐 C++ | 📅 2026-09-12 Open3D: A Modern Library for 3D Data Processing
-* [Open3D](https://github.com/isl-org/Open3D) ⭐ 13,956 | 🐛 1,317 | 🌐 C++ | 📅 2026-09-12 Open3D: A Modern Library for 3D Data Processing
-* [meshlab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,825 | 🐛 194 | 🌐 C++ | 📅 2026-08-25 MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes
+* [Open3D](https://github.com/intel-isl/Open3D) ⭐ 13,959 | 🐛 1,317 | 🌐 C++ | 📅 2026-09-12 Open3D: A Modern Library for 3D Data Processing
+* [Open3D](https://github.com/isl-org/Open3D) ⭐ 13,959 | 🐛 1,317 | 🌐 C++ | 📅 2026-09-12 Open3D: A Modern Library for 3D Data Processing
+* [meshlab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,826 | 🐛 194 | 🌐 C++ | 📅 2026-08-25 MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes
 * [trimesh](https://github.com/mikedh/trimesh) ⭐ 3,678 | 🐛 482 | 🌐 Python | 📅 2026-09-02 Python library for loading and using triangular meshes.
-* [meshio](https://github.com/nschloe/meshio) ⭐ 2,327 | 🐛 250 | 🌐 Python | 📅 2024-07-23 There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts  between them
+* [meshio](https://github.com/nschloe/meshio) ⭐ 2,328 | 🐛 250 | 🌐 Python | 📅 2024-07-23 There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts  between them
 * [BakerBoy](https://github.com/Fewes/BakerBoy) ⭐ 362 | 🐛 2 | 🌐 HLSL | 📅 2021-07-17 A tiny GPU-based ambient occlusion and bent normal baker for Unity
 * [Graphmesh](https://github.com/Siccity/Graphmesh) ⭐ 181 | 🐛 1 | 🌐 C# | 📅 2020-03-23  Graph-based mesh modifiers.
 * [MeshBoolean](https://github.com/KaimaChen/MeshBoolean) ⭐ 144 | 🐛 3 | 🌐 C# | 📅 2021-02-22 Make Boolean Operator on Mesh. In Unity.
@@ -7042,11 +7042,11 @@ Table of Contents
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) ⭐ 5,208 | 🐛 127 | 🌐 C# | 📅 2026-09-10 :thumbsup:  Attribute Extensions for Unity
 * [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) ⭐ 1,973 | 🐛 12 | 🌐 C# | 📅 2026-08-25
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) ⭐ 1,947 | 🐛 9 | 🌐 C# | 📅 2026-02-26 Extend the Unity Toolbar with your own Editor UI code
-* <https://github.com/AnnulusGames/Alchemy> ⭐ 1,359 | 🐛 30 | 🌐 C# | 📅 2026-09-07
+* <https://github.com/AnnulusGames/Alchemy> ⭐ 1,362 | 🐛 30 | 🌐 C# | 📅 2026-09-13
 * [SaintsField](https://github.com/TylerTemp/SaintsField) ⭐ 779 | 🐛 4 | 🌐 C# | 📅 2026-09-10 A Unity Inspector extension tools focusing on script fields inspector enhancement
 * <https://github.com/yasirkula/UnityInspectPlus> ⭐ 404 | 🐛 0 | 🌐 C# | 📅 2026-04-04
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) ⭐ 365 | 🐛 3 | 🌐 C# | 📅 2023-03-10 Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
-* [EditorAttributes](https://github.com/v0lt13/EditorAttributes) ⭐ 301 | 🐛 1 | 🌐 C# | 📅 2026-06-13 EditorAttributes is a unity package that adds some extra editor attributes to your project to easily customize your editors without having to write any editor code.
+* [EditorAttributes](https://github.com/v0lt13/EditorAttributes) ⭐ 302 | 🐛 1 | 🌐 C# | 📅 2026-06-13 EditorAttributes is a unity package that adds some extra editor attributes to your project to easily customize your editors without having to write any editor code.
 * <https://github.com/AlexeyTaranov/SerializeReferenceDropdown> ⭐ 187 | 🐛 1 | 🌐 C# | 📅 2026-07-10
 * [FolderTag](https://github.com/liyingsong99/FolderTag) ⭐ 101 | 🐛 0 | 🌐 C# | 📅 2026-01-22
 * [reference](https://github.com/BroEngine/reference-radar) ⭐ 85 | 🐛 1 | 🌐 C# | 📅 2026-09-10
@@ -7070,7 +7070,7 @@ Table of Contents
 * [project-view-enhanced-199685](https://assetstore.unity.com/packages/tools/gui/project-view-enhanced-199685)
 * [Unity\_FolderSystem](https://github.com/Gaskellgames/Unity_FolderSystem) Extends Unity by adding in custom folder visuals in the scene hierarchy and project files.
 
-- <https://github.com/Thundernerd/Unity3D-SerializableInterface> ⭐ 298 | 🐛 6 | 🌐 C# | 📅 2026-06-02
+- <https://github.com/Thundernerd/Unity3D-SerializableInterface> ⭐ 299 | 🐛 6 | 🌐 C# | 📅 2026-06-02
 - <https://github.com/AbZorbaGames/artificetoolkit> ⭐ 263 | 🐛 5 | 🌐 C# | 📅 2026-08-19
 - [unity project icon](https://github.com/AtaruMatsudaira/Unicon/) ⭐ 15 | 🐛 3 | 🌐 C# | 📅 2026-07-13
 - [show git branch](https://qiita.com/ScreenPocket/items/5065cd020ad4649b9115)
@@ -7093,7 +7093,7 @@ Table of Contents
 
 - <https://github.com/SarahWeiii/CoACD> ⭐ 1,150 | 🐛 30 | 🌐 C++ | 📅 2026-08-28
 - [Unity-Resource-Checker](https://github.com/handcircus/Unity-Resource-Checker) ⭐ 1,044 | 🐛 17 | 🌐 C# | 📅 2022-02-20
-- [Unity-Dependencies-Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter) ⭐ 723 | 🐛 1 | 🌐 C# | 📅 2026-06-28
+- [Unity-Dependencies-Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter) ⭐ 724 | 🐛 1 | 🌐 C# | 📅 2026-06-28
 - <https://github.com/aniketrajnish/Unity-Collider-Optimizer> ⭐ 559 | 🐛 1 | 🌐 C# | 📅 2026-03-13
 - [UnityComponent](https://github.com/GameBuildingBlocks/UnityComponent) ⭐ 273 | 🐛 1 | 🌐 C# | 📅 2018-04-10
 - [asset-relations-viewer](https://github.com/innogames/asset-relations-viewer) ⭐ 189 | 🐛 0 | 🌐 C# | 📅 2026-06-15
@@ -7170,8 +7170,8 @@ Table of Contents
 
 #### Message Bus
 
-* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,480 | 🐛 124 | 🌐 C# | 📅 2026-09-12 Command Dispatcher, Processor, and Distributed Task Queue
-* [wolverine](https://github.com/JasperFx/wolverine) ⭐ 2,339 | 🐛 28 | 🌐 C# | 📅 2026-09-11
+* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,481 | 🐛 125 | 🌐 C# | 📅 2026-09-13 Command Dispatcher, Processor, and Distributed Task Queue
+* [wolverine](https://github.com/JasperFx/wolverine) ⭐ 2,340 | 🐛 35 | 🌐 C# | 📅 2026-09-13
 * [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer) ⭐ 602 | 🐛 5 | 🌐 C# | 📅 2021-09-23
 * [VitalRouter](https://github.com/hadashiA/VitalRouter) ⭐ 364 | 🐛 4 | 🌐 C# | 📅 2026-07-14
 * [edriven](https://github.com/dkozar/edriven) ⭐ 238 | 🐛 1 | 🌐 C# | 📅 2020-01-01 - Event-driven / asynchronous framework for Unity3d
@@ -7193,8 +7193,8 @@ Table of Contents
 * [UniEventSystem](https://github.com/Bian-Sh/UniEventSystem) ⭐ 32 | 🐛 0 | 🌐 C# | 📅 2019-10-10 - A generic Event-Bus
 * [Unity3d-Signals](https://github.com/dimmpixeye/Unity3d-Signals) ⚠️ Archived - Signals are in-memory publish/subscribe system and effectively replace Unity SendMessage
 * [GenEvent](https://github.com/Puring103/GenEvent) ⭐ 27 | 🐛 0 | 🌐 C# | 📅 2026-05-09
+* [schedule](https://github.com/FelixBole/schedule-master) ⭐ 13 | 🐛 0 | 🌐 C# | 📅 2024-09-01
 * [bovinelabs.event](https://github.com/tertle/com.bovinelabs.event) ⭐ 12 | 🐛 1 | 🌐 C# | 📅 2023-05-27 A high performance solution for safely creating events between systems in Unity ECS.
-* [schedule](https://github.com/FelixBole/schedule-master) ⭐ 12 | 🐛 0 | 🌐 C# | 📅 2024-09-01
 * [drakkar-events](https://assetstore.unity.com/packages/tools/integration/drakkar-events-302282)
 * [pulse-gc-free-event-system](https://assetstore.unity.com/packages/tools/utilities/pulse-gc-free-event-system-with-live-debugger-362652)
 * [game-event-system-ges](https://assetstore.unity.com/packages/tools/game-toolkits/game-event-system-ges-357054)
@@ -7235,9 +7235,9 @@ Table of Contents
 
 ## 知识库软件/笔记软件/思维构造工具
 
-* [思源](https://github.com/siyuan-note/siyuan) ⭐ 46,316 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-12
-* [quarkdown](https://github.com/iamgio/quarkdown) ⭐ 16,106 | 🐛 23 | 🌐 Kotlin | 📅 2026-09-11
-* [A hackable markdown note application for programmers](https://github.com/purocean/yn) ⭐ 6,750 | 🐛 85 | 🌐 TypeScript | 📅 2026-09-10
+* [思源](https://github.com/siyuan-note/siyuan) ⭐ 46,331 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-13
+* [quarkdown](https://github.com/iamgio/quarkdown) ⭐ 16,107 | 🐛 23 | 🌐 Kotlin | 📅 2026-09-13
+* [A hackable markdown note application for programmers](https://github.com/purocean/yn) ⭐ 6,750 | 🐛 68 | 🌐 TypeScript | 📅 2026-09-13
 * [印象笔记](https://www.yinxiang.com/)
 * [anytype](https://anytype.io/)
 * [有道云笔记](http://note.youdao.com/)
@@ -7256,7 +7256,7 @@ Table of Contents
 
 ## Unity-Build
 
-* [AndResGuard](https://github.com/shwenzhang/AndResGuard) ⭐ 8,650 | 🐛 167 | 🌐 Java | 📅 2023-10-20 Android资源混淆工具
+* [AndResGuard](https://github.com/shwenzhang/AndResGuard) ⭐ 8,649 | 🐛 167 | 🌐 Java | 📅 2023-10-20 Android资源混淆工具
 * <https://github.com/ligurio/awesome-ci> ⭐ 4,145 | 🐛 21 | 📅 2026-08-27
 * [buildtool](https://github.com/superunitybuild/buildtool) ⭐ 1,343 | 🐛 21 | 🌐 C# | 📅 2025-01-07
 * <https://github.com/unitycoder/UnityLauncherPro> ⭐ 706 | 🐛 23 | 🌐 C# | 📅 2026-08-27
@@ -7316,12 +7316,12 @@ Table of Contents
 
 ## Unity-Games&\&OpenSource-Games
 
-* <https://github.com/bobeff/open-source-games> ⭐ 13,938 | 🐛 28 | 🌐 Python | 📅 2026-02-25
-* <https://github.com/jynew/jynew> ⭐ 8,958 | 🐛 42 | 🌐 C# | 📅 2026-03-25
+* <https://github.com/bobeff/open-source-games> ⭐ 13,991 | 🐛 28 | 🌐 Python | 📅 2026-02-25
+* <https://github.com/jynew/jynew> ⭐ 8,960 | 🐛 42 | 🌐 C# | 📅 2026-03-25
 * <https://github.com/liuhaopen/UnityMMO> ⭐ 1,952 | 🐛 17 | 🌐 Lua | 📅 2021-07-01
 * <https://github.com/TastSong/CrazyCar> ⭐ 1,846 | 🐛 2 | 🌐 C# | 📅 2026-06-12 网络联机游戏解决方案---Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis；后台为Vue + Element；游戏端采用QFramework框架，支持KCP和WebSocket网络(商用级)
 * [Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) ⭐ 1,047 | 🐛 5 | 🌐 C# | 📅 2026-07-27 仙剑奇侠传三（以及外传）C#/Unity实现
-* <https://github.com/freezy/VisualPinball.Engine> ⭐ 507 | 🐛 70 | 🌐 C# | 📅 2026-09-09
+* <https://github.com/freezy/VisualPinball.Engine> ⭐ 508 | 🐛 70 | 🌐 C# | 📅 2026-09-12
 * <https://github.com/insthync/UnityMultiplayerARPG_MMO> ⭐ 499 | 🐛 0 | 🌐 C# | 📅 2026-09-10
 * <https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game> ⭐ 454 | 🐛 18 | 🌐 C# | 📅 2026-03-23
 * [NineChronicles](https://github.com/planetarium/NineChronicles) ⭐ 411 | 🐛 128 | 🌐 C# | 📅 2026-09-11 Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
@@ -7343,10 +7343,10 @@ Table of Contents
 ## Programmer-Common-Tool
 
 * <https://github.com/nusr/hacker-laws-zh> ⭐ 12,496 | 🐛 9 | 📅 2023-06-06   程序员应该知道的原则
-* <https://github.com/hoochanlon/NeiJuan> ⭐ 9,669 | 🐛 0 | 🌐 Python | 📅 2026-09-11
+* <https://github.com/hoochanlon/NeiJuan> ⭐ 9,674 | 🐛 0 | 🌐 Python | 📅 2026-09-13
 * <https://github.com/Bowen7/regex-vis> ⭐ 4,448 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-13  Regex visualizer & editor
-* <https://github.com/loonggg/DevMoneySharing> ⭐ 3,568 | 🐛 6 | 📅 2020-03-11 独立开发者赚钱经验分享
-* <https://github.com/eastlakeside/awesome-productivity-cn> ⭐ 2,815 | 🐛 16 | 📅 2022-08-08
+* <https://github.com/loonggg/DevMoneySharing> ⭐ 3,571 | 🐛 6 | 📅 2020-03-11 独立开发者赚钱经验分享
+* <https://github.com/eastlakeside/awesome-productivity-cn> ⭐ 2,817 | 🐛 16 | 📅 2022-08-08
 * <https://github.com/zhaoolee/OnlineToolsBook> ⭐ 2,669 | 🐛 21 | 🌐 CSS | 📅 2026-06-08 集锦
 * <https://github.com/iamcheyan/fudoki> ⭐ 894 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-16 日语学习
 * <https://github.com/cunyu1943/amazing-websites> ⭐ 70 | 🐛 0 | 📅 2021-07-07
@@ -7375,8 +7375,8 @@ Table of Contents
 
 ## workflow
 
-* <https://github.com/n8n-io/n8n> ⭐ 204,098 | 🐛 1,153 | 🌐 TypeScript | 📅 2026-09-12
-* <https://github.com/fastlane/fastlane> ⭐ 42,107 | 🐛 670 | 🌐 Ruby | 📅 2026-09-12
+* <https://github.com/n8n-io/n8n> ⭐ 204,178 | 🐛 1,161 | 🌐 TypeScript | 📅 2026-09-13
+* <https://github.com/fastlane/fastlane> ⭐ 42,106 | 🐛 671 | 🌐 Ruby | 📅 2026-09-13
 * <https://github.com/aelassas/Wexflow> ⭐ 842 | 🐛 0 | 🌐 C# | 📅 2026-09-11
 * <https://wiki.eryajf.net/pages/2415.html#_1-%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0%E3%80%82>
 * <https://bonsai-rx.org>
@@ -7391,17 +7391,17 @@ Table of Contents
 
 ## 问答
 
-> 强烈推荐阅读 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) ⭐ 35,755 | 🐛 11 | 🌐 JavaScript | 📅 2025-01-01、[《如何向开源社区提问题》](https://github.com/seajs/seajs/issues/545) ⭐ 8,255 | 🐛 157 | 🌐 JavaScript | 📅 2023-07-03 和 [《如何有效地报告 Bug》](http://www.chiark.greenend.org.uk/%7Esgtatham/bugs-cn.html)、[《如何向开源项目提交无法解答的问题》](https://zhuanlan.zhihu.com/p/25795393)，更好的问题更容易获得帮助。
+> 强烈推荐阅读 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) ⭐ 35,760 | 🐛 11 | 🌐 JavaScript | 📅 2025-01-01、[《如何向开源社区提问题》](https://github.com/seajs/seajs/issues/545) ⭐ 8,255 | 🐛 157 | 🌐 JavaScript | 📅 2023-07-03 和 [《如何有效地报告 Bug》](http://www.chiark.greenend.org.uk/%7Esgtatham/bugs-cn.html)、[《如何向开源项目提交无法解答的问题》](https://zhuanlan.zhihu.com/p/25795393)，更好的问题更容易获得帮助。
 
 ## 写作
 
-* <https://github.com/typst/typst> ⭐ 55,979 | 🐛 1,292 | 🌐 Rust | 📅 2026-09-12
-* [掘金计划- 中文文案排版](https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97) ⭐ 34,339 | 🐛 15 | 📅 2024-04-17
-* [中文文案排版](https://github.com/sparanoid/chinese-copywriting-guidelines) ⭐ 15,682 | 🐛 30 | 📅 2026-07-07
-* <https://github.com/tw93/kami> ⭐ 11,464 | 🐛 1 | 🌐 HTML | 📅 2026-09-12 Good content deserves good paper.
-* <https://github.com/wechatsync/Wechatsync> ⭐ 6,292 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27
-* <https://github.com/HugoBlox/theme-academic-cv> ⭐ 5,061 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-06
-* <https://github.com/shanleiguang/vRain> ⭐ 1,656 | 🐛 10 | 🌐 Perl | 📅 2026-06-14
+* <https://github.com/typst/typst> ⭐ 55,995 | 🐛 1,292 | 🌐 Rust | 📅 2026-09-12
+* [掘金计划- 中文文案排版](https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97) ⭐ 34,338 | 🐛 15 | 📅 2024-04-17
+* [中文文案排版](https://github.com/sparanoid/chinese-copywriting-guidelines) ⭐ 15,684 | 🐛 30 | 📅 2026-07-07
+* <https://github.com/tw93/kami> ⭐ 11,480 | 🐛 1 | 🌐 HTML | 📅 2026-09-12 Good content deserves good paper.
+* <https://github.com/wechatsync/Wechatsync> ⭐ 6,296 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27
+* <https://github.com/HugoBlox/theme-academic-cv> ⭐ 5,060 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-13
+* <https://github.com/shanleiguang/vRain> ⭐ 1,657 | 🐛 10 | 🌐 Perl | 📅 2026-06-14
 * <https://github.com/writing-resources/awesome-scientific-writing> ⭐ 1,001 | 🐛 5 | 📅 2026-09-05
 * [赫蹏](https://sivan.github.io/heti/)
 * [中文技术文档写作风格指南 ](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
@@ -7413,13 +7413,13 @@ Table of Contents
 
 ## OCR
 
-* <https://github.com/Yuliang-Liu/MonkeyOCR> ⭐ 6,639 | 🐛 0 | 🌐 Python | 📅 2026-07-20
+* <https://github.com/Yuliang-Liu/MonkeyOCR> ⭐ 6,640 | 🐛 0 | 🌐 Python | 📅 2026-07-20
 * <https://github.com/chatdoc-com/OCRFlux> ⭐ 2,530 | 🐛 70 | 🌐 Python | 📅 2026-04-14
 
 ## Code-Editor
 
-* <https://github.com/NvChad/NvChad> ⭐ 28,483 | 🐛 3 | 🌐 Lua | 📅 2026-07-03
-* <https://github.com/athasdev/athas> ⭐ 3,053 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-11
+* <https://github.com/NvChad/NvChad> ⭐ 28,480 | 🐛 3 | 🌐 Lua | 📅 2026-07-03
+* <https://github.com/athasdev/athas> ⭐ 3,055 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-12
 * <https://github.com/Infatoshi/OpenSquirrel>
 
 ## 游戏策划
@@ -7442,26 +7442,26 @@ Table of Contents
 
 ## Windows-Optimizer
 
-* <https://github.com/Raphire/Win11Debloat> ⭐ 57,054 | 🐛 29 | 🌐 PowerShell | 📅 2026-09-10
-* <https://github.com/pranshuparmar/witr> ⭐ 22,220 | 🐛 16 | 🌐 Go | 📅 2026-08-15
-* <https://github.com/memstechtips/Winhance> ⭐ 12,974 | 🐛 77 | 🌐 C# | 📅 2026-09-10
+* <https://github.com/Raphire/Win11Debloat> ⭐ 57,114 | 🐛 29 | 🌐 PowerShell | 📅 2026-09-10
+* <https://github.com/pranshuparmar/witr> ⭐ 22,270 | 🐛 16 | 🌐 Go | 📅 2026-08-15
+* <https://github.com/memstechtips/Winhance> ⭐ 12,983 | 🐛 77 | 🌐 C# | 📅 2026-09-13
 
 ## Interest is the best teacher
 
-* <https://github.com/Anduin2017/HowToCook> ⭐ 102,202 | 🐛 465 | 📅 2026-09-03
-* <https://github.com/geekan/HowToLiveLonger> ⭐ 35,105 | 🐛 42 | 📅 2025-05-19
-* <https://github.com/Gar-b-age/CookLikeHOC> ⭐ 24,617 | 🐛 133 | 🌐 Dockerfile | 📅 2026-09-11
-* [天涯 kkndme 神贴聊房价](https://github.com/shengcaishizhan/kkndme_tianya) ⭐ 19,440 | 🐛 62 | 📅 2026-06-04
+* <https://github.com/Anduin2017/HowToCook> ⭐ 102,206 | 🐛 465 | 📅 2026-09-03
+* <https://github.com/geekan/HowToLiveLonger> ⭐ 35,104 | 🐛 42 | 📅 2025-05-19
+* <https://github.com/Gar-b-age/CookLikeHOC> ⭐ 24,620 | 🐛 133 | 🌐 Dockerfile | 📅 2026-09-11
+* [天涯 kkndme 神贴聊房价](https://github.com/shengcaishizhan/kkndme_tianya) ⭐ 19,439 | 🐛 62 | 📅 2026-06-04
 * <https://github.com/easychen/one-person-businesses-methodology> ⭐ 8,366 | 🐛 2 | 📅 2024-03-28 一人公司方法论
-* <https://github.com/itgoyo/TelegramGroup> ⭐ 5,741 | 🐛 1 | 📅 2026-09-11
+* <https://github.com/itgoyo/TelegramGroup> ⭐ 5,745 | 🐛 1 | 📅 2026-09-11
 * [上海买房](https://github.com/ayuer/shanghai_house_knowledge) ⭐ 5,103 | 🐛 1 | 📅 2021-07-23
-* <https://github.com/liu-ziting/what-to-eat> ⭐ 3,524 | 🐛 19 | 🌐 Vue | 📅 2026-01-12
-* [天涯神贴](https://github.com/jiji262/tianya-docs) ⭐ 2,979 | 🐛 3 | 📅 2026-07-28
-* <https://github.com/mgks/docmd> ⭐ 2,449 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-09  Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
-* <https://github.com/alaskasquirrel/Chinese-Podcasts> ⭐ 2,075 | 🐛 4 | 📅 2023-10-06
+* <https://github.com/liu-ziting/what-to-eat> ⭐ 3,523 | 🐛 19 | 🌐 Vue | 📅 2026-01-12
+* [天涯神贴](https://github.com/jiji262/tianya-docs) ⭐ 2,980 | 🐛 3 | 📅 2026-07-28
+* <https://github.com/mgks/docmd> ⭐ 2,448 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-13  Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
+* <https://github.com/alaskasquirrel/Chinese-Podcasts> ⭐ 2,074 | 🐛 4 | 📅 2023-10-06
 * <https://github.com/soulteary/tenant-point> ⭐ 1,646 | 🐛 0 | 📅 2019-10-08 程序员如何租房子
 * <https://github.com/beiliangshizi/China_House> ⭐ 1,418 | 🐛 3 | 📅 2023-10-07 程序员如何租房子
-* <https://github.com/worryzyy/HowToCook-mcp> ⭐ 771 | 🐛 13 | 🌐 TypeScript | 📅 2026-07-08
+* <https://github.com/worryzyy/HowToCook-mcp> ⭐ 770 | 🐛 13 | 🌐 TypeScript | 📅 2026-07-08
 * <https://github.com/pipiliang/hello-comic> ⭐ 305 | 🐛 0 | 📅 2020-04-04  程序员漫画
 * <https://github.com/Odaimoko/ACE-CPT-Notes> ⚠️ Archived 程序员如何健身
 * <https://youquhome.com/>
@@ -7484,7 +7484,7 @@ Table of Contents
 * <https://www.yuque.com/greatghoul/remote> 远程工作
 * <https://ctext.org/book-of-poetry/zhs> 中国哲学电子书
 
-- <https://github.com/maxiaobang7/ossnav> ⭐ 2,989 | 🐛 3 | 📅 2026-09-08 开源精选：探索免费优质的开源软件工具，尽享数字自由
+- <https://github.com/maxiaobang7/ossnav> ⭐ 2,993 | 🐛 3 | 📅 2026-09-08 开源精选：探索免费优质的开源软件工具，尽享数字自由
 - [Awesome-offer](https://github.com/lietoumai/Awesome-offer) ⭐ 1,630 | 🐛 62 | 📅 2024-02-07
 - [sakura](https://sakura-cat3.com/) 你懂得
 - [flashgates](https://web.flashgates.com/trial)
@@ -7492,11 +7492,11 @@ Table of Contents
 
 ## 友情链接
 
-* [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) ⭐ 75,564 | 🐛 157 | 🌐 HTML | 📅 2026-09-06
-* [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining) ⭐ 9,136 | 🐛 7 | 🌐 C# | 📅 2026-09-02
-* [网络手游开发技术图谱](https://github.com/gonglei007/GameDevMind) ⭐ 6,525 | 🐛 2 | 🌐 Python | 📅 2026-08-11 网络手游开发知识、技术与信息库，游戏研发技术从业者的导航地图
-* [OpenGraphic](https://github.com/Gforcex/OpenGraphic) ⭐ 2,281 | 🐛 3 | 📅 2026-09-02
-* [indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus) ⭐ 1,840 | 🐛 62 | 📅 2026-09-12 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的
+* [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) ⭐ 75,583 | 🐛 158 | 🌐 HTML | 📅 2026-09-06
+* [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining) ⭐ 9,137 | 🐛 7 | 🌐 C# | 📅 2026-09-02
+* [网络手游开发技术图谱](https://github.com/gonglei007/GameDevMind) ⭐ 6,526 | 🐛 2 | 🌐 Python | 📅 2026-08-11 网络手游开发知识、技术与信息库，游戏研发技术从业者的导航地图
+* [OpenGraphic](https://github.com/Gforcex/OpenGraphic) ⭐ 2,282 | 🐛 3 | 📅 2026-09-02
+* [indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus) ⭐ 1,841 | 🐛 63 | 📅 2026-09-13 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的
 * [GameAndUnity](https://github.com/m969/GameAndUnity-TechLib) ⭐ 526 | 🐛 1 | 📅 2025-10-17
 * [ModernGraphicsEngineGuide](https://github.com/Italink/ModernGraphicsEngineGuide) ⭐ 482 | 🐛 1 | 🌐 C++ | 📅 2025-12-16
 * [大崔](https://github.com/Go1c/AboutGameEngineGraphics) ⭐ 284 | 🐛 0 | 📅 2020-10-16
@@ -7522,4 +7522,4 @@ Table of Contents
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
